@@ -1,4 +1,15 @@
 App_Name,Review_Text,Star_Rating,Timestamp,App_Source,Cleaned_Review,Sentiment_Score,Sentiment_Label,Review_Length
+AarogyaSetu,app login problem,1,2026-05-16 11:37:33,AarogyaSetu,app login problem,0.0,Neutral,17
+AarogyaSetu,best,5,2026-05-14 19:50:24,AarogyaSetu,best,1.0,Positive,4
+AarogyaSetu,is there anything new?,4,2026-05-13 05:03:45,AarogyaSetu,is there anything new,0.13636363636363635,Positive,21
+AarogyaSetu,good,5,2026-05-13 00:46:04,AarogyaSetu,good,0.7,Positive,4
+AarogyaSetu,Sir maine divice change Kiya hai to ye app ab mere mobile Mai chal nahi Raha hai mera same email id hai phir bhi nahi chal Raha hai,5,2026-05-10 20:48:39,AarogyaSetu,sir maine divice change kiya hai to ye app ab mere mobile mai chal nahi raha hai mera same email id hai phir bhi nahi chal raha hai,-0.25,Negative,131
+AarogyaSetu,"The app fails to start even after 24 hours of downtime. Only throws ""there is some error logging you in"" ur way without providing step-by-step ways to resolve the issue. For the record, I have done everything to make the app work. Turning on bluetooth & location, syncing the date with the network. etc.",1,2026-05-10 06:19:26,AarogyaSetu,the app fails to start even after 24 hours of downtime only throws there is some error logging you in ur way without providing stepbystep ways to resolve the issue for the record i have done everything to make the app work turning on bluetooth  location syncing the date with the network etc,-0.25,Negative,291
+AarogyaSetu,nor work,1,2026-05-09 17:59:49,AarogyaSetu,nor work,0.0,Neutral,8
+AarogyaSetu,Cannot login,1,2026-05-08 03:49:55,AarogyaSetu,cannot login,0.0,Neutral,12
+AarogyaSetu,very good,4,2026-05-06 10:59:23,AarogyaSetu,very good,0.9099999999999999,Positive,9
+AarogyaSetu,good app,5,2026-05-06 10:21:24,AarogyaSetu,good app,0.7,Positive,8
+AarogyaSetu,"It's almost been 3.5 years Since Pandemic went away, this app has 100M+ download, why to not take advantage? why don't start monitering different types of virals? or just this app into a Fitness utility🤦🏻",1,2026-05-06 09:17:42,AarogyaSetu,its almost been 35 years since pandemic went away this app has 100m download why to not take advantage why dont start monitering different types of virals or just this app into a fitness utility,0.0,Neutral,194
 AarogyaSetu,all is well,5,2026-05-05 16:04:52,AarogyaSetu,all is well,0.0,Neutral,11
 AarogyaSetu,app is good. But not able to log in for last few months. No customer care no available. Do not know whom to approach.🙁,4,2026-05-02 10:40:06,AarogyaSetu,app is good but not able to log in for last few months no customer care no available do not know whom to approach,0.009999999999999986,Neutral,113
 AarogyaSetu,excellent,5,2026-05-02 09:53:31,AarogyaSetu,excellent,1.0,Positive,9
@@ -478,17 +489,250 @@ AarogyaSetu,"Corona is returning, and this app is not working. There is an error
 AarogyaSetu,app has much more bugs and glitches and login problem also,1,2025-05-28 13:52:01,AarogyaSetu,app has much more bugs and glitches and login problem also,0.5,Positive,58
 AarogyaSetu,solo service,3,2025-05-28 12:19:09,AarogyaSetu,solo service,0.0,Neutral,12
 AarogyaSetu,not login. unstable. not recognised mobile number,1,2025-05-28 08:05:05,AarogyaSetu,not login unstable not recognised mobile number,0.0,Neutral,47
-AarogyaSetu,"I'm not able to login in the app. After I put my contact no. , it says There is some error logging you in",2,2025-05-27 21:46:01,AarogyaSetu,im not able to login in the app after i put my contact no  it says there is some error logging you in,-0.25,Negative,101
-AarogyaSetu,it's hanging repeatedly why??,1,2025-05-27 19:55:32,AarogyaSetu,its hanging repeatedly why,0.0,Neutral,26
-AarogyaSetu,Not able to Login this app now..always shows error while login. Please resolve this asap.,4,2025-05-27 19:24:12,AarogyaSetu,not able to login this app nowalways shows error while login please resolve this asap,-0.25,Negative,85
-AarogyaSetu,Not able to login. Says error after input of mobile number.,1,2025-05-27 19:14:41,AarogyaSetu,not able to login says error after input of mobile number,-0.25,Negative,57
-AarogyaSetu,work hi nhi kar raha hai,1,2025-05-27 17:37:23,AarogyaSetu,work hi nhi kar raha hai,0.0,Neutral,24
-AarogyaSetu,consistently facing login issue,1,2025-05-27 12:01:11,AarogyaSetu,consistently facing login issue,0.25,Positive,31
-AarogyaSetu,The great Indian app for tracking corona patients but now on 27 may 2025 I can't login to this app this seeing error logging number,5,2025-05-27 10:45:22,AarogyaSetu,the great indian app for tracking corona patients but now on 27 may 2025 i cant login to this app this seeing error logging number,0.8,Positive,130
-AarogyaSetu,Well downloaded this again amid rise in cases,4,2025-05-27 07:58:13,AarogyaSetu,well downloaded this again amid rise in cases,0.0,Neutral,45
-AarogyaSetu,Iam unable to login in my New Samsung Galaxy A36 Mobile. The Notifications are blocked for this app. and is not being shown in the System's notification. unable to resolve by myself.,1,2025-05-26 20:26:37,AarogyaSetu,iam unable to login in my new samsung galaxy a36 mobile the notifications are blocked for this app and is not being shown in the systems notification unable to resolve by myself,-0.2878787878787879,Negative,177
-AarogyaSetu,Login problem. This app should be relaunched with new updates in the wake of the recent increase in Corona.,1,2025-05-26 19:08:24,AarogyaSetu,login problem this app should be relaunched with new updates in the wake of the recent increase in corona,0.06818181818181818,Neutral,105
-AarogyaSetu,no loging,1,2025-05-26 16:18:08,AarogyaSetu,no loging,0.0,Neutral,9
+DigiLocker,year 2022 deta of 12 class is not available,1,2026-05-16 17:01:50,DigiLocker,year 2022 deta of 12 class is not available,-0.2,Negative,43
+DigiLocker,Diploma certificate issued year select problem,1,2026-05-16 16:32:39,DigiLocker,diploma certificate issued year select problem,0.0,Neutral,46
+DigiLocker,that is not best app,1,2026-05-16 15:30:24,DigiLocker,that is not best app,-0.5,Negative,20
+DigiLocker,nice,5,2026-05-16 14:52:12,DigiLocker,nice,0.6,Positive,4
+DigiLocker,says it's not supported on galaxy s8+,1,2026-05-16 14:34:02,DigiLocker,says its not supported on galaxy s8,0.0,Neutral,35
+DigiLocker,All my documents always in my phone and no needed to make my wallet full of plastic cards. AWESOME !!,5,2026-05-16 14:13:42,DigiLocker,all my documents always in my phone and no needed to make my wallet full of plastic cards awesome,0.675,Positive,97
+DigiLocker,मिसमॅटचिंग के डोकमेण्ट का hal nahi करता,1,2026-05-16 14:02:22,DigiLocker,मसमटचग क डकमणट क hal nahi करत,0.0,Neutral,29
+DigiLocker,The worst i can say in words...,1,2026-05-16 12:08:20,DigiLocker,the worst i can say in words,-1.0,Negative,28
+DigiLocker,thank,5,2026-05-16 11:33:31,DigiLocker,thank,0.0,Neutral,5
+DigiLocker,Stop locking me out of my own account!! I used the same PIN i changed minutes ago and the app says it's incorrect and therefore has locked me out. Are you kidding me?!,1,2026-05-16 10:33:04,DigiLocker,stop locking me out of my own account i used the same pin i changed minutes ago and the app says its incorrect and therefore has locked me out are you kidding me,0.3,Positive,161
+DigiLocker,good,5,2026-05-16 08:53:15,DigiLocker,good,0.7,Positive,4
+DigiLocker,very super and secure app service is very good,5,2026-05-16 08:44:12,DigiLocker,very super and secure app service is very good,0.581111111111111,Positive,46
+DigiLocker,good app for all time,5,2026-05-16 07:51:46,DigiLocker,good app for all time,0.7,Positive,21
+DigiLocker,good App,5,2026-05-16 07:29:47,DigiLocker,good app,0.7,Positive,8
+DigiLocker,Very good sir/mam!,5,2026-05-16 05:44:59,DigiLocker,very good sirmam,0.9099999999999999,Positive,16
+DigiLocker,app is not opening,1,2026-05-15 22:57:42,DigiLocker,app is not opening,0.0,Neutral,18
+DigiLocker,very nice 👍,5,2026-05-15 21:57:55,DigiLocker,very nice,0.78,Positive,9
+DigiLocker,good,5,2026-05-15 21:40:21,DigiLocker,good,0.7,Positive,4
+DigiLocker,"i couldn't download at all , like i have tried everything, my net is working well , i am able to download all other apps except this , how can i use previously it was downloaded and all my documents are saved in it, i mistakenly uninstalled it , and now i couldn't download it",1,2026-05-15 20:14:19,DigiLocker,i couldnt download at all  like i have tried everything my net is working well  i am able to download all other apps except this  how can i use previously it was downloaded and all my documents are saved in it i mistakenly uninstalled it  and now i couldnt download it,0.052083333333333336,Neutral,268
+DigiLocker,good app,5,2026-05-15 19:43:38,DigiLocker,good app,0.7,Positive,8
+DigiLocker,nice 🙂,4,2026-05-15 17:05:14,DigiLocker,nice,0.6,Positive,4
+DigiLocker,sabse bekar app aur NTA isse bhi jyada bekar Jo is app per Link karke form bharva Raha students Ko paresan kar Raha hai 4 din me form Nahi bhar Paya is app Ke vajah se vaise - me review Dena chahiye per Hai Nahi,1,2026-05-15 16:44:56,DigiLocker,sabse bekar app aur nta isse bhi jyada bekar jo is app per link karke form bharva raha students ko paresan kar raha hai 4 din me form nahi bhar paya is app ke vajah se vaise  me review dena chahiye per hai nahi,0.0,Neutral,210
+DigiLocker,good,5,2026-05-15 16:21:52,DigiLocker,good,0.7,Positive,4
+DigiLocker,digilocker My photo isn't visible in my private candidate marksheet released 2 days before kindly fix it and release a combined marksheet I have to join college this year that's why,4,2026-05-15 16:19:37,DigiLocker,digilocker my photo isnt visible in my private candidate marksheet released 2 days before kindly fix it and release a combined marksheet i have to join college this year thats why,0.3,Positive,179
+DigiLocker,good,5,2026-05-15 15:54:00,DigiLocker,good,0.7,Positive,4
+DigiLocker,i tried to update the latest version of Digi Locker App experience this app is no longer compatible with your device contact with developer for more info.,3,2026-05-15 15:07:53,DigiLocker,i tried to update the latest version of digi locker app experience this app is no longer compatible with your device contact with developer for more info,0.5,Positive,153
+DigiLocker,good,3,2026-05-15 14:55:52,DigiLocker,good,0.7,Positive,4
+DigiLocker,good 👍,5,2026-05-15 14:08:40,DigiLocker,good,0.7,Positive,4
+DigiLocker,good,5,2026-05-15 12:15:48,DigiLocker,good,0.7,Positive,4
+DigiLocker,ok ok,3,2026-05-15 12:11:09,DigiLocker,ok ok,0.5,Positive,5
+DigiLocker,good to use and perfect for any one to use and easy access to every document it's extent,5,2026-05-15 10:35:42,DigiLocker,good to use and perfect for any one to use and easy access to every document its extent,0.7111111111111111,Positive,87
+DigiLocker,good,5,2026-05-15 08:41:45,DigiLocker,good,0.7,Positive,4
+DigiLocker,awesome😊😊,5,2026-05-15 08:29:45,DigiLocker,awesome,1.0,Positive,7
+DigiLocker,very good govt application to download certificate,5,2026-05-15 07:56:13,DigiLocker,very good govt application to download certificate,0.9099999999999999,Positive,50
+DigiLocker,best,5,2026-05-14 23:28:14,DigiLocker,best,1.0,Positive,4
+DigiLocker,what is this here was more bugs and glitch,1,2026-05-14 22:45:37,DigiLocker,what is this here was more bugs and glitch,0.5,Positive,42
+DigiLocker,good work 💯,5,2026-05-14 22:26:12,DigiLocker,good work,0.7,Positive,9
+DigiLocker,App is not opening just downloaded,1,2026-05-14 20:39:33,DigiLocker,app is not opening just downloaded,0.0,Neutral,34
+DigiLocker,some time not work proper,4,2026-05-14 20:28:29,DigiLocker,some time not work proper,0.0,Neutral,25
+DigiLocker,nice,5,2026-05-14 18:11:49,DigiLocker,nice,0.6,Positive,4
+DigiLocker,सबसे ज्यादा काम याव,5,2026-05-14 16:23:28,DigiLocker,सबस जयद कम यव,0.0,Neutral,13
+DigiLocker,pathetic app server error always,1,2026-05-14 16:10:40,DigiLocker,pathetic app server error always,-1.0,Negative,32
+DigiLocker,nice app,5,2026-05-14 14:55:41,DigiLocker,nice app,0.6,Positive,8
+DigiLocker,good,5,2026-05-14 14:20:52,DigiLocker,good,0.7,Positive,4
+DigiLocker,bad,1,2026-05-14 13:45:25,DigiLocker,bad,-0.6999999999999998,Negative,3
+DigiLocker,worst app,1,2026-05-14 13:08:50,DigiLocker,worst app,-1.0,Negative,9
+DigiLocker,good,5,2026-05-14 12:00:27,DigiLocker,good,0.7,Positive,4
+DigiLocker,"developer bhai main kah raha tha ki adhar,pan ye sab digilocker me add ho ja raha hai but 10th and 12th marksheet add nahi ho raha hai specially bihar board ka. thoda fix kijiye 🙏",1,2026-05-14 11:36:01,DigiLocker,developer bhai main kah raha tha ki adharpan ye sab digilocker me add ho ja raha hai but 10th and 12th marksheet add nahi ho raha hai specially bihar board ka thoda fix kijiye,0.2619047619047619,Positive,175
+DigiLocker,good,5,2026-05-14 11:01:00,DigiLocker,good,0.7,Positive,4
+DigiLocker,very secured application,5,2026-05-14 08:52:28,DigiLocker,very secured application,0.2,Positive,24
+DigiLocker,good sarvisa,5,2026-05-14 08:38:35,DigiLocker,good sarvisa,0.7,Positive,12
+DigiLocker,this app is useful but it always need to relog,4,2026-05-14 07:09:05,DigiLocker,this app is useful but it always need to relog,0.3,Positive,46
+DigiLocker,"there is no documents before 2018 ,why?",2,2026-05-14 07:01:38,DigiLocker,there is no documents before 2018 why,0.0,Neutral,37
+DigiLocker,carry all the documents in one place vary easily,5,2026-05-14 00:43:54,DigiLocker,carry all the documents in one place vary easily,0.43333333333333335,Positive,48
+DigiLocker,Good 👍,5,2026-05-13 23:24:00,DigiLocker,good,0.7,Positive,4
+DigiLocker,good,5,2026-05-13 22:41:42,DigiLocker,good,0.7,Positive,4
+DigiLocker,Very Difficult for Login,1,2026-05-13 22:03:16,DigiLocker,very difficult for login,-0.65,Negative,24
+DigiLocker,amaizing,5,2026-05-13 19:48:27,DigiLocker,amaizing,0.0,Neutral,8
+DigiLocker,the result of class 12 no photo of students is available when the document is downloaded,1,2026-05-13 19:32:44,DigiLocker,the result of class 12 no photo of students is available when the document is downloaded,0.4,Positive,88
+DigiLocker,it is a good app but it lags some times like it shows an hidden error,4,2026-05-13 18:52:12,DigiLocker,it is a good app but it lags some times like it shows an hidden error,0.26666666666666666,Positive,69
+DigiLocker,"This is showing me again and again to verify aadhar card. When I verify then shows your aadhar is already registered but still don't download my documents. This is frustrating, seriously.",1,2026-05-13 18:06:21,DigiLocker,this is showing me again and again to verify aadhar card when i verify then shows your aadhar is already registered but still dont download my documents this is frustrating seriously,-0.3666666666666667,Negative,182
+DigiLocker,Good,5,2026-05-13 17:46:26,DigiLocker,good,0.7,Positive,4
+DigiLocker,waste,1,2026-05-13 17:27:37,DigiLocker,waste,-0.2,Negative,5
+DigiLocker,"best 2500 rupye bacha liye Bhai ne , top notch app h bhai , sbhi download kro bhai",5,2026-05-13 16:53:34,DigiLocker,best 2500 rupye bacha liye bhai ne  top notch app h bhai  sbhi download kro bhai,0.75,Positive,80
+DigiLocker,good,4,2026-05-13 15:35:18,DigiLocker,good,0.7,Positive,4
+DigiLocker,worst,1,2026-05-13 15:26:40,DigiLocker,worst,-1.0,Negative,5
+DigiLocker,it's good app and information colected. didilocker app help me always to store important files and documents. all files are important this app help me any were. there for many documents collected to app. some file small copy big or,5,2026-05-13 15:15:18,DigiLocker,its good app and information colected didilocker app help me always to store important files and documents all files are important this app help me any were there for many documents collected to app some file small copy big or,0.2916666666666667,Positive,226
+DigiLocker,worst app ever seen if I update all my files are vanished plz make good changes in this app,1,2026-05-13 13:12:06,DigiLocker,worst app ever seen if i update all my files are vanished plz make good changes in this app,-0.15000000000000002,Negative,91
+DigiLocker,worst experience on this app,1,2026-05-13 12:42:05,DigiLocker,worst experience on this app,-1.0,Negative,28
+DigiLocker,good,4,2026-05-13 12:04:59,DigiLocker,good,0.7,Positive,4
+DigiLocker,good,5,2026-05-13 12:02:46,DigiLocker,good,0.7,Positive,4
+DigiLocker,best,5,2026-05-13 11:24:14,DigiLocker,best,1.0,Positive,4
+DigiLocker,super,5,2026-05-13 10:55:22,DigiLocker,super,0.3333333333333333,Positive,5
+DigiLocker,good,5,2026-05-13 10:39:48,DigiLocker,good,0.7,Positive,4
+DigiLocker,I can't open the app reinstalled than also not working showing something wrong kindly solve the issue,1,2026-05-13 10:27:29,DigiLocker,i cant open the app reinstalled than also not working showing something wrong kindly solve the issue,0.033333333333333326,Neutral,100
+DigiLocker,very slow 🦥,1,2026-05-13 10:15:19,DigiLocker,very slow,-0.39000000000000007,Negative,9
+DigiLocker,mere community certificate add nai hota hai jab ki e district portal Assam me se download kar ra hoon lekin digilocker me not found bata ta hai...aap me avi vi bhout glitch hai,3,2026-05-13 10:13:37,DigiLocker,mere community certificate add nai hota hai jab ki e district portal assam me se download kar ra hoon lekin digilocker me not found bata ta haiaap me avi vi bhout glitch hai,-0.5,Negative,173
+DigiLocker,Thanks Very Good,5,2026-05-13 10:06:58,DigiLocker,thanks very good,0.5549999999999999,Positive,16
+DigiLocker,bahut badiya,5,2026-05-13 10:02:37,DigiLocker,bahut badiya,0.0,Neutral,12
+DigiLocker,very good,5,2026-05-13 09:33:21,DigiLocker,very good,0.9099999999999999,Positive,9
+DigiLocker,not good enough,5,2026-05-13 05:47:03,DigiLocker,not good enough,-0.175,Negative,15
+DigiLocker,wonderful✨😍,5,2026-05-13 03:30:06,DigiLocker,wonderful,1.0,Positive,9
+DigiLocker,Good .,4,2026-05-13 00:20:44,DigiLocker,good,0.7,Positive,4
+DigiLocker,ಸೂಪರ್ 🙏,3,2026-05-12 19:35:16,DigiLocker,ಸಪರ,0.0,Neutral,3
+DigiLocker,i am not able to think any worst word,1,2026-05-12 17:48:49,DigiLocker,i am not able to think any worst word,-0.625,Negative,37
+DigiLocker,Worst application,4,2026-05-12 16:54:32,DigiLocker,worst application,-1.0,Negative,17
+DigiLocker,very poor service🤮,1,2026-05-12 16:12:49,DigiLocker,very poor service,-0.52,Negative,17
+DigiLocker,super 👍,5,2026-05-12 15:38:12,DigiLocker,super,0.3333333333333333,Positive,5
+DigiLocker,worst experience there many document you cannot fetch they always show issue and the helpline doesn't help at all,1,2026-05-12 14:52:48,DigiLocker,worst experience there many document you cannot fetch they always show issue and the helpline doesnt help at all,-0.25,Negative,112
+DigiLocker,amazing work by government of India,5,2026-05-12 14:38:00,DigiLocker,amazing work by government of india,0.6000000000000001,Positive,35
+DigiLocker,the otp is being so late,1,2026-05-12 14:09:25,DigiLocker,the otp is being so late,-0.3,Negative,24
+DigiLocker,very bad experience,1,2026-05-12 14:06:00,DigiLocker,very bad experience,-0.9099999999999998,Negative,19
+DigiLocker,poor app,1,2026-05-12 14:05:10,DigiLocker,poor app,-0.4,Negative,8
+DigiLocker,bhout hi gu aap h iske otp khud time over hone ke baad aate h,1,2026-05-12 14:00:53,DigiLocker,bhout hi gu aap h iske otp khud time over hone ke baad aate h,0.0,Neutral,61
+DigiLocker,didn't get OTP.. Fuussshhh application,1,2026-05-12 13:52:49,DigiLocker,didnt get otp fuussshhh application,0.0,Neutral,35
+DigiLocker,nice,5,2026-05-12 13:46:55,DigiLocker,nice,0.6,Positive,4
+DigiLocker,The app is very slow as otp services is not working properly. UGC Net application got stopped in midway. this is so problematic as net aspirants are facing so much issues related to otp services in preliminary application level itself,1,2026-05-12 13:36:46,DigiLocker,the app is very slow as otp services is not working properly ugc net application got stopped in midway this is so problematic as net aspirants are facing so much issues related to otp services in preliminary application level itself,-0.031666666666666676,Neutral,232
+DigiLocker,this app is not easy to use i cannot even login with my phone or adhar my account was already created and I was not the one who created it and when I click forgot pin it is not accepting my birthdate please resolve this issue fast,1,2026-05-12 13:33:50,DigiLocker,this app is not easy to use i cannot even login with my phone or adhar my account was already created and i was not the one who created it and when i click forgot pin it is not accepting my birthdate please resolve this issue fast,-0.008333333333333331,Neutral,230
+DigiLocker,"the app is not opening in my phone, i tried updating it even reinstall it after deleting but the app still doesn't work.... please resolve my issue quickly",3,2026-05-12 13:01:48,DigiLocker,the app is not opening in my phone i tried updating it even reinstall it after deleting but the app still doesnt work please resolve my issue quickly,0.3333333333333333,Positive,149
+DigiLocker,very important app all students,5,2026-05-12 12:53:58,DigiLocker,very important app all students,0.52,Positive,31
+DigiLocker,login nahi ho Raha hai,1,2026-05-12 12:31:46,DigiLocker,login nahi ho raha hai,0.0,Neutral,22
+DigiLocker,goog,4,2026-05-12 12:21:47,DigiLocker,goog,0.0,Neutral,4
+DigiLocker,I am only able to view the active result links but I am not able to view coming soon notification on digi locker. Only able to see that feature on Umang,4,2026-05-12 11:49:59,DigiLocker,i am only able to view the active result links but i am not able to view coming soon notification on digi locker only able to see that feature on umang,0.10277777777777779,Positive,151
+DigiLocker,nice,5,2026-05-12 11:49:22,DigiLocker,nice,0.6,Positive,4
+DigiLocker,documents help,5,2026-05-12 11:03:06,DigiLocker,documents help,0.0,Neutral,14
+DigiLocker,very useful application form saving all documents and online verification is very easy,5,2026-05-12 10:57:16,DigiLocker,very useful application form saving all documents and online verification is very easy,0.4766666666666667,Positive,86
+DigiLocker,very good 👍,3,2026-05-12 10:33:38,DigiLocker,very good,0.9099999999999999,Positive,9
+DigiLocker,App is frequently crashing after latest update,2,2026-05-12 10:02:00,DigiLocker,app is frequently crashing after latest update,0.3,Positive,46
+DigiLocker,good app for students document safe,3,2026-05-12 09:44:30,DigiLocker,good app for students document safe,0.6,Positive,35
+DigiLocker,super,5,2026-05-12 08:26:27,DigiLocker,super,0.3333333333333333,Positive,5
+DigiLocker,"There is too much lag in this application. Whenever I try to log in again, it shows “Invalid option,” which is really frustrating. Even when I entered my correct date of birth, it still showed “Invalid DOB.” This app seriously needs improvement. Please fix these issues.",1,2026-05-12 07:08:44,DigiLocker,there is too much lag in this application whenever i try to log in again it shows invalid option which is really frustrating even when i entered my correct date of birth it still showed invalid dob this app seriously needs improvement please fix these issues,-0.17777777777777778,Negative,258
+DigiLocker,it's not showing year below 2023 as I was searching marksheet of my polytechnic,1,2026-05-12 04:44:05,DigiLocker,its not showing year below 2023 as i was searching marksheet of my polytechnic,0.0,Neutral,78
+DigiLocker,very nice 💯,5,2026-05-12 02:29:21,DigiLocker,very nice,0.78,Positive,9
+DigiLocker,kya faltu app hai isme mp board ke bohut se marksheet hi available nahi hai,2,2026-05-12 00:32:41,DigiLocker,kya faltu app hai isme mp board ke bohut se marksheet hi available nahi hai,0.4,Positive,75
+DigiLocker,good apps,4,2026-05-11 23:37:44,DigiLocker,good apps,0.7,Positive,9
+DigiLocker,good application,5,2026-05-11 21:25:07,DigiLocker,good application,0.7,Positive,16
+DigiLocker,11 may time aa gya h download karne ka,5,2026-05-11 21:04:20,DigiLocker,11 may time aa gya h download karne ka,0.0,Neutral,38
+DigiLocker,After Last Update nothing is working 🤔🤔🤔,1,2026-05-11 19:51:28,DigiLocker,after last update nothing is working,0.0,Neutral,36
+DigiLocker,Yes there's option but under a folder not in direct display,5,2026-05-11 19:38:34,DigiLocker,yes theres option but under a folder not in direct display,0.1,Neutral,58
+DigiLocker,nice,5,2026-05-11 19:19:05,DigiLocker,nice,0.6,Positive,4
+DigiLocker,I'm not able to get all the facilities from the app although I have registered a account like migration certificate etc,2,2026-05-11 19:12:36,DigiLocker,im not able to get all the facilities from the app although i have registered a account like migration certificate etc,-0.25,Negative,118
+DigiLocker,best and secure app,5,2026-05-11 17:31:52,DigiLocker,best and secure app,0.7,Positive,19
+DigiLocker,"I'm not able to log in,also otp is not coming to my registered mobile number.",1,2026-05-11 16:48:59,DigiLocker,im not able to log inalso otp is not coming to my registered mobile number,-0.25,Negative,74
+DigiLocker,better,5,2026-05-11 16:48:52,DigiLocker,better,0.5,Positive,6
+DigiLocker,good 👍,5,2026-05-11 16:20:35,DigiLocker,good,0.7,Positive,4
+DigiLocker,good,5,2026-05-11 15:11:22,DigiLocker,good,0.7,Positive,4
+DigiLocker,Goods. please app dark mode need apply. white light eye probhem here.. black eye see goods,5,2026-05-11 15:04:20,DigiLocker,goods please app dark mode need apply white light eye probhem here black eye see goods,0.020833333333333336,Neutral,86
+DigiLocker,worst app,1,2026-05-11 14:30:35,DigiLocker,worst app,-1.0,Negative,9
+DigiLocker,"Significant stability issues are currently rendering this application unusable, particularly during high-priority scenarios. The app frequently fails to launch or freezes upon opening. This persistent lack of reliability has caused substantial disruptions to my workflow. I urge the development team to prioritize a fix for these critical bugs immediately.",1,2026-05-11 14:17:10,DigiLocker,significant stability issues are currently rendering this application unusable particularly during highpriority scenarios the app frequently fails to launch or freezes upon opening this persistent lack of reliability has caused substantial disruptions to my workflow i urge the development team to prioritize a fix for these critical bugs immediately,0.008333333333333326,Neutral,350
+DigiLocker,I'm unable to sync my ABHA HEALTH ID CARD.,1,2026-05-11 13:33:32,DigiLocker,im unable to sync my abha health id card,-0.5,Negative,40
+DigiLocker,nice,5,2026-05-11 12:42:04,DigiLocker,nice,0.6,Positive,4
+DigiLocker,Good,4,2026-05-11 11:33:25,DigiLocker,good,0.7,Positive,4
+DigiLocker,bekar app hh hmesh meri low percentage ati hh,1,2026-05-11 11:27:29,DigiLocker,bekar app hh hmesh meri low percentage ati hh,0.0,Neutral,45
+DigiLocker,not working for Android 9.0 can't able to install,1,2026-05-11 10:33:49,DigiLocker,not working for android 90 cant able to install,0.5,Positive,47
+DigiLocker,this app is totally waste They want us to varify but they dont provide Otp if a person is having a emergency than 🔥this app is totally waste,1,2026-05-11 09:33:16,DigiLocker,this app is totally waste they want us to varify but they dont provide otp if a person is having a emergency than this app is totally waste,-0.2,Negative,139
+DigiLocker,numero Uno. No other equallyworthy app to compare it with. granddd service in deed.,5,2026-05-11 08:39:20,DigiLocker,numero uno no other equallyworthy app to compare it with granddd service in deed,0.0625,Neutral,80
+DigiLocker,are bhai isme bihar ka document bhi to add kro,2,2026-05-11 08:09:12,DigiLocker,are bhai isme bihar ka document bhi to add kro,0.0,Neutral,46
+DigiLocker,This app is good to store document it legally right for everyone but the document search and uploading in system of such documents are not working please fix it,4,2026-05-11 08:06:13,DigiLocker,this app is good to store document it legally right for everyone but the document search and uploading in system of such documents are not working please fix it,0.32857142857142857,Positive,160
+DigiLocker,very well app. It is very useful for Govt exams.,5,2026-05-11 07:52:43,DigiLocker,very well app it is very useful for govt exams,0.29500000000000004,Positive,46
+DigiLocker,nice,2,2026-05-11 07:49:44,DigiLocker,nice,0.6,Positive,4
+DigiLocker,thank you,5,2026-05-11 06:12:40,DigiLocker,thank you,0.0,Neutral,9
+DigiLocker,class 10th and class 12th marksheet not available,3,2026-05-11 00:54:37,DigiLocker,class 10th and class 12th marksheet not available,-0.2,Negative,49
+DigiLocker,"worst security service, too much problems logging in",1,2026-05-11 00:18:59,DigiLocker,worst security service too much problems logging in,-0.4,Negative,51
+DigiLocker,nise,5,2026-05-10 21:17:04,DigiLocker,nise,0.0,Neutral,4
+DigiLocker,The app crashed immediately when trying to open.,1,2026-05-10 18:23:54,DigiLocker,the app crashed immediately when trying to open,0.0,Neutral,47
+DigiLocker,it keeps crashing on my pixel 8 pro . even after reinstalling it still crashes.,1,2026-05-10 17:20:31,DigiLocker,it keeps crashing on my pixel 8 pro  even after reinstalling it still crashes,0.0,Neutral,77
+DigiLocker,"Hello DigiLocker Team, I am facing a problem in DigiLocker. The document fetching/flashing option is not working properly and it shows “No Record Found” even though my details are correct. Please solve this issue as soon as possible. Thank you.",5,2026-05-10 16:24:58,DigiLocker,hello digilocker team i am facing a problem in digilocker the document fetchingflashing option is not working properly and it shows no record found even though my details are correct please solve this issue as soon as possible thank you,0.0,Neutral,236
+DigiLocker,Nice government app...,4,2026-05-10 16:03:16,DigiLocker,nice government app,0.6,Positive,19
+DigiLocker,"worst, whenever I need it after 20-30 days it never have documents uploaded even I upload it many times and now I try to login the app stops responding. very disappointing whenever I need document on my phone.",1,2026-05-10 14:57:10,DigiLocker,worst whenever i need it after 2030 days it never have documents uploaded even i upload it many times and now i try to login the app stops responding very disappointing whenever i need document on my phone,-0.4266666666666667,Negative,205
+DigiLocker,Nice,5,2026-05-10 14:42:19,DigiLocker,nice,0.6,Positive,4
+DigiLocker,their is no option of add documents of bihar state examination board (BSEB) update this bug as soon as possible,1,2026-05-10 14:03:07,DigiLocker,their is no option of add documents of bihar state examination board bseb update this bug as soon as possible,0.0,Neutral,109
+DigiLocker,Time pass,3,2026-05-10 13:05:43,DigiLocker,time pass,0.0,Neutral,9
+DigiLocker,not working properly error close VPN.nothing is open,1,2026-05-10 12:17:38,DigiLocker,not working properly error close vpnnothing is open,0.0,Neutral,51
+DigiLocker,Nice application,5,2026-05-10 11:03:06,DigiLocker,nice application,0.6,Positive,16
+DigiLocker,Very poor service.,3,2026-05-10 11:00:01,DigiLocker,very poor service,-0.52,Negative,17
+DigiLocker,ভাল এপ কেটিয়াবা কামত আহিব,5,2026-05-10 10:52:03,DigiLocker,ভল এপ কটয়ব কমত আহব,0.0,Neutral,18
+DigiLocker,truly nice app,4,2026-05-10 10:43:46,DigiLocker,truly nice app,0.6,Positive,14
+DigiLocker,nice app,5,2026-05-10 09:39:11,DigiLocker,nice app,0.6,Positive,8
+DigiLocker,"Horrible experience with this I noticed after a while that in switch account option showing a different account which is not mine and even in my account details a different phone number is showing which is also not mine, What is this nonsense, I can't even remove that account really feeling helpless, is that way our documents are safe ?",1,2026-05-10 09:00:55,DigiLocker,horrible experience with this i noticed after a while that in switch account option showing a different account which is not mine and even in my account details a different phone number is showing which is also not mine what is this nonsense i cant even remove that account really feeling helpless is that way our documents are safe,-0.06000000000000001,Neutral,332
+DigiLocker,Didn't work,1,2026-05-10 08:45:53,DigiLocker,didnt work,0.0,Neutral,10
+DigiLocker,"Very Good App, Thank You 🙂",4,2026-05-10 08:04:39,DigiLocker,very good app thank you,0.9099999999999999,Positive,23
+DigiLocker,poor service,1,2026-05-09 22:42:07,DigiLocker,poor service,-0.4,Negative,12
+DigiLocker,not fetching degree certificate. very bad app,1,2026-05-09 22:13:11,DigiLocker,not fetching degree certificate very bad app,-0.9099999999999998,Negative,44
+DigiLocker,login trouble 😔😔,1,2026-05-09 20:56:22,DigiLocker,login trouble,-0.2,Negative,13
+DigiLocker,I am unable to login as I have forgotten the security pin and when I am using forgot pin option ..I am not getting otp on my registered number...Plz help me to login my account.,3,2026-05-09 19:08:47,DigiLocker,i am unable to login as i have forgotten the security pin and when i am using forgot pin option i am not getting otp on my registered numberplz help me to login my account,-0.5,Negative,171
+DigiLocker,very good app hai,5,2026-05-09 19:05:35,DigiLocker,very good app hai,0.9099999999999999,Positive,17
+DigiLocker,isn't starting in pixel 10,1,2026-05-09 18:47:38,DigiLocker,isnt starting in pixel 10,0.0,Neutral,25
+DigiLocker,Not worth it,1,2026-05-09 18:17:15,DigiLocker,not worth it,-0.15,Negative,12
+DigiLocker,always asking for updates. and asking for deleting other important apps. fed up.,1,2026-05-09 17:45:23,DigiLocker,always asking for updates and asking for deleting other important apps fed up,0.1375,Positive,77
+DigiLocker,asp is not working otp not giving,1,2026-05-09 17:17:11,DigiLocker,asp is not working otp not giving,0.0,Neutral,33
+DigiLocker,unable to add SSC certificate in this the year last 2019 now we are living in 2026 neglecting their responsibility to update year...,2,2026-05-09 16:00:43,DigiLocker,unable to add ssc certificate in this the year last 2019 now we are living in 2026 neglecting their responsibility to update year,-0.25,Negative,129
+DigiLocker,At the starting it was working smoothly but afterwards not a single document is downloading and all the details are given correctly then also... Please fix the issue asap,2,2026-05-09 15:23:29,DigiLocker,at the starting it was working smoothly but afterwards not a single document is downloading and all the details are given correctly then also please fix the issue asap,0.14523809523809525,Positive,167
+DigiLocker,nor working,1,2026-05-09 13:59:20,DigiLocker,nor working,0.0,Neutral,11
+DigiLocker,all is ok but recently released intermediate of ap results digilocker is not showing the academic year 2026 it means intermediate Andhra pradhesh results of academic year 2026 is not uploaded yet,3,2026-05-09 13:53:03,DigiLocker,all is ok but recently released intermediate of ap results digilocker is not showing the academic year 2026 it means intermediate andhra pradhesh results of academic year 2026 is not uploaded yet,0.125,Positive,195
+DigiLocker,fine,5,2026-05-09 13:14:03,DigiLocker,fine,0.4166666666666667,Positive,4
+DigiLocker,good,4,2026-05-09 12:51:43,DigiLocker,good,0.7,Positive,4
+DigiLocker,Please update the app because the TBSE Board Result section is still showing only 2025 results. The 2026 result is not available yet. Kindly fix this issue as soon as possible. Edit: i not get any solution,2,2026-05-09 12:29:32,DigiLocker,please update the app because the tbse board result section is still showing only 2025 results the 2026 result is not available yet kindly fix this issue as soon as possible edit i not get any solution,0.09999999999999999,Neutral,201
+DigiLocker,excellent,5,2026-05-09 12:05:56,DigiLocker,excellent,1.0,Positive,9
+DigiLocker,Very bad rsponse,1,2026-05-09 10:53:40,DigiLocker,very bad rsponse,-0.9099999999999998,Negative,16
+DigiLocker,good,5,2026-05-09 10:41:30,DigiLocker,good,0.7,Positive,4
+DigiLocker,very good 👍,5,2026-05-09 10:38:12,DigiLocker,very good,0.9099999999999999,Positive,9
+DigiLocker,Thank you.I lost my Sim card and Aadhaar card.Digilocker helped me retrieve.,5,2026-05-09 00:31:54,DigiLocker,thank youi lost my sim card and aadhaar carddigilocker helped me retrieve,0.0,Neutral,73
+DigiLocker,"Please verify documents using Aadhaar and roll numbers instead of matching names, as minor spelling mismatches currently block my marksheet downloads",5,2026-05-09 00:08:04,DigiLocker,please verify documents using aadhaar and roll numbers instead of matching names as minor spelling mismatches currently block my marksheet downloads,-0.025,Neutral,148
+DigiLocker,One of the worst app I have ever used,1,2026-05-08 23:14:18,DigiLocker,one of the worst app i have ever used,-1.0,Negative,37
+DigiLocker,super,5,2026-05-08 22:34:18,DigiLocker,super,0.3333333333333333,Positive,5
+DigiLocker,very good to use,5,2026-05-08 22:23:09,DigiLocker,very good to use,0.9099999999999999,Positive,16
+DigiLocker,best super,5,2026-05-08 21:14:47,DigiLocker,best super,0.6666666666666666,Positive,10
+DigiLocker,"Digilocker show wrong data, it takes mismatch data.",1,2026-05-08 20:59:15,DigiLocker,digilocker show wrong data it takes mismatch data,-0.5,Negative,49
+DigiLocker,I have completed my 12th in 2025 and still it doesn't show certificate add option of 2025 12th certificate,3,2026-05-08 20:55:33,DigiLocker,i have completed my 12th in 2025 and still it doesnt show certificate add option of 2025 12th certificate,0.0,Neutral,105
+DigiLocker,useless!,1,2026-05-08 20:46:00,DigiLocker,useless,-0.5,Negative,7
+DigiLocker,seamless,1,2026-05-08 18:50:10,DigiLocker,seamless,0.1,Neutral,8
+DigiLocker,Nice,5,2026-05-08 17:31:03,DigiLocker,nice,0.6,Positive,4
+DigiLocker,very nice,4,2026-05-08 16:38:41,DigiLocker,very nice,0.78,Positive,9
+DigiLocker,nice,5,2026-05-08 15:39:37,DigiLocker,nice,0.6,Positive,4
+DigiLocker,In this app login & verification problems after update.Other wise it is better. It is not easily handy for relogin. This is Indian government app But after updates It is blocked my account.There is no unblock facility available now Developer take action,1,2026-05-08 15:10:42,DigiLocker,in this app login  verification problems after updateother wise it is better it is not easily handy for relogin this is indian government app but after updates it is blocked my accountthere is no unblock facility available now developer take action,0.27999999999999997,Positive,248
+DigiLocker,I am not able to add Maharashtra HSC marksheet as the year 2026 is not appearing in year selection list. Why year 2026 is not present in Maharashtra HSC board marksheet download option ? There are 2024 year present twice but not 2026.,1,2026-05-08 15:06:16,DigiLocker,i am not able to add maharashtra hsc marksheet as the year 2026 is not appearing in year selection list why year 2026 is not present in maharashtra hsc board marksheet download option  there are 2024 year present twice but not 2026,-0.08333333333333333,Neutral,231
+DigiLocker,good company,5,2026-05-08 14:05:03,DigiLocker,good company,0.7,Positive,12
+DigiLocker,safe and good,5,2026-05-08 13:20:56,DigiLocker,safe and good,0.6,Positive,13
+DigiLocker,bakwaas,1,2026-05-08 13:10:53,DigiLocker,bakwaas,0.0,Neutral,7
+DigiLocker,unable to verify adhar card due to technical issues,4,2026-05-08 12:57:30,DigiLocker,unable to verify adhar card due to technical issues,-0.20833333333333334,Negative,51
+DigiLocker,very good,5,2026-05-08 12:07:48,DigiLocker,very good,0.9099999999999999,Positive,9
+DigiLocker,not working properly,3,2026-05-08 10:48:30,DigiLocker,not working properly,0.0,Neutral,20
+DigiLocker,good awesome app,5,2026-05-08 07:48:47,DigiLocker,good awesome app,0.85,Positive,16
+DigiLocker,great,5,2026-05-08 07:27:49,DigiLocker,great,0.8,Positive,5
+DigiLocker,very good,5,2026-05-08 02:23:25,DigiLocker,very good,0.9099999999999999,Positive,9
+DigiLocker,"plz help me i m from Hyderabad telangana state, when i m updating my vehicle documents facing how to change vehicle RC state from karnataka to telangana...",5,2026-05-08 01:15:51,DigiLocker,plz help me i m from hyderabad telangana state when i m updating my vehicle documents facing how to change vehicle rc state from karnataka to telangana,0.0,Neutral,151
+DigiLocker,make it easy to enroll,4,2026-05-07 22:44:08,DigiLocker,make it easy to enroll,0.43333333333333335,Positive,22
+DigiLocker,"Very worst app, I am very disappointed by this poor app services.",1,2026-05-07 22:03:06,DigiLocker,very worst app i am very disappointed by this poor app services,-0.7916666666666666,Negative,63
+DigiLocker,very good 👍,5,2026-05-07 20:27:55,DigiLocker,very good,0.9099999999999999,Positive,9
+DigiLocker,good good,5,2026-05-07 20:00:02,DigiLocker,good good,0.7,Positive,9
+DigiLocker,good app,4,2026-05-07 19:46:53,DigiLocker,good app,0.7,Positive,8
+DigiLocker,super,5,2026-05-07 19:40:34,DigiLocker,super,0.3333333333333333,Positive,5
+DigiLocker,good,5,2026-05-07 19:35:47,DigiLocker,good,0.7,Positive,4
+DigiLocker,I'm not able to find the telengana 12th board marksheet .even if I search TSBIE or TGBIE .I need it for my entrance exams and it's not even uploaded.even the year 2026 is not updated.,1,2026-05-07 17:05:22,DigiLocker,im not able to find the telengana 12th board marksheet even if i search tsbie or tgbie i need it for my entrance exams and its not even uploadedeven the year 2026 is not updated,-0.25,Negative,177
+DigiLocker,"There is always a server issue, my result was not downloaded and I was not able to fill the form also, I have been downloading it for a long time, now whom should I go to, the result is not available offline, it is available only in DigiLocker.",1,2026-05-07 16:54:09,DigiLocker,there is always a server issue my result was not downloaded and i was not able to fill the form also i have been downloading it for a long time now whom should i go to the result is not available offline it is available only in digilocker,-0.019999999999999997,Neutral,238
+DigiLocker,app not open,3,2026-05-07 15:30:25,DigiLocker,app not open,0.0,Neutral,12
+DigiLocker,"Good but please add some more option for West Bengal, like Marriage certificate, Epic card, Madhymik Result before 2009, Abha card, WBSUB Result .",2,2026-05-07 14:56:37,DigiLocker,good but please add some more option for west bengal like marriage certificate epic card madhymik result before 2009 abha card wbsub result,0.43333333333333335,Positive,139
+DigiLocker,good,4,2026-05-07 13:43:27,DigiLocker,good,0.7,Positive,4
+DigiLocker,best app for document and secure,5,2026-05-07 12:07:33,DigiLocker,best app for document and secure,0.7,Positive,32
+DigiLocker,"not opening, it shows ""oops something went wrong please try it later"" every time I try it to open...I tried it with different cellphones but problem is same",1,2026-05-07 12:00:38,DigiLocker,not opening it shows oops something went wrong please try it later every time i try it to openi tried it with different cellphones but problem is same,-0.125,Negative,150
+DigiLocker,add e voter option to add voter id card digital,5,2026-05-07 11:37:50,DigiLocker,add e voter option to add voter id card digital,0.0,Neutral,47
+DigiLocker,Indigenous and tremendous app.,5,2026-05-07 11:28:43,DigiLocker,indigenous and tremendous app,0.3333333333333333,Positive,29
+DigiLocker,open nhi ho rha,1,2026-05-07 10:56:35,DigiLocker,open nhi ho rha,0.0,Neutral,15
+DigiLocker,it is safe application,5,2026-05-07 10:04:32,DigiLocker,it is safe application,0.5,Positive,22
+DigiLocker,open nhi होगी raha h,5,2026-05-07 09:22:07,DigiLocker,open nhi हग raha h,0.0,Neutral,18
+DigiLocker,good,3,2026-05-07 09:04:54,DigiLocker,good,0.7,Positive,4
+DigiLocker,I want forget password but otp is not generating please solve this problem,2,2026-05-07 07:26:58,DigiLocker,i want forget password but otp is not generating please solve this problem,0.0,Neutral,74
+DigiLocker,"No aney report card is showing of this year. It's very bad, please update this setting, for better experience. And most of Maharashtra state documents was place issue. l request to fix this bug.",2,2026-05-07 06:50:52,DigiLocker,no aney report card is showing of this year its very bad please update this setting for better experience and most of maharashtra state documents was place issue l request to fix this bug,0.030000000000000065,Neutral,187
+DigiLocker,nice,5,2026-05-07 01:08:04,DigiLocker,nice,0.6,Positive,4
+DigiLocker,good,5,2026-05-06 21:10:41,DigiLocker,good,0.7,Positive,4
+DigiLocker,need to make login easy,3,2026-05-06 18:52:00,DigiLocker,need to make login easy,0.43333333333333335,Positive,23
+DigiLocker,nice app,5,2026-05-06 18:07:46,DigiLocker,nice app,0.6,Positive,8
+DigiLocker,good,5,2026-05-06 14:52:23,DigiLocker,good,0.7,Positive,4
+DigiLocker,is app very very good,5,2026-05-06 14:19:29,DigiLocker,is app very very good,0.9099999999999999,Positive,21
+DigiLocker,good,5,2026-05-06 13:26:52,DigiLocker,good,0.7,Positive,4
+DigiLocker,All things are good but in 10th marksheet there bihar state board is not available please add the bihar board so I can save my 10th marksheet,4,2026-05-06 12:27:54,DigiLocker,all things are good but in 10th marksheet there bihar state board is not available please add the bihar board so i can save my 10th marksheet,0.24999999999999997,Positive,141
+DigiLocker,worst experience sometime account already logout and cause problems in logging again,1,2026-05-06 10:59:27,DigiLocker,worst experience sometime account already logout and cause problems in logging again,-1.0,Negative,84
+DigiLocker,fake,1,2026-05-06 10:44:24,DigiLocker,fake,-0.5,Negative,4
+DigiLocker,वैरी bad,1,2026-05-06 10:24:26,DigiLocker,वर bad,-0.6999999999999998,Negative,6
+DigiLocker,document ke liye best,5,2026-05-06 08:25:02,DigiLocker,document ke liye best,1.0,Positive,21
+DigiLocker,nice,5,2026-05-06 07:47:57,DigiLocker,nice,0.6,Positive,4
+DigiLocker,"Whenever this app is required, it asks for login and does not work. This app is completely bogus and very disappointing.",1,2026-05-05 20:53:28,DigiLocker,whenever this app is required it asks for login and does not work this app is completely bogus and very disappointing,-0.34,Negative,117
+DigiLocker,yah! better:),4,2026-05-05 18:48:50,DigiLocker,yah better,0.5,Positive,10
+DigiLocker,it's bad app.. use less,1,2026-05-05 17:28:22,DigiLocker,its bad app use less,-0.43333333333333324,Negative,20
 DigiLocker,"Missing Year 2022 for RBSE Class 12 I am trying to fetch my Class 12th Marksheet for the Rajasthan Board of Secondary Education (RBSE), but the year ""2022"" is completely missing from the drop-down menu. The list jumps straight from 2021 to 2023. Please fix this bug and add 2022 to the list as soon as possible so students from that batch can access their documents.",5,2026-05-05 16:10:56,DigiLocker,missing year 2022 for rbse class 12 i am trying to fetch my class 12th marksheet for the rajasthan board of secondary education rbse but the year 2022 is completely missing from the dropdown menu the list jumps straight from 2021 to 2023 please fix this bug and add 2022 to the list as soon as possible so students from that batch can access their documents,-0.09999999999999999,Neutral,357
 DigiLocker,need login and create new options need update new options,2,2026-05-05 16:08:18,DigiLocker,need login and create new options need update new options,0.13636363636363635,Positive,57
 DigiLocker,"iam frustrated using this app, asking every time to turn developer options , but i turned off already , just causing headache",1,2026-05-05 15:28:01,DigiLocker,iam frustrated using this app asking every time to turn developer options  but i turned off already  just causing headache,-0.7,Negative,122
@@ -498,7 +742,6 @@ DigiLocker,good,5,2026-05-05 11:44:49,DigiLocker,good,0.7,Positive,4
 DigiLocker,The app supports many languages but not Urdu.,1,2026-05-05 09:52:09,DigiLocker,the app supports many languages but not urdu,0.5,Positive,44
 DigiLocker,nice,5,2026-05-05 07:36:53,DigiLocker,nice,0.6,Positive,4
 DigiLocker,Login problem,1,2026-05-05 03:01:30,DigiLocker,login problem,0.0,Neutral,13
-DigiLocker,best,5,2026-05-05 01:23:37,DigiLocker,best,1.0,Positive,4
 DigiLocker,logout problem and loading problem,3,2026-05-05 00:33:23,DigiLocker,logout problem and loading problem,0.0,Neutral,34
 DigiLocker,"After an update, we aren't able to open the app without updating the app. An update can drop anytime so what would I do in a situation where I need to view my documents urgently and I just can't because some update came.. Make app usable without updating to latest version atleast for 'fixed some bugs' type minor updates.",4,2026-05-04 23:41:05,DigiLocker,after an update we arent able to open the app without updating the app an update can drop anytime so what would i do in a situation where i need to view my documents urgently and i just cant because some update came make app usable without updating to latest version atleast for fixed some bugs type minor updates,0.21000000000000002,Positive,313
 DigiLocker,Third class apps each document shown error,1,2026-05-04 23:09:13,DigiLocker,third class apps each document shown error,0.0,Neutral,42
@@ -519,7 +762,6 @@ DigiLocker,"app is not working properly, whenever i want to see some of my docs 
 DigiLocker,"DigiLocker is a very useful app for storing important documents like DL and RC 📄.However, frequent logouts and login issues make it inconvenient in urgent situations ⏳. Sometimes OTPs do not arrive or login attempts get blocked ❌, making access frustrating.Since these documents are essential for emergencies and official checks ⚠️, reliability is affected.The app should improve session stability, reduce forced logouts, and make login more flexible for smoother access 👍",2,2026-05-03 22:24:58,DigiLocker,digilocker is a very useful app for storing important documents like dl and rc however frequent logouts and login issues make it inconvenient in urgent situations  sometimes otps do not arrive or login attempts get blocked  making access frustratingsince these documents are essential for emergencies and official checks  reliability is affectedthe app should improve session stability reduce forced logouts and make login more flexible for smoother access,0.06999999999999999,Neutral,456
 DigiLocker,nice,4,2026-05-03 22:18:23,DigiLocker,nice,0.6,Positive,4
 DigiLocker,nice,5,2026-05-03 20:50:19,DigiLocker,nice,0.6,Positive,4
-DigiLocker,I am not able to add Maharashtra HSC marksheet as the year 2026 is not appearing in year selection list.,1,2026-05-03 20:32:19,DigiLocker,i am not able to add maharashtra hsc marksheet as the year 2026 is not appearing in year selection list,-0.25,Negative,103
 DigiLocker,mera digilocker shalu nahi hota,5,2026-05-03 20:12:33,DigiLocker,mera digilocker shalu nahi hota,0.0,Neutral,31
 DigiLocker,this is not use for bihar board students,1,2026-05-03 19:46:30,DigiLocker,this is not use for bihar board students,0.0,Neutral,40
 DigiLocker,today my digi locker not running it's locked how can I run it again,5,2026-05-03 18:31:57,DigiLocker,today my digi locker not running its locked how can i run it again,0.0,Neutral,66
@@ -531,20 +773,16 @@ DigiLocker,our locker 🥰,5,2026-05-03 14:05:40,DigiLocker,our locker,0.0,Neutr
 DigiLocker,Worst Application,1,2026-05-03 13:40:46,DigiLocker,worst application,-1.0,Negative,17
 DigiLocker,otp nhi ati he sudhar kro thoda,2,2026-05-03 13:40:32,DigiLocker,otp nhi ati he sudhar kro thoda,0.0,Neutral,31
 DigiLocker,jub police wale digi locker accpet hi nhi karte rc dekh ne ke liyeee to ye app banaya hi kyu bevakuff,1,2026-05-03 10:45:03,DigiLocker,jub police wale digi locker accpet hi nhi karte rc dekh ne ke liyeee to ye app banaya hi kyu bevakuff,0.0,Neutral,101
-DigiLocker,good,5,2026-05-03 09:13:55,DigiLocker,good,0.7,Positive,4
 DigiLocker,unable to open the app...idk what's going on..bugs or caches,1,2026-05-03 08:05:11,DigiLocker,unable to open the appidk whats going onbugs or caches,-0.25,Negative,54
 DigiLocker,my digilocker password not working,1,2026-05-03 07:59:43,DigiLocker,my digilocker password not working,0.0,Neutral,34
 DigiLocker,good 👍 aap,5,2026-05-03 07:28:49,DigiLocker,good  aap,0.7,Positive,9
 DigiLocker,Not Like,1,2026-05-03 07:13:06,DigiLocker,not like,0.0,Neutral,8
 DigiLocker,outstanding,5,2026-05-03 05:59:12,DigiLocker,outstanding,0.5,Positive,11
 DigiLocker,fantastic. wow!!,5,2026-05-03 02:12:38,DigiLocker,fantastic wow,0.25,Positive,13
-DigiLocker,happy,5,2026-05-03 00:00:49,DigiLocker,happy,0.8,Positive,5
 DigiLocker,worst existing app...very very bad service...not at all helpful,1,2026-05-02 20:05:31,DigiLocker,worst existing appvery very bad servicenot at all helpful,-0.9549999999999998,Negative,57
 DigiLocker,Good,4,2026-05-02 18:05:00,DigiLocker,good,0.7,Positive,4
 DigiLocker,good,4,2026-05-02 15:35:35,DigiLocker,good,0.7,Positive,4
-DigiLocker,good,5,2026-05-02 15:24:47,DigiLocker,good,0.7,Positive,4
 DigiLocker,The previous versions used to work with developer mode enabled. This one doesn't :(,1,2026-05-02 13:56:21,DigiLocker,the previous versions used to work with developer mode enabled this one doesnt,-0.16666666666666666,Negative,78
-DigiLocker,wow ! It was incredibly helpful during my recent exam applications. Fetching my mark sheets and certificates directly from the board is fast and secure.,5,2026-05-02 12:57:57,DigiLocker,wow  it was incredibly helpful during my recent exam applications fetching my mark sheets and certificates directly from the board is fast and secure,0.2833333333333334,Positive,149
 DigiLocker,Good performance..,5,2026-05-02 12:16:32,DigiLocker,good performance,0.7,Positive,16
 DigiLocker,it is a good app it helped me a lot,5,2026-05-02 10:31:53,DigiLocker,it is a good app it helped me a lot,0.7,Positive,35
 DigiLocker,super,5,2026-05-02 10:13:28,DigiLocker,super,0.3333333333333333,Positive,5
@@ -585,7 +823,6 @@ DigiLocker,nice,5,2026-04-30 18:37:15,DigiLocker,nice,0.6,Positive,4
 DigiLocker,good,5,2026-04-30 16:39:06,DigiLocker,good,0.7,Positive,4
 DigiLocker,good,5,2026-04-30 15:30:18,DigiLocker,good,0.7,Positive,4
 DigiLocker,good,5,2026-04-30 13:29:07,DigiLocker,good,0.7,Positive,4
-DigiLocker,"oo developer bhai pan , aadhar card mobile me lekar rakhe aur 10th,12 th ka marksheet ka kya...... specially bihar board ke result.........",1,2026-04-30 11:45:37,DigiLocker,oo developer bhai pan  aadhar card mobile me lekar rakhe aur 10th12 th ka marksheet ka kya specially bihar board ke result,0.35714285714285715,Positive,122
 DigiLocker,good,5,2026-04-30 11:37:09,DigiLocker,good,0.7,Positive,4
 DigiLocker,good,5,2026-04-30 11:17:36,DigiLocker,good,0.7,Positive,4
 DigiLocker,"In this app my experience are good But i want to get my 12 th pass certificate (ahsec) because i lost my certificate,in this app only allowed to see previous 4 year documents only. please increase the previous year",4,2026-04-30 10:59:01,DigiLocker,in this app my experience are good but i want to get my 12 th pass certificate ahsec because i lost my certificatein this app only allowed to see previous 4 year documents only please increase the previous year,0.07333333333333333,Neutral,210
@@ -611,7 +848,6 @@ DigiLocker,good app,5,2026-04-29 10:08:50,DigiLocker,good app,0.7,Positive,8
 DigiLocker,"Very good, you are there, there is no need to keep any document with you.",5,2026-04-29 08:29:08,DigiLocker,very good you are there there is no need to keep any document with you,0.9099999999999999,Positive,70
 DigiLocker,good,5,2026-04-29 04:18:02,DigiLocker,good,0.7,Positive,4
 DigiLocker,I dont understand the reason why notifications and location permissions are necessary to use the app. Can you explain why do you actually need the notifications access for the app to function?,1,2026-04-29 02:05:30,DigiLocker,i dont understand the reason why notifications and location permissions are necessary to use the app can you explain why do you actually need the notifications access for the app to function,0.0,Neutral,190
-DigiLocker,saleeni Dhuriya A.B.B,5,2026-04-29 01:18:27,DigiLocker,saleeni dhuriya abb,0.0,Neutral,19
 DigiLocker,good 👍🏻,3,2026-04-28 23:29:33,DigiLocker,good,0.7,Positive,4
 DigiLocker,this Digilocker is very easy to access and I am opened my provisional markscard of 10th class of state board,5,2026-04-28 22:06:02,DigiLocker,this digilocker is very easy to access and i am opened my provisional markscard of 10th class of state board,0.5633333333333334,Positive,108
 DigiLocker,good,5,2026-04-28 21:26:35,DigiLocker,good,0.7,Positive,4
@@ -694,7 +930,6 @@ DigiLocker,Good,5,2026-04-24 00:10:34,DigiLocker,good,0.7,Positive,4
 DigiLocker,"While adding marksheet in DigiLocker, only one option of year is coming, only 2026",2,2026-04-23 23:26:36,DigiLocker,while adding marksheet in digilocker only one option of year is coming only 2026,0.0,Neutral,80
 DigiLocker,very useful app,1,2026-04-23 21:50:20,DigiLocker,very useful app,0.39,Positive,15
 DigiLocker,adar card,1,2026-04-23 18:09:45,DigiLocker,adar card,0.0,Neutral,9
-DigiLocker,document issueing service is unavailable since two muloths,1,2026-04-23 17:51:23,DigiLocker,document issueing service is unavailable since two muloths,0.0,Neutral,58
 DigiLocker,super,4,2026-04-23 17:46:35,DigiLocker,super,0.3333333333333333,Positive,5
 DigiLocker,no otp,2,2026-04-23 17:28:26,DigiLocker,no otp,0.0,Neutral,6
 DigiLocker,my results are less due to this app,5,2026-04-23 17:05:56,DigiLocker,my results are less due to this app,-0.14583333333333331,Negative,35
@@ -736,691 +971,459 @@ DigiLocker,not good service 😌,5,2026-04-21 22:40:39,DigiLocker,not good servi
 DigiLocker,very smooth,5,2026-04-21 19:43:13,DigiLocker,very smooth,0.52,Positive,11
 DigiLocker,worst app I can't find my old account and there is no option of change to that account and when I created new account then it says your addhar is already registered under other account and they don't give any option of that to change and after 1-2 month they always delete account their own and if I forgot password then there is many problems created put your all documents pic in your gallery create another folder named documents this is better than this useless aap,1,2026-04-21 19:35:03,DigiLocker,worst app i cant find my old account and there is no option of change to that account and when i created new account then it says your addhar is already registered under other account and they dont give any option of that to change and after 12 month they always delete account their own and if i forgot password then there is many problems created put your all documents pic in your gallery create another folder named documents this is better than this useless aap,0.02642045454545454,Neutral,466
 DigiLocker,hopeless aap,1,2026-04-21 19:02:44,DigiLocker,hopeless aap,0.0,Neutral,12
-DigiLocker,good app,5,2026-04-21 18:28:57,DigiLocker,good app,0.7,Positive,8
-DigiLocker,super,5,2026-04-21 18:16:34,DigiLocker,super,0.3333333333333333,Positive,5
-DigiLocker,very good application,5,2026-04-21 17:49:48,DigiLocker,very good application,0.9099999999999999,Positive,21
-DigiLocker,i don't know why when I search kerala university provisional certificate or mark sheet they say the record not found. it's feel more like a bug so please check the bug,1,2026-04-21 16:13:37,DigiLocker,i dont know why when i search kerala university provisional certificate or mark sheet they say the record not found its feel more like a bug so please check the bug,0.5,Positive,164
-DigiLocker,good,5,2026-04-21 16:11:45,DigiLocker,good,0.7,Positive,4
-DigiLocker,nice,5,2026-04-21 15:36:31,DigiLocker,nice,0.6,Positive,4
-DigiLocker,very nice service,5,2026-04-21 15:31:35,DigiLocker,very nice service,0.78,Positive,17
-DigiLocker,"Firstly The OTP cames too late, that we tap on resend button, then only first OTP came through SMS and after resending again takes time. then somehow we try to log in through DOB but showing ""Invalid Transation"" and again we start redoing this, then showing your account is temporarily locked. WOW !!",1,2026-04-21 14:40:15,DigiLocker,firstly the otp cames too late that we tap on resend button then only first otp came through sms and after resending again takes time then somehow we try to log in through dob but showing invalid transation and again we start redoing this then showing your account is temporarily locked wow,0.06000000000000001,Neutral,290
-DigiLocker,this app say you're adhar is already in digilocker app,1,2026-04-21 13:28:24,DigiLocker,this app say youre adhar is already in digilocker app,0.0,Neutral,53
-DigiLocker,Baad,1,2026-04-21 12:25:42,DigiLocker,baad,0.0,Neutral,4
-DigiLocker,The app is not opening at all... I'm trying for months now.,1,2026-04-21 11:32:45,DigiLocker,the app is not opening at all im trying for months now,0.0,Neutral,54
-DigiLocker,nice app,5,2026-04-21 10:54:22,DigiLocker,nice app,0.6,Positive,8
-DigiLocker,So bad,1,2026-04-21 08:38:19,DigiLocker,so bad,-0.6999999999999998,Negative,6
-DigiLocker,thank you,5,2026-04-21 08:23:57,DigiLocker,thank you,0.0,Neutral,9
-DigiLocker,good,5,2026-04-21 08:20:18,DigiLocker,good,0.7,Positive,4
-DigiLocker,"It's asking me to verify by adhaar, (To get best Value from Digilocker , verify your adhaar to enable authentic document access) and when i am trying to verify by entering my adhaar card number, it's showing Adhaar number already registered with Digilocker, sonunable to add documents, such as ePan / Adhaar Etc, only educational documents added by CBSE / Institution is there. Kindly Help",1,2026-04-21 07:48:34,DigiLocker,its asking me to verify by adhaar to get best value from digilocker  verify your adhaar to enable authentic document access and when i am trying to verify by entering my adhaar card number its showing adhaar number already registered with digilocker sonunable to add documents such as epan  adhaar etc only educational documents added by cbse  institution is there kindly help,0.39166666666666666,Positive,376
-DigiLocker,very full app,4,2026-04-21 07:20:11,DigiLocker,very full app,0.45499999999999996,Positive,13
-DigiLocker,gret version,5,2026-04-21 06:47:52,DigiLocker,gret version,0.0,Neutral,12
-DigiLocker,good 👍🏻,5,2026-04-21 00:50:57,DigiLocker,good,0.7,Positive,4
-DigiLocker,good,5,2026-04-20 23:08:51,DigiLocker,good,0.7,Positive,4
-DigiLocker,best,5,2026-04-20 22:58:44,DigiLocker,best,1.0,Positive,4
-DigiLocker,this app need again and again registration,2,2026-04-20 21:54:26,DigiLocker,this app need again and again registration,0.0,Neutral,42
-DigiLocker,dear digi team aap log kar kya rahe he koi app ki testing kar raha he ya nahi umag app per EPFO login karne per OTP field hi nahi a raha he plz isse fixed kare . or kya share Karu khud login kar ke dekh lo digi locker app se umang per jate he EPFO login karo,1,2026-04-20 21:31:23,DigiLocker,dear digi team aap log kar kya rahe he koi app ki testing kar raha he ya nahi umag app per epfo login karne per otp field hi nahi a raha he plz isse fixed kare  or kya share karu khud login kar ke dekh lo digi locker app se umang per jate he epfo login karo,0.1,Neutral,257
-DigiLocker,best app for documents📃,5,2026-04-20 19:17:35,DigiLocker,best app for documents,1.0,Positive,22
-DigiLocker,nice,4,2026-04-20 18:21:51,DigiLocker,nice,0.6,Positive,4
-DigiLocker,"The otp does not come at the correct phone number. the response of the govt body is always that everything is fine. In many reviews, they ask u to download the documents. Then why do I need this stupid app. The whole department should be taken to task.",1,2026-04-20 17:09:16,DigiLocker,the otp does not come at the correct phone number the response of the govt body is always that everything is fine in many reviews they ask u to download the documents then why do i need this stupid app the whole department should be taken to task,0.0791666666666667,Neutral,246
-DigiLocker,Ooops. The app is not working. something wrong....,2,2026-04-20 17:06:46,DigiLocker,ooops the app is not working something wrong,-0.5,Negative,44
-DigiLocker,excellent,5,2026-04-20 16:16:46,DigiLocker,excellent,1.0,Positive,9
-DigiLocker,good,5,2026-04-20 16:16:34,DigiLocker,good,0.7,Positive,4
-DigiLocker,app not working,5,2026-04-20 15:10:14,DigiLocker,app not working,0.0,Neutral,15
-DigiLocker,this app is very useful and attached the all documents 📃,5,2026-04-20 14:53:53,DigiLocker,this app is very useful and attached the all documents,0.39,Positive,54
-DigiLocker,bad,1,2026-04-20 14:20:54,DigiLocker,bad,-0.6999999999999998,Negative,3
-DigiLocker,ghatiya app hai load hi nahi hota,1,2026-04-20 14:11:48,DigiLocker,ghatiya app hai load hi nahi hota,0.0,Neutral,33
-DigiLocker,super,4,2026-04-20 12:08:49,DigiLocker,super,0.3333333333333333,Positive,5
-DigiLocker,very good experience,5,2026-04-20 11:52:56,DigiLocker,very good experience,0.9099999999999999,Positive,20
-DigiLocker,एक्दम बेकार ऍप फालतू कोई डाऊनलोड मत करो भाई,1,2026-04-20 10:48:11,DigiLocker,एकदम बकर ऍप फलत कई डऊनलड मत कर भई,0.0,Neutral,33
-DigiLocker,good,4,2026-04-20 10:44:03,DigiLocker,good,0.7,Positive,4
-DigiLocker,siquor app,5,2026-04-20 05:38:00,DigiLocker,siquor app,0.0,Neutral,10
-DigiLocker,BEST APP FOR SAFE DOCUMENTS,4,2026-04-19 23:04:41,DigiLocker,best app for safe documents,0.75,Positive,27
-DigiLocker,good 😊,5,2026-04-19 23:01:42,DigiLocker,good,0.7,Positive,4
-DigiLocker,very good,5,2026-04-19 22:41:51,DigiLocker,very good,0.9099999999999999,Positive,9
-DigiLocker,RBSE board ki class 10th 2024ki marksheet or 12th 2026 ki marksheet nhi nikal rahe hai session mai 2023 kai baad koi year bta he nhi raha hai,1,2026-04-19 21:42:12,DigiLocker,rbse board ki class 10th 2024ki marksheet or 12th 2026 ki marksheet nhi nikal rahe hai session mai 2023 kai baad koi year bta he nhi raha hai,0.0,Neutral,141
-DigiLocker,nice aap,4,2026-04-19 21:34:50,DigiLocker,nice aap,0.6,Positive,8
-DigiLocker,Aaj mai police ke paas Gaya tha kyuki mere bhatige ki scooty bond ho gayi thi.per police kehti hai ki usse digilocker ke documents se koi matlab nahin hai .wo keh raha tha ki physical document lao . digilocker ka document nahi chalegaa..wah re hp police,3,2026-04-19 16:28:12,DigiLocker,aaj mai police ke paas gaya tha kyuki mere bhatige ki scooty bond ho gayi thiper police kehti hai ki usse digilocker ke documents se koi matlab nahin hai wo keh raha tha ki physical document lao  digilocker ka document nahi chalegaawah re hp police,-0.25,Negative,248
-DigiLocker,good,5,2026-04-19 16:13:59,DigiLocker,good,0.7,Positive,4
-DigiLocker,Nice,2,2026-04-19 15:47:07,DigiLocker,nice,0.6,Positive,4
-DigiLocker,very good,5,2026-04-19 15:42:53,DigiLocker,very good,0.9099999999999999,Positive,9
-DigiLocker,baar baar apdet mangata rehta h apdet hone k baad bhi bhut hi slow h very bed aap,1,2026-04-19 14:19:39,DigiLocker,baar baar apdet mangata rehta h apdet hone k baad bhi bhut hi slow h very bed aap,-0.05000000000000002,Neutral,81
-DigiLocker,did not have 12 th marksheet option for telangana and many other things for telangana add it,1,2026-04-19 13:56:18,DigiLocker,did not have 12 th marksheet option for telangana and many other things for telangana add it,0.1875,Positive,92
-DigiLocker,nice,5,2026-04-19 13:48:03,DigiLocker,nice,0.6,Positive,4
-DigiLocker,nice,5,2026-04-19 12:41:20,DigiLocker,nice,0.6,Positive,4
-DigiLocker,Document not upload,1,2026-04-19 12:27:40,DigiLocker,document not upload,0.0,Neutral,19
-DigiLocker,Mere fon me 2 number hai app read hi nai karra 2nd sim ko faltu app hai bhyii apne wallet me adhar rakh lena ye faltu app mat download krna,1,2026-04-19 11:25:14,DigiLocker,mere fon me 2 number hai app read hi nai karra 2nd sim ko faltu app hai bhyii apne wallet me adhar rakh lena ye faltu app mat download krna,-0.25,Negative,139
-DigiLocker,good 👍,5,2026-04-19 10:45:33,DigiLocker,good,0.7,Positive,4
-DigiLocker,Best,3,2026-04-19 10:27:42,DigiLocker,best,1.0,Positive,4
-DigiLocker,"not able to verify with aadhar. Each time while trying to open this app, its shows a error mesage to verify the aadhar but while trying to verify its shows a message ur aadhar is already verified. multiple time i register / uninstalled and installed again and tried, getting the same error message. please fix this issue.",1,2026-04-19 10:04:54,DigiLocker,not able to verify with aadhar each time while trying to open this app its shows a error mesage to verify the aadhar but while trying to verify its shows a message ur aadhar is already verified multiple time i register  uninstalled and installed again and tried getting the same error message please fix this issue,-0.0625,Neutral,314
-DigiLocker,"looks like they can save me by disabling the Developer option 🤣 , Clown app",1,2026-04-19 09:42:34,DigiLocker,looks like they can save me by disabling the developer option   clown app,0.0,Neutral,73
-DigiLocker,very nice aap,5,2026-04-19 07:55:30,DigiLocker,very nice aap,0.78,Positive,13
-DigiLocker,good,5,2026-04-19 06:49:40,DigiLocker,good,0.7,Positive,4
-DigiLocker,driving licence add nahi ho raha,1,2026-04-19 06:23:00,DigiLocker,driving licence add nahi ho raha,0.0,Neutral,32
-DigiLocker,x ok,4,2026-04-18 22:35:17,DigiLocker,x ok,0.5,Positive,4
-DigiLocker,App is updated frequently. After each update app requires fresh login. No use if you want to show document in railway or airport as update screen pops up almost always. Do something thing about this.,1,2026-04-18 21:41:15,DigiLocker,app is updated frequently after each update app requires fresh login no use if you want to show document in railway or airport as update screen pops up almost always do something thing about this,0.2,Positive,195
-DigiLocker,very nice and useful,5,2026-04-18 20:38:34,DigiLocker,very nice and useful,0.54,Positive,20
-DigiLocker,super,5,2026-04-18 20:22:35,DigiLocker,super,0.3333333333333333,Positive,5
-DigiLocker,good grouping of government documents app,5,2026-04-18 20:08:16,DigiLocker,good grouping of government documents app,0.7,Positive,41
-DigiLocker,it's very useful app for those who wants to secure their documents in digital format. these interface is very easy and simple.,5,2026-04-18 19:25:52,DigiLocker,its very useful app for those who wants to secure their documents in digital format these interface is very easy and simple,0.2588888888888889,Positive,123
-DigiLocker,everytime it get log out and so much trouble,1,2026-04-18 19:24:58,DigiLocker,everytime it get log out and so much trouble,-0.2,Negative,44
-DigiLocker,excellent,5,2026-04-18 18:57:28,DigiLocker,excellent,1.0,Positive,9
-DigiLocker,useful for any official purpose,5,2026-04-18 18:14:04,DigiLocker,useful for any official purpose,0.3,Positive,31
-DigiLocker,"This app is asking me to disable Developer options and USB Debugging. Which idiot put this in? What is the rationale behind this? Even banks are allowing this, and who even are you?",1,2026-04-18 16:00:29,DigiLocker,this app is asking me to disable developer options and usb debugging which idiot put this in what is the rationale behind this even banks are allowing this and who even are you,-0.6000000000000001,Negative,176
-DigiLocker,good,5,2026-04-18 15:27:58,DigiLocker,good,0.7,Positive,4
-DigiLocker,very nice apps my choice,5,2026-04-18 14:52:25,DigiLocker,very nice apps my choice,0.78,Positive,24
-DigiLocker,good to find docs you need,2,2026-04-18 14:14:48,DigiLocker,good to find docs you need,0.7,Positive,26
-DigiLocker,Good,5,2026-04-18 12:56:41,DigiLocker,good,0.7,Positive,4
-DigiLocker,this app is full of glitch 😔,1,2026-04-18 12:35:24,DigiLocker,this app is full of glitch,0.35,Positive,26
-DigiLocker,otp not coming,1,2026-04-18 12:13:45,DigiLocker,otp not coming,0.0,Neutral,14
-DigiLocker,very good,5,2026-04-18 10:22:29,DigiLocker,very good,0.9099999999999999,Positive,9
-DigiLocker,good,5,2026-04-18 10:22:16,DigiLocker,good,0.7,Positive,4
-DigiLocker,is very useful to every student 😃,5,2026-04-18 10:06:30,DigiLocker,is very useful to every student,0.39,Positive,31
-DigiLocker,I am very happy to use this application it is very helpful 💪🏻 Thank you india 🙏🏻🙏🏻,5,2026-04-18 09:56:25,DigiLocker,i am very happy to use this application it is very helpful  thank you india,0.6,Positive,75
-DigiLocker,Not working properly,1,2026-04-18 09:30:56,DigiLocker,not working properly,0.0,Neutral,20
-DigiLocker,ekadam sahi hai,5,2026-04-18 08:59:30,DigiLocker,ekadam sahi hai,0.0,Neutral,15
-DigiLocker,helpful,5,2026-04-18 05:30:21,DigiLocker,helpful,0.0,Neutral,7
-DigiLocker,Everything works fine but it would be really amazing if we could get a more simple homepage with tiles/cards showing our issue documents.,4,2026-04-18 02:29:47,DigiLocker,everything works fine but it would be really amazing if we could get a more simple homepage with tilescards showing our issue documents,0.3791666666666667,Positive,135
-DigiLocker,It is good to keep your documents solve and digitally signed and it also help to connect with other useful government aaps .👍,5,2026-04-17 23:52:37,DigiLocker,it is good to keep your documents solve and digitally signed and it also help to connect with other useful government aaps,0.21875,Positive,122
-DigiLocker,nice,5,2026-04-17 23:51:03,DigiLocker,nice,0.6,Positive,4
-DigiLocker,nice 👍😍,4,2026-04-17 23:05:36,DigiLocker,nice,0.6,Positive,4
-DigiLocker,good,5,2026-04-17 21:17:02,DigiLocker,good,0.7,Positive,4
-DigiLocker,can't use the app when emergency need. because everyday it giving new update and without update can't able to use. it is better to save documents in phone in traditional way. waste app irritating,1,2026-04-17 20:52:53,DigiLocker,cant use the app when emergency need because everyday it giving new update and without update cant able to use it is better to save documents in phone in traditional way waste app irritating,0.04805194805194805,Neutral,190
-DigiLocker,Nice,4,2026-04-17 20:36:02,DigiLocker,nice,0.6,Positive,4
-DigiLocker,"please fix this issue , i tried several times but i couldn't add my caste certificate",3,2026-04-17 20:06:07,DigiLocker,please fix this issue  i tried several times but i couldnt add my caste certificate,0.0,Neutral,83
-DigiLocker,akdam ghatiya,1,2026-04-17 18:31:19,DigiLocker,akdam ghatiya,0.0,Neutral,13
-DigiLocker,excellent,5,2026-04-17 17:07:10,DigiLocker,excellent,1.0,Positive,9
-DigiLocker,one of the worst applications I am unable to fetch my degree markscard if I go near the clg they will say that you should fetch the document from digilocker I have been trying continuously but iam unable to get the documents there is no proper support also I need a solution imidiately digital India doesn't work without proper support,1,2026-04-17 16:43:04,DigiLocker,one of the worst applications i am unable to fetch my degree markscard if i go near the clg they will say that you should fetch the document from digilocker i have been trying continuously but iam unable to get the documents there is no proper support also i need a solution imidiately digital india doesnt work without proper support,-0.2714285714285714,Negative,334
-DigiLocker,nice,5,2026-04-17 16:25:07,DigiLocker,nice,0.6,Positive,4
-DigiLocker,Not able to Login. It is picking a different number on simcard,1,2026-04-17 15:47:22,DigiLocker,not able to login it is picking a different number on simcard,-0.125,Negative,61
-DigiLocker,very very helpful for me 😃🙂,5,2026-04-17 14:20:25,DigiLocker,very very helpful for me,0.26,Positive,24
-DigiLocker,I am unable to see this app on my mobile but it shows it installed in the playstore.... please help me,1,2026-04-17 14:12:48,DigiLocker,i am unable to see this app on my mobile but it shows it installed in the playstore please help me,-0.5,Negative,98
-DigiLocker,Best,5,2026-04-17 13:47:17,DigiLocker,best,1.0,Positive,4
-DigiLocker,very good apo,5,2026-04-17 13:36:45,DigiLocker,very good apo,0.9099999999999999,Positive,13
-DigiLocker,"showing wrong number on sim , I have two sim n it showing same number on both sim that is incorrect.",2,2026-04-17 12:47:12,DigiLocker,showing wrong number on sim  i have two sim n it showing same number on both sim that is incorrect,-0.25,Negative,98
-DigiLocker,very good,4,2026-04-17 12:45:54,DigiLocker,very good,0.9099999999999999,Positive,9
-DigiLocker,Digtal India,5,2026-04-17 12:42:12,DigiLocker,digtal india,0.0,Neutral,12
-DigiLocker,"Since Last year, I am unable to download any of my degree/diploma marksheets and results from Digilocker. They have changed the Information UI & for some reason their database doesn't work",1,2026-04-17 12:21:42,DigiLocker,since last year i am unable to download any of my degreediploma marksheets and results from digilocker they have changed the information ui  for some reason their database doesnt work,-0.25,Negative,183
-DigiLocker,"not getting otb on time, very bad service",1,2026-04-17 10:12:50,DigiLocker,not getting otb on time very bad service,-0.9099999999999998,Negative,40
-DigiLocker,I can't open digital locker network error fix this error 😕,1,2026-04-17 10:05:36,DigiLocker,i cant open digital locker network error fix this error,0.0,Neutral,55
-DigiLocker,esme 2022 ka 12 vi ka rijad to aau e nhi rha,1,2026-04-17 09:10:38,DigiLocker,esme 2022 ka 12 vi ka rijad to aau e nhi rha,0.0,Neutral,44
-DigiLocker,good,5,2026-04-17 09:10:02,DigiLocker,good,0.7,Positive,4
-DigiLocker,very nice,5,2026-04-17 07:29:01,DigiLocker,very nice,0.78,Positive,9
-DigiLocker,good,4,2026-04-17 06:56:58,DigiLocker,good,0.7,Positive,4
-DigiLocker,WORST AND USELESS ❌❌❌,1,2026-04-17 06:45:01,DigiLocker,worst and useless,-0.75,Negative,17
-DigiLocker,"forgot pin, tried sending otp but not receiving.",2,2026-04-17 06:08:17,DigiLocker,forgot pin tried sending otp but not receiving,0.0,Neutral,46
-DigiLocker,good app use ful,5,2026-04-17 02:22:43,DigiLocker,good app use ful,0.7,Positive,16
-DigiLocker,early,2,2026-04-17 01:13:19,DigiLocker,early,0.1,Neutral,5
-DigiLocker,Jai Hind 🇮🇳,5,2026-04-17 00:28:53,DigiLocker,jai hind,0.0,Neutral,8
-DigiLocker,best for her,5,2026-04-17 00:27:59,DigiLocker,best for her,1.0,Positive,12
-DigiLocker,I'm really disappointed with this app whenever or everytime I open this app it's always want an update I don't have enough memory to update it everytime 😭😭... plz don't update anymore 🙏🏻🙂 dhanyawad,2,2026-04-17 00:19:47,DigiLocker,im really disappointed with this app whenever or everytime i open this app its always want an update i dont have enough memory to update it everytime  plz dont update anymore  dhanyawad,-0.25,Negative,185
-DigiLocker,Good.,5,2026-04-16 22:33:38,DigiLocker,good,0.7,Positive,4
-DigiLocker,nice,5,2026-04-16 22:17:11,DigiLocker,nice,0.6,Positive,4
-DigiLocker,good,5,2026-04-16 22:01:47,DigiLocker,good,0.7,Positive,4
-DigiLocker,Very bad,1,2026-04-16 21:53:15,DigiLocker,very bad,-0.9099999999999998,Negative,8
-DigiLocker,gets logout frequently,2,2026-04-16 21:41:52,DigiLocker,gets logout frequently,0.1,Neutral,22
-DigiLocker,nice app,5,2026-04-16 21:18:17,DigiLocker,nice app,0.6,Positive,8
-DigiLocker,बहुत ही प्यारा एप्लीकेशन,5,2026-04-16 21:07:11,DigiLocker,बहत ह पयर एपलकशन,0.0,Neutral,16
-DigiLocker,good,4,2026-04-16 20:45:09,DigiLocker,good,0.7,Positive,4
-DigiLocker,nice update,5,2026-04-16 20:08:38,DigiLocker,nice update,0.6,Positive,11
-DigiLocker,Very useful app for storing documents safely.,5,2026-04-16 19:02:48,DigiLocker,very useful app for storing documents safely,0.445,Positive,44
-DigiLocker,best,5,2026-04-16 19:02:32,DigiLocker,best,1.0,Positive,4
-DigiLocker,"i will give this a 1 star because, I have been trying for the past 1 week to put my Adhaar card number, but even after clicking on the 'Continue' option, it doesn't register my Adhaar card number, I don't know how to Verify myself, please help me out",1,2026-04-16 18:43:42,DigiLocker,i will give this a 1 star because i have been trying for the past 1 week to put my adhaar card number but even after clicking on the continue option it doesnt register my adhaar card number i dont know how to verify myself please help me out,-0.25,Negative,241
-DigiLocker,digilocker doesn't support my udid card,1,2026-04-16 18:42:42,DigiLocker,digilocker doesnt support my udid card,0.0,Neutral,38
-DigiLocker,very very nice Good dockouments safe,5,2026-04-16 18:05:57,DigiLocker,very very nice good dockouments safe,0.66,Positive,36
-DigiLocker,good for update documents,4,2026-04-16 17:45:30,DigiLocker,good for update documents,0.7,Positive,25
-DigiLocker,Good app,2,2026-04-16 17:28:15,DigiLocker,good app,0.7,Positive,8
-DigiLocker,good,5,2026-04-16 16:57:27,DigiLocker,good,0.7,Positive,4
-DigiLocker,amazing app digi to keep files and documents safe.,5,2026-04-16 16:49:04,DigiLocker,amazing app digi to keep files and documents safe,0.55,Positive,49
-DigiLocker,telangana RTO not showing,1,2026-04-16 15:46:09,DigiLocker,telangana rto not showing,0.0,Neutral,25
-DigiLocker,amazing app,5,2026-04-16 13:55:48,DigiLocker,amazing app,0.6000000000000001,Positive,11
-DigiLocker,very helpful,5,2026-04-16 13:21:05,DigiLocker,very helpful,0.2,Positive,12
-DigiLocker,good,5,2026-04-16 13:08:43,DigiLocker,good,0.7,Positive,4
-DigiLocker,Why can't fetching voter id card(EPIC) in Digilocker?,4,2026-04-16 13:08:20,DigiLocker,why cant fetching voter id cardepic in digilocker,0.0,Neutral,49
-DigiLocker,it is a very bad i facing many issue while sending otp it doesn't working I am continuously block a very bad app jab mainly use karna hai tab hee nhi chalta,1,2026-04-16 12:19:02,DigiLocker,it is a very bad i facing many issue while sending otp it doesnt working i am continuously block a very bad app jab mainly use karna hai tab hee nhi chalta,-0.2883333333333332,Negative,155
-DigiLocker,good,5,2026-04-16 11:58:28,DigiLocker,good,0.7,Positive,4
-DigiLocker,"Bihar board 10th and 12th marksheet cannot be downloaded in this app, this is a useless app",1,2026-04-16 10:54:56,DigiLocker,bihar board 10th and 12th marksheet cannot be downloaded in this app this is a useless app,-0.5,Negative,90
-DigiLocker,"keeps asking to login aggaian and again even after completing login few seconds ago, sends otps to different numbers, login is hell",1,2026-04-16 10:23:54,DigiLocker,keeps asking to login aggaian and again even after completing login few seconds ago sends otps to different numbers login is hell,-0.1,Neutral,129
-DigiLocker,Nice,5,2026-04-16 10:08:56,DigiLocker,nice,0.6,Positive,4
-DigiLocker,best,5,2026-04-16 09:45:25,DigiLocker,best,1.0,Positive,4
-DigiLocker,super,5,2026-04-16 09:12:09,DigiLocker,super,0.3333333333333333,Positive,5
-DigiLocker,best public service to secure your documents digitally,5,2026-04-16 09:05:24,DigiLocker,best public service to secure your documents digitally,0.35,Positive,54
-DigiLocker,vey bad technology of india,1,2026-04-16 09:00:02,DigiLocker,vey bad technology of india,-0.6999999999999998,Negative,27
-DigiLocker,very hard privacy 🔏,5,2026-04-16 08:44:04,DigiLocker,very hard privacy,-0.3791666666666667,Negative,17
-DigiLocker,"I had a very bad experience, somehow it logged me out, i have forgotten my pin and I tried to reset the pin but I am not receiving the OTP. I have been trying for months.",1,2026-04-16 08:33:23,DigiLocker,i had a very bad experience somehow it logged me out i have forgotten my pin and i tried to reset the pin but i am not receiving the otp i have been trying for months,-0.9099999999999998,Negative,166
-DigiLocker,App is nowadays becoming worst no prpoper updates to search the required documents even to add the new documents! waste app,2,2026-04-16 07:48:45,DigiLocker,app is nowadays becoming worst no prpoper updates to search the required documents even to add the new documents waste app,-0.15340909090909094,Negative,122
-DigiLocker,good 👍👍👍 application,5,2026-04-16 07:07:31,DigiLocker,good  application,0.7,Positive,17
-DigiLocker,Everytime when I need documents the app has to be updated again. If not that then it randomly log me out of my account. It is like downloading a new app and registering all over again,1,2026-04-16 06:48:20,DigiLocker,everytime when i need documents the app has to be updated again if not that then it randomly log me out of my account it is like downloading a new app and registering all over again,-0.18181818181818182,Negative,181
-DigiLocker,superb,5,2026-04-16 03:50:46,DigiLocker,superb,1.0,Positive,6
-DigiLocker,"Regret to inform that I am unable to access the account in digilocker since some time . Everytime I start the app and click on get started , the app automatically gets closed and a message pops up that the app has been closed due to bug , please update the app once the bug has been fixed by the developer . Kindly guide me so that I can access my account . Thanks & Regards.",3,2026-04-15 23:43:31,DigiLocker,regret to inform that i am unable to access the account in digilocker since some time  everytime i start the app and click on get started  the app automatically gets closed and a message pops up that the app has been closed due to bug  please update the app once the bug has been fixed by the developer  kindly guide me so that i can access my account  thanks  regards,0.010714285714285716,Neutral,368
-DigiLocker,"when we need we didn't get documents it struggles to fetch from the server, low maintenance by Indian government.",1,2026-04-15 22:38:10,DigiLocker,when we need we didnt get documents it struggles to fetch from the server low maintenance by indian government,0.0,Neutral,110
-DigiLocker,great,5,2026-04-15 21:40:45,DigiLocker,great,0.8,Positive,5
-DigiLocker,good 👍,5,2026-04-15 21:02:44,DigiLocker,good,0.7,Positive,4
-DigiLocker,Once I've complete my registration on digilocker but when i again open one day digilocker app then again started showing me login page and now its unable to login how we can use this app,1,2026-04-15 20:03:25,DigiLocker,once ive complete my registration on digilocker but when i again open one day digilocker app then again started showing me login page and now its unable to login how we can use this app,-0.13333333333333333,Negative,185
-DigiLocker,Fail hogya ghatiya app😡💔,1,2026-04-15 18:47:24,DigiLocker,fail hogya ghatiya app,-0.5,Negative,22
-DigiLocker,all good,5,2026-04-15 18:11:29,DigiLocker,all good,0.7,Positive,8
-DigiLocker,"My result of Board exam went crazy up even this app can't lift it!!!!!! Respected sir or mam, above sentence is metaphor app can't lift it means my result is so awesome even all app goes crazy . It's not bug. Aman Anand",5,2026-04-15 17:49:52,DigiLocker,my result of board exam went crazy up even this app cant lift it respected sir or mam above sentence is metaphor app cant lift it means my result is so awesome even all app goes crazy  its not bug aman anand,-0.04999999999999999,Neutral,207
-DigiLocker,good,4,2026-04-15 17:19:17,DigiLocker,good,0.7,Positive,4
-DigiLocker,good,5,2026-04-15 17:12:53,DigiLocker,good,0.7,Positive,4
-DigiLocker,"why it showing me stop developer mode from where I can stop , this app not proper working why so much irritating app",2,2026-04-15 16:45:48,DigiLocker,why it showing me stop developer mode from where i can stop  this app not proper working why so much irritating app,-0.2,Negative,115
-DigiLocker,to good,5,2026-04-15 15:29:03,DigiLocker,to good,0.7,Positive,7
-DigiLocker,excellent,4,2026-04-15 15:18:56,DigiLocker,excellent,1.0,Positive,9
-DigiLocker,does not work with vpn or developer options enabled,1,2026-04-15 15:02:12,DigiLocker,does not work with vpn or developer options enabled,0.0,Neutral,51
-DigiLocker,good,5,2026-04-15 14:38:34,DigiLocker,good,0.7,Positive,4
-DigiLocker,good working,5,2026-04-15 13:19:12,DigiLocker,good working,0.7,Positive,12
-DigiLocker,Required to sign in after every app update. Patch it immediately,1,2026-04-15 13:16:20,DigiLocker,required to sign in after every app update patch it immediately,0.0,Neutral,63
-DigiLocker,"total trash, takes lot of time to open or sometimes it never opens. why so sucks",1,2026-04-15 13:02:59,DigiLocker,total trash takes lot of time to open or sometimes it never opens why so sucks,-0.09999999999999999,Neutral,78
-DigiLocker,this app was good experience,5,2026-04-15 12:06:41,DigiLocker,this app was good experience,0.7,Positive,28
-DigiLocker,app nahin chal raha please chalao,1,2026-04-15 12:02:05,DigiLocker,app nahin chal raha please chalao,0.0,Neutral,33
-DigiLocker,login problem,3,2026-04-15 11:47:14,DigiLocker,login problem,0.0,Neutral,13
-DigiLocker,document data totally safe 💯,5,2026-04-15 11:43:23,DigiLocker,document data totally safe,0.5,Positive,26
-DigiLocker,It's really good and to work around country so I love it,5,2026-04-15 11:08:01,DigiLocker,its really good and to work around country so i love it,0.6,Positive,55
-DigiLocker,good information,4,2026-04-15 10:50:08,DigiLocker,good information,0.7,Positive,16
-DigiLocker,good,5,2026-04-15 09:50:28,DigiLocker,good,0.7,Positive,4
-DigiLocker,"after installation this app is not opening, even I tried from my friend another phone same issue , need to resolve this",1,2026-04-15 09:44:33,DigiLocker,after installation this app is not opening even i tried from my friend another phone same issue  need to resolve this,0.0,Neutral,117
-DigiLocker,ek bam bakwas hai bar bar issue aata hai verify karne ka,1,2026-04-15 09:40:03,DigiLocker,ek bam bakwas hai bar bar issue aata hai verify karne ka,0.0,Neutral,56
-DigiLocker,digilocker not able to find my doctor's registration in Maharashtra council of Indian medicine (MCIM). PLEASE fix this,3,2026-04-15 08:26:49,DigiLocker,digilocker not able to find my doctors registration in maharashtra council of indian medicine mcim please fix this,-0.25,Negative,114
-DigiLocker,ismein ek Kami hai,5,2026-04-15 05:18:43,DigiLocker,ismein ek kami hai,0.0,Neutral,18
-DigiLocker,"Not able to open the app That's why only 1 star. what to do? First it was opened,now not able to open.",1,2026-04-15 05:12:53,DigiLocker,not able to open the app thats why only 1 star what to do first it was openednow not able to open,-0.041666666666666664,Neutral,97
-DigiLocker,Where is bihar class 10 certificate section,1,2026-04-15 05:07:57,DigiLocker,where is bihar class 10 certificate section,0.0,Neutral,43
-DigiLocker,useful,5,2026-04-15 00:20:50,DigiLocker,useful,0.3,Positive,6
-DigiLocker,supar,5,2026-04-14 23:56:46,DigiLocker,supar,0.0,Neutral,5
-DigiLocker,bad app,1,2026-04-14 20:34:42,DigiLocker,bad app,-0.6999999999999998,Negative,7
-DigiLocker,super 💕,5,2026-04-14 20:32:50,DigiLocker,super,0.3333333333333333,Positive,5
-DigiLocker,Good,5,2026-04-14 20:18:49,DigiLocker,good,0.7,Positive,4
-DigiLocker,waste app i didn't get nice result 🤬🤬,1,2026-04-14 19:15:57,DigiLocker,waste app i didnt get nice result,0.19999999999999998,Positive,33
-DigiLocker,I have forgotten the pin.. when I try forget ping option I don't get otp onmy mobile using nay option,1,2026-04-14 18:37:32,DigiLocker,i have forgotten the pin when i try forget ping option i dont get otp onmy mobile using nay option,0.0,Neutral,98
-DigiLocker,good and bad,4,2026-04-14 16:42:26,DigiLocker,good and bad,5.551115123125783e-17,Neutral,12
-DigiLocker,super,5,2026-04-14 16:33:25,DigiLocker,super,0.3333333333333333,Positive,5
-DigiLocker,"I am unable to access my DigiLocker account. The app/website is not opening properly, and I’m facing difficulty logging in despite trying multiple times. I have already checked my internet connection and tried reinstalling the app, but the issue still persists. This is causing inconvenience as I need to access my important documents urgently. Kindly look into this issue and help me resolve it at the earliest. I would appreciate your support.",4,2026-04-14 16:27:47,DigiLocker,i am unable to access my digilocker account the appwebsite is not opening properly and im facing difficulty logging in despite trying multiple times i have already checked my internet connection and tried reinstalling the app but the issue still persists this is causing inconvenience as i need to access my important documents urgently kindly look into this issue and help me resolve it at the earliest i would appreciate your support,0.1,Neutral,435
-DigiLocker,best safty,5,2026-04-14 16:19:22,DigiLocker,best safty,1.0,Positive,10
-DigiLocker,Good app Good app,5,2026-04-14 16:02:27,DigiLocker,good app good app,0.7,Positive,17
-DigiLocker,very helpful app,5,2026-04-14 15:58:47,DigiLocker,very helpful app,0.2,Positive,16
-DigiLocker,"after changes in my adhar card ,varify concent process not going onwards,while open issue documents seen varification process and when doing varification process error like already registered you access your documents even not seen complaints on email",1,2026-04-14 15:45:00,DigiLocker,after changes in my adhar card varify concent process not going onwardswhile open issue documents seen varification process and when doing varification process error like already registered you access your documents even not seen complaints on email,0.0,Neutral,249
-DigiLocker,frequently told off your VPN,1,2026-04-14 15:03:28,DigiLocker,frequently told off your vpn,0.1,Neutral,28
-DigiLocker,"Whenever I install and click to open the app, it keeps showing ""something went wrong, please try again"". It never opens.",1,2026-04-14 14:40:15,DigiLocker,whenever i install and click to open the app it keeps showing something went wrong please try again it never opens,-0.25,Negative,114
-DigiLocker,very nice apps,4,2026-04-14 14:37:48,DigiLocker,very nice apps,0.78,Positive,14
-DigiLocker,excellent 👍,5,2026-04-14 14:24:44,DigiLocker,excellent,1.0,Positive,9
-DigiLocker,very good 😊😊 app ✋🏻👍🏿👍🏿👍🏿👍🏿,5,2026-04-14 12:49:00,DigiLocker,very good  app,0.9099999999999999,Positive,14
-DigiLocker,very good 💯😊,5,2026-04-14 12:29:23,DigiLocker,very good,0.9099999999999999,Positive,9
-DigiLocker,This App is Very Useful Easy To use Carry Digital Documents,5,2026-04-14 12:19:22,DigiLocker,this app is very useful easy to use carry digital documents,0.27444444444444444,Positive,59
-DigiLocker,"It doesn't give much preference to Telangana state. I cannot find my year 10th Marksheet. Being a JEE aspirant, I might need it in my digilocker ready anytime for future purposes. Please look for it...",3,2026-04-14 12:10:19,DigiLocker,it doesnt give much preference to telangana state i cannot find my year 10th marksheet being a jee aspirant i might need it in my digilocker ready anytime for future purposes please look for it,0.13333333333333333,Positive,193
-DigiLocker,niceee,4,2026-04-14 12:01:14,DigiLocker,niceee,0.0,Neutral,6
-DigiLocker,because this app is helping cbse for result,1,2026-04-14 11:46:14,DigiLocker,because this app is helping cbse for result,0.0,Neutral,43
-DigiLocker,nice,5,2026-04-14 09:37:39,DigiLocker,nice,0.6,Positive,4
-DigiLocker,"So, from my side I had good experience 👍",4,2026-04-14 09:27:32,DigiLocker,so from my side i had good experience,0.7,Positive,37
-DigiLocker,good,5,2026-04-14 08:42:31,DigiLocker,good,0.7,Positive,4
-DigiLocker,better service,5,2026-04-14 06:46:51,DigiLocker,better service,0.5,Positive,14
-DigiLocker,good app and very help full for me,5,2026-04-14 02:27:59,DigiLocker,good app and very help full for me,0.4166666666666667,Positive,34
-DigiLocker,Digilocker app is not opening abroad. Everytime message pops 'something went wrong'.,1,2026-04-14 02:05:15,DigiLocker,digilocker app is not opening abroad everytime message pops something went wrong,-0.5,Negative,80
-DigiLocker,Just another waste and bugged service by the government. As always. Great work for being useless!!!,1,2026-04-14 00:20:43,DigiLocker,just another waste and bugged service by the government as always great work for being useless,0.03333333333333336,Neutral,94
-DigiLocker,I used it to check my cbse class 10 result 2026,5,2026-04-13 23:11:29,DigiLocker,i used it to check my cbse class 10 result 2026,0.0,Neutral,47
-DigiLocker,super 😊 excellent 👍 good app,4,2026-04-13 23:05:27,DigiLocker,super  excellent  good app,0.6777777777777777,Positive,26
-DigiLocker,worst experience ever 😪,5,2026-04-13 22:39:38,DigiLocker,worst experience ever,-1.0,Negative,21
-DigiLocker,Now Digilocker Apps awesome..... Passport also included now..... Digilocker & Digiyatra must be merged for verification online .....So that only one Apps have multiple benefits.....,5,2026-04-13 22:34:05,DigiLocker,now digilocker apps awesome passport also included now digilocker  digiyatra must be merged for verification online so that only one apps have multiple benefits,0.3333333333333333,Positive,160
-DigiLocker,good loker,5,2026-04-13 21:13:13,DigiLocker,good loker,0.7,Positive,10
-DigiLocker,Learn to differentiate between VPN and a Firewall. Firewall is a security feature. Application should be able to work with it. I will not disable my firewall to use your largely useless app.,1,2026-04-13 20:37:49,DigiLocker,learn to differentiate between vpn and a firewall firewall is a security feature application should be able to work with it i will not disable my firewall to use your largely useless app,0.0,Neutral,186
-DigiLocker,its a perfect app to access documents anywhere in the world,5,2026-04-13 20:28:14,DigiLocker,its a perfect app to access documents anywhere in the world,1.0,Positive,59
-DigiLocker,good aap,5,2026-04-13 19:58:21,DigiLocker,good aap,0.7,Positive,8
-DigiLocker,very nice app,5,2026-04-13 18:13:11,DigiLocker,very nice app,0.78,Positive,13
-DigiLocker,not working for not upload documents 😩😩,1,2026-04-13 17:46:10,DigiLocker,not working for not upload documents,0.0,Neutral,36
-DigiLocker,nice,5,2026-04-13 17:20:53,DigiLocker,nice,0.6,Positive,4
-DigiLocker,please add option to Bihar students BSEB 10th and 12th marksheet in digilocker i am many times email by digilocker support team but not working in my complaint so I therefore request you please upload Bihar school examination board patna all documents uploaded option in digilocker apps like other state 10th 12th marksheet and other documents understand digilocker please 😭🙏,1,2026-04-13 17:19:05,DigiLocker,please add option to bihar students bseb 10th and 12th marksheet in digilocker i am many times email by digilocker support team but not working in my complaint so i therefore request you please upload bihar school examination board patna all documents uploaded option in digilocker apps like other state 10th 12th marksheet and other documents understand digilocker please,-0.012499999999999997,Neutral,372
-DigiLocker,useless app...the only thing this useless app can give is error.,1,2026-04-13 16:49:25,DigiLocker,useless appthe only thing this useless app can give is error,-0.3333333333333333,Negative,60
-DigiLocker,Please Provide Option to change Username and multiple accounts delete option.😎,1,2026-04-13 15:41:20,DigiLocker,please provide option to change username and multiple accounts delete option,0.0,Neutral,76
-UMANG,nice,5,2026-05-05 16:23:18,UMANG,nice,0.6,Positive,4
-UMANG,super,5,2026-05-05 16:11:57,UMANG,super,0.3333333333333333,Positive,5
-UMANG,good 👍,5,2026-05-05 15:59:51,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-05 15:45:25,UMANG,good,0.7,Positive,4
-UMANG,"excellent,very easy for pf money withdrawal",5,2026-05-05 15:35:27,UMANG,excellentvery easy for pf money withdrawal,0.43333333333333335,Positive,42
-UMANG,"unable to activate UAN via Umang app. It goes upto face recognition step and fails with error, ""FaceRD app error 9613""",1,2026-05-05 15:24:45,UMANG,unable to activate uan via umang app it goes upto face recognition step and fails with error facerd app error 9613,-0.5,Negative,114
-UMANG,nice,5,2026-05-05 15:23:13,UMANG,nice,0.6,Positive,4
-UMANG,good 👍,5,2026-05-05 15:07:38,UMANG,good,0.7,Positive,4
-UMANG,good,1,2026-05-05 14:58:12,UMANG,good,0.7,Positive,4
-UMANG,"My experience is very bad with UMANG and especially the PF department that is collecting money from PF members but not settling claims for them, people should stop using the PF service provided by government it's just another SCAM going on with people.",1,2026-05-05 14:44:39,UMANG,my experience is very bad with umang and especially the pf department that is collecting money from pf members but not settling claims for them people should stop using the pf service provided by government its just another scam going on with people,-0.4549999999999999,Negative,249
-UMANG,very good,5,2026-05-05 14:29:40,UMANG,very good,0.9099999999999999,Positive,9
-UMANG,good 👍,5,2026-05-05 14:22:07,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-05 14:22:00,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-05 13:47:59,UMANG,good,0.7,Positive,4
-UMANG,seor the best for the exams,5,2026-05-05 13:43:44,UMANG,seor the best for the exams,1.0,Positive,27
-UMANG,best app 👌,5,2026-05-05 13:39:30,UMANG,best app,1.0,Positive,8
-UMANG,Excellent👍,5,2026-05-05 13:33:54,UMANG,excellent,1.0,Positive,9
-UMANG,"very slow to load and change the client who handles this app,any alternative for umang",1,2026-05-05 13:20:51,UMANG,very slow to load and change the client who handles this appany alternative for umang,-0.39000000000000007,Negative,85
-UMANG,good,5,2026-05-05 13:13:07,UMANG,good,0.7,Positive,4
-UMANG,Good app for labours,5,2026-05-05 12:53:24,UMANG,good app for labours,0.7,Positive,20
-UMANG,very good,5,2026-05-05 12:34:17,UMANG,very good,0.9099999999999999,Positive,9
-UMANG,"I am trying to do Aadhar Face Authentication for EPFO and I am getting the error FaceRD app error 9613. The Aadhar Face RD app installed, yet the error continues",1,2026-05-05 12:16:21,UMANG,i am trying to do aadhar face authentication for epfo and i am getting the error facerd app error 9613 the aadhar face rd app installed yet the error continues,0.0,Neutral,159
-UMANG,"good and amazing, very helpfull",5,2026-05-05 12:13:34,UMANG,good and amazing very helpfull,0.5,Positive,30
-UMANG,good,5,2026-05-05 11:44:04,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-05 11:25:51,UMANG,good,0.7,Positive,4
-UMANG,very nice,5,2026-05-05 11:08:10,UMANG,very nice,0.78,Positive,9
-UMANG,good,5,2026-05-05 10:53:42,UMANG,good,0.7,Positive,4
-UMANG,super helpfully,5,2026-05-05 10:37:29,UMANG,super helpfully,0.3333333333333333,Positive,15
-UMANG,good,5,2026-05-05 10:09:10,UMANG,good,0.7,Positive,4
-UMANG,Best,5,2026-05-05 10:06:21,UMANG,best,1.0,Positive,4
-UMANG,app didt open on my phone it's keep loading ... didt fixed yet worst,4,2026-05-05 09:45:39,UMANG,app didt open on my phone its keep loading  didt fixed yet worst,-0.3,Negative,64
-UMANG,nice,5,2026-05-05 09:38:25,UMANG,nice,0.6,Positive,4
-UMANG,good,1,2026-05-05 09:34:43,UMANG,good,0.7,Positive,4
-UMANG,bakvas h,1,2026-05-05 09:24:36,UMANG,bakvas h,0.0,Neutral,8
-UMANG,good,5,2026-05-05 09:19:55,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-05 09:09:39,UMANG,good,0.7,Positive,4
-UMANG,Good,5,2026-05-05 08:48:14,UMANG,good,0.7,Positive,4
-UMANG,best to make it happen to make a great,5,2026-05-05 08:37:41,UMANG,best to make it happen to make a great,0.9,Positive,38
-UMANG,good app nice working,5,2026-05-05 08:26:54,UMANG,good app nice working,0.6499999999999999,Positive,21
-UMANG,very good,5,2026-05-05 08:17:54,UMANG,very good,0.9099999999999999,Positive,9
-UMANG,super,4,2026-05-05 08:06:26,UMANG,super,0.3333333333333333,Positive,5
-UMANG,very bad worse..then any other app or service...,1,2026-05-05 08:00:03,UMANG,very bad worsethen any other app or service,-0.5174999999999998,Negative,43
-UMANG,good,3,2026-05-05 07:56:57,UMANG,good,0.7,Positive,4
-UMANG,good,3,2026-05-05 07:55:45,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-05 07:54:12,UMANG,good,0.7,Positive,4
-UMANG,Good 👍,5,2026-05-05 07:44:37,UMANG,good,0.7,Positive,4
-UMANG,good app,5,2026-05-05 07:25:49,UMANG,good app,0.7,Positive,8
-UMANG,good app,5,2026-05-05 07:22:50,UMANG,good app,0.7,Positive,8
-UMANG,good,4,2026-05-05 07:17:32,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-05 07:11:39,UMANG,good,0.7,Positive,4
-UMANG,good,4,2026-05-05 06:56:00,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-05 06:55:37,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-05 06:53:04,UMANG,good,0.7,Positive,4
-UMANG,excellent,5,2026-05-05 06:23:33,UMANG,excellent,1.0,Positive,9
-UMANG,good,5,2026-05-05 01:25:44,UMANG,good,0.7,Positive,4
-UMANG,Nice app 👌,4,2026-05-05 00:45:07,UMANG,nice app,0.6,Positive,8
-UMANG,good,5,2026-05-04 23:42:54,UMANG,good,0.7,Positive,4
-UMANG,Nice,5,2026-05-04 23:13:27,UMANG,nice,0.6,Positive,4
-UMANG,good,2,2026-05-04 22:55:02,UMANG,good,0.7,Positive,4
-UMANG,very good,5,2026-05-04 22:51:51,UMANG,very good,0.9099999999999999,Positive,9
-UMANG,super Nise Umang app,5,2026-05-04 22:45:52,UMANG,super nise umang app,0.3333333333333333,Positive,20
-UMANG,nice,5,2026-05-04 22:24:12,UMANG,nice,0.6,Positive,4
-UMANG,This is amazing and I really appreciate the work on this platform. All the scheme on single platform. You can avail all the services on this.,5,2026-05-04 22:22:08,UMANG,this is amazing and i really appreciate the work on this platform all the scheme on single platform you can avail all the services on this,0.24285714285714288,Positive,138
-UMANG,super,5,2026-05-04 22:15:55,UMANG,super,0.3333333333333333,Positive,5
-UMANG,बहुत अच्छा,5,2026-05-04 22:04:54,UMANG,बहत अचछ,0.0,Neutral,7
-UMANG,good,5,2026-05-04 22:04:32,UMANG,good,0.7,Positive,4
-UMANG,vgood,5,2026-05-04 21:58:02,UMANG,vgood,0.0,Neutral,5
-UMANG,good 👍,5,2026-05-04 21:41:44,UMANG,good,0.7,Positive,4
-UMANG,bohot slow kam karne wala aap hai bohot jada time lagta hai bohot issue face karana padta hai,1,2026-05-04 21:33:55,UMANG,bohot slow kam karne wala aap hai bohot jada time lagta hai bohot issue face karana padta hai,-0.30000000000000004,Negative,93
-UMANG,good,4,2026-05-04 21:29:06,UMANG,good,0.7,Positive,4
-UMANG,this is really very good app for pF withdraw in a short time .. Thanks for umang,5,2026-05-04 21:19:02,UMANG,this is really very good app for pf withdraw in a short time  thanks for umang,0.36999999999999994,Positive,78
-UMANG,good 👍,3,2026-05-04 21:15:44,UMANG,good,0.7,Positive,4
-UMANG,good,3,2026-05-04 21:03:20,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-04 21:00:27,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-04 20:47:14,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-04 20:45:09,UMANG,good,0.7,Positive,4
-UMANG,unable to open apps please check urgent,1,2026-05-04 20:15:39,UMANG,unable to open apps please check urgent,-0.25,Negative,39
-UMANG,good,5,2026-05-04 20:11:02,UMANG,good,0.7,Positive,4
-UMANG,nice,5,2026-05-04 19:57:22,UMANG,nice,0.6,Positive,4
-UMANG,good,4,2026-05-04 19:54:09,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-04 19:45:55,UMANG,good,0.7,Positive,4
-UMANG,bad,1,2026-05-04 19:24:14,UMANG,bad,-0.6999999999999998,Negative,3
-UMANG,good,5,2026-05-04 18:16:34,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-04 17:39:24,UMANG,good,0.7,Positive,4
-UMANG,nice,5,2026-05-04 17:38:16,UMANG,nice,0.6,Positive,4
-UMANG,nice app,5,2026-05-04 16:46:31,UMANG,nice app,0.6,Positive,8
-UMANG,very good 👍,5,2026-05-04 16:37:15,UMANG,very good,0.9099999999999999,Positive,9
-UMANG,very good ❣️🌹,5,2026-05-04 16:31:24,UMANG,very good,0.9099999999999999,Positive,9
-UMANG,100% secure,5,2026-05-04 16:17:07,UMANG,100 secure,0.4,Positive,10
-UMANG,"I don't know how this app got 4.6 rating this is the worst app I have ever used. I can not even start it. it is stucked at the starting page I tried everything thing like restart, reinstall, permission, clearing cache, force stop and restarting but not even a single thing helped this app has 0 compatibility. This is the way how a govt app should work? worst experience ever",1,2026-05-04 16:15:55,UMANG,i dont know how this app got 46 rating this is the worst app i have ever used i can not even start it it is stucked at the starting page i tried everything thing like restart reinstall permission clearing cache force stop and restarting but not even a single thing helped this app has 0 compatibility this is the way how a govt app should work worst experience ever,-0.5178571428571428,Negative,365
-UMANG,good,5,2026-05-04 16:11:45,UMANG,good,0.7,Positive,4
-UMANG,good,4,2026-05-04 15:23:37,UMANG,good,0.7,Positive,4
-UMANG,avaragt,1,2026-05-04 15:21:28,UMANG,avaragt,0.0,Neutral,7
-UMANG,good,5,2026-05-04 15:09:12,UMANG,good,0.7,Positive,4
-UMANG,very good,5,2026-05-04 15:08:49,UMANG,very good,0.9099999999999999,Positive,9
-UMANG,Good,5,2026-05-04 14:38:39,UMANG,good,0.7,Positive,4
-UMANG,thank you 👍👍,5,2026-05-04 14:19:26,UMANG,thank you,0.0,Neutral,9
-UMANG,good,5,2026-05-04 14:10:16,UMANG,good,0.7,Positive,4
-UMANG,nice,5,2026-05-04 14:06:27,UMANG,nice,0.6,Positive,4
-UMANG,good,5,2026-05-04 14:03:29,UMANG,good,0.7,Positive,4
-UMANG,in application epfo register grievance ve i trai to may PF it not sanding otp and seing 24 house. mene 2 day ke bad fir se chek kiya tabhi aay 24 house kahi bta rha he mene jab grievance ke liye kabhi bhi pf nabar se verification kiya hi nay he to ye 24 house ka otp kayu bta rha he. plezz fix otp verified for grievance and Pf,1,2026-05-04 13:28:33,UMANG,in application epfo register grievance ve i trai to may pf it not sanding otp and seing 24 house mene 2 day ke bad fir se chek kiya tabhi aay 24 house kahi bta rha he mene jab grievance ke liye kabhi bhi pf nabar se verification kiya hi nay he to ye 24 house ka otp kayu bta rha he plezz fix otp verified for grievance and pf,-0.6999999999999998,Negative,325
-UMANG,good,5,2026-05-04 13:26:50,UMANG,good,0.7,Positive,4
-UMANG,super,5,2026-05-04 13:22:48,UMANG,super,0.3333333333333333,Positive,5
-UMANG,Good 😊,5,2026-05-04 13:20:43,UMANG,good,0.7,Positive,4
-UMANG,good app,5,2026-05-04 13:19:08,UMANG,good app,0.7,Positive,8
-UMANG,ok good,5,2026-05-04 13:14:28,UMANG,ok good,0.6,Positive,7
-UMANG,super aap,4,2026-05-04 12:56:22,UMANG,super aap,0.3333333333333333,Positive,9
-UMANG,super,5,2026-05-04 12:55:36,UMANG,super,0.3333333333333333,Positive,5
-UMANG,good application...,5,2026-05-04 12:52:48,UMANG,good application,0.7,Positive,16
-UMANG,good,4,2026-05-04 12:46:14,UMANG,good,0.7,Positive,4
-UMANG,"Always dealing with technical issues, what a terrible service by our government.",1,2026-05-04 12:39:00,UMANG,always dealing with technical issues what a terrible service by our government,-0.5,Negative,78
-UMANG,best app,1,2026-05-04 12:36:20,UMANG,best app,1.0,Positive,8
-UMANG,good,5,2026-05-04 12:30:31,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-04 12:22:31,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-04 12:17:32,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-04 12:12:52,UMANG,good,0.7,Positive,4
-UMANG,good 😊,5,2026-05-04 12:07:55,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-04 12:06:17,UMANG,good,0.7,Positive,4
-UMANG,nice,4,2026-05-04 12:05:47,UMANG,nice,0.6,Positive,4
-UMANG,good,5,2026-05-04 11:47:18,UMANG,good,0.7,Positive,4
-UMANG,very good,5,2026-05-04 11:45:56,UMANG,very good,0.9099999999999999,Positive,9
-UMANG,good,4,2026-05-04 11:27:07,UMANG,good,0.7,Positive,4
-UMANG,good experience,5,2026-05-04 11:20:19,UMANG,good experience,0.7,Positive,15
-UMANG,very good,5,2026-05-04 11:17:59,UMANG,very good,0.9099999999999999,Positive,9
-UMANG,good,5,2026-05-04 11:12:41,UMANG,good,0.7,Positive,4
-UMANG,Good,1,2026-05-04 11:08:36,UMANG,good,0.7,Positive,4
-UMANG,Good WORK IN APP,5,2026-05-04 10:58:18,UMANG,good work in app,0.7,Positive,16
-UMANG,very good,5,2026-05-04 10:51:32,UMANG,very good,0.9099999999999999,Positive,9
-UMANG,good,5,2026-05-04 10:46:08,UMANG,good,0.7,Positive,4
-UMANG,good aap,5,2026-05-04 10:37:36,UMANG,good aap,0.7,Positive,8
-UMANG,supar,3,2026-05-04 10:31:43,UMANG,supar,0.0,Neutral,5
-UMANG,so nice,5,2026-05-04 10:02:49,UMANG,so nice,0.6,Positive,7
-UMANG,very good,5,2026-05-04 09:59:48,UMANG,very good,0.9099999999999999,Positive,9
-UMANG,good,5,2026-05-04 09:44:12,UMANG,good,0.7,Positive,4
-UMANG,nice,5,2026-05-04 09:29:50,UMANG,nice,0.6,Positive,4
-UMANG,nice,4,2026-05-04 09:22:30,UMANG,nice,0.6,Positive,4
-UMANG,Good 👍,5,2026-05-04 09:09:26,UMANG,good,0.7,Positive,4
-UMANG,just started using and so useful to access your epf & digi locker at one place.,5,2026-05-04 09:07:52,UMANG,just started using and so useful to access your epf  digi locker at one place,0.3,Positive,77
-UMANG,not use,3,2026-05-04 08:58:30,UMANG,not use,0.0,Neutral,7
-UMANG,beautifull app,5,2026-05-04 08:34:35,UMANG,beautifull app,0.0,Neutral,14
-UMANG,good working,5,2026-05-04 08:32:42,UMANG,good working,0.7,Positive,12
-UMANG,nice,4,2026-05-04 08:08:34,UMANG,nice,0.6,Positive,4
-UMANG,photo submit hone ke baad app band kyon ho rahi hai woh be lagatar 10 days wrost service kabhi OTP nahi aata kabhi photo capture hone ke baad app closed without submit life certificate,1,2026-05-04 07:28:48,UMANG,photo submit hone ke baad app band kyon ho rahi hai woh be lagatar 10 days wrost service kabhi otp nahi aata kabhi photo capture hone ke baad app closed without submit life certificate,-0.1,Neutral,184
-UMANG,nice,5,2026-05-04 07:21:51,UMANG,nice,0.6,Positive,4
-UMANG,good,5,2026-05-04 07:18:07,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-04 07:02:47,UMANG,good,0.7,Positive,4
-UMANG,"What a pleasure to see such a great one app solution for majority of the government service needs. Almost evry government services covered. Whether queries or complaints, service request and tracking, all under one app. Birth certificate, aadhar, digi locker documents, EPFO, PM schemes, etc. So glad to have all digitized. But yes need to be more user friendly especially if you wish to target more wider rural audience. And why are you not promoting this app?? I hardly knew this app exists..",4,2026-05-04 07:02:01,UMANG,what a pleasure to see such a great one app solution for majority of the government service needs almost evry government services covered whether queries or complaints service request and tracking all under one app birth certificate aadhar digi locker documents epfo pm schemes etc so glad to have all digitized but yes need to be more user friendly especially if you wish to target more wider rural audience and why are you not promoting this app i hardly knew this app exists,0.26481481481481484,Positive,477
-UMANG,supar😄😘naku nachindi,4,2026-05-04 07:01:58,UMANG,suparnaku nachindi,0.0,Neutral,18
-UMANG,bahut accha hai,5,2026-05-04 06:38:26,UMANG,bahut accha hai,0.0,Neutral,15
-UMANG,"I am facing an issue while accessing the EPFO service on the UMANG platform. Every time I try to proceed, I receive an error message stating: ""It looks like you don't have permission to access this service."" My UAN is linked and my Aadhaar is verified, yet I cannot complete my request Please look into this technical glitch and resolve it at the earliest. I have attached a screenshot of the error for your reference.",5,2026-05-04 06:15:57,UMANG,i am facing an issue while accessing the epfo service on the umang platform every time i try to proceed i receive an error message stating it looks like you dont have permission to access this service my uan is linked and my aadhaar is verified yet i cannot complete my request please look into this technical glitch and resolve it at the earliest i have attached a screenshot of the error for your reference,0.05,Neutral,408
-UMANG,like,4,2026-05-04 06:09:08,UMANG,like,0.0,Neutral,4
-UMANG,good,5,2026-05-04 05:30:17,UMANG,good,0.7,Positive,4
-UMANG,good 👍,4,2026-05-04 04:59:37,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-04 02:03:53,UMANG,good,0.7,Positive,4
-UMANG,too slow aap not properly working,1,2026-05-04 01:30:08,UMANG,too slow aap not properly working,-0.15000000000000002,Negative,33
-UMANG,all in one app,5,2026-05-04 00:43:12,UMANG,all in one app,0.0,Neutral,14
-UMANG,good application,5,2026-05-04 00:12:55,UMANG,good application,0.7,Positive,16
-UMANG,good,5,2026-05-03 23:34:25,UMANG,good,0.7,Positive,4
-UMANG,nice,5,2026-05-03 23:31:03,UMANG,nice,0.6,Positive,4
-UMANG,nice,5,2026-05-03 22:58:53,UMANG,nice,0.6,Positive,4
-UMANG,Nice,5,2026-05-03 22:57:41,UMANG,nice,0.6,Positive,4
-UMANG,Good,4,2026-05-03 22:38:39,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-03 22:37:14,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-03 22:36:21,UMANG,good,0.7,Positive,4
-UMANG,excellent,5,2026-05-03 22:28:04,UMANG,excellent,1.0,Positive,9
-UMANG,This app is so bad that it gives you the offline feel of Indian Bureaucracy in online world. Pathetic,1,2026-05-03 22:23:13,UMANG,this app is so bad that it gives you the offline feel of indian bureaucracy in online world pathetic,-0.8499999999999999,Negative,100
-UMANG,This app is soo good and helpful,5,2026-05-03 22:14:54,UMANG,this app is soo good and helpful,0.7,Positive,32
-UMANG,good,5,2026-05-03 22:11:44,UMANG,good,0.7,Positive,4
-UMANG,nice app 👍,5,2026-05-03 22:08:09,UMANG,nice app,0.6,Positive,8
-UMANG,"app opens but shows only loading, i reinstall again bit the problem is same the problem is same n no erorr code",2,2026-05-03 22:00:57,UMANG,app opens but shows only loading i reinstall again bit the problem is same the problem is same n no erorr code,0.0,Neutral,110
-UMANG,good,4,2026-05-03 21:58:02,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-03 21:36:16,UMANG,good,0.7,Positive,4
-UMANG,best umang application,5,2026-05-03 21:10:29,UMANG,best umang application,1.0,Positive,22
-UMANG,my application please update sir,2,2026-05-03 21:00:00,UMANG,my application please update sir,0.0,Neutral,32
-UMANG,good,5,2026-05-03 20:31:29,UMANG,good,0.7,Positive,4
-UMANG,nice umang❤️❤️,5,2026-05-03 20:24:54,UMANG,nice umang,0.6,Positive,10
-UMANG,very good,5,2026-05-03 20:22:36,UMANG,very good,0.9099999999999999,Positive,9
-UMANG,very user friendly!!..,1,2026-05-03 20:05:50,UMANG,very user friendly,0.2875,Positive,18
-UMANG,good,5,2026-05-03 19:47:59,UMANG,good,0.7,Positive,4
-UMANG,super umang mobile phone apps,5,2026-05-03 19:33:53,UMANG,super umang mobile phone apps,0.3333333333333333,Positive,29
-UMANG,good,5,2026-05-03 19:17:05,UMANG,good,0.7,Positive,4
-UMANG,ek dam bekar app h jab bhut important work hota h ye baar baar invalid uan btata h sari information shi hone ke baad me kuch nhi btata h time wastage.,1,2026-05-03 18:48:26,UMANG,ek dam bekar app h jab bhut important work hota h ye baar baar invalid uan btata h sari information shi hone ke baad me kuch nhi btata h time wastage,0.4,Positive,149
-UMANG,good,4,2026-05-03 17:01:36,UMANG,good,0.7,Positive,4
-UMANG,nice,4,2026-05-03 16:52:49,UMANG,nice,0.6,Positive,4
-UMANG,slow processing,3,2026-05-03 16:44:10,UMANG,slow processing,-0.30000000000000004,Negative,15
-UMANG,very good,5,2026-05-03 16:41:45,UMANG,very good,0.9099999999999999,Positive,9
-UMANG,बहुत ठीक है और सुपर है फास्ट,1,2026-05-03 16:31:55,UMANG,बहत ठक ह और सपर ह फसट,0.0,Neutral,21
-UMANG,good,5,2026-05-03 16:30:23,UMANG,good,0.7,Positive,4
-UMANG,very good,5,2026-05-03 16:24:55,UMANG,very good,0.9099999999999999,Positive,9
-UMANG,good app,4,2026-05-03 16:20:25,UMANG,good app,0.7,Positive,8
-UMANG,good,3,2026-05-03 16:20:11,UMANG,good,0.7,Positive,4
-UMANG,thank you,5,2026-05-03 15:55:04,UMANG,thank you,0.0,Neutral,9
-UMANG,Pending PF not withdrawing ...,3,2026-05-03 15:50:00,UMANG,pending pf not withdrawing,0.0,Neutral,26
-UMANG,very good app for epf balance,5,2026-05-03 15:48:34,UMANG,very good app for epf balance,0.9099999999999999,Positive,29
-UMANG,GOOD,5,2026-05-03 15:35:31,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-03 15:31:50,UMANG,good,0.7,Positive,4
-UMANG,good,4,2026-05-03 15:29:48,UMANG,good,0.7,Positive,4
-UMANG,good 👍,5,2026-05-03 14:11:26,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-03 13:54:22,UMANG,good,0.7,Positive,4
-UMANG,nice,5,2026-05-03 13:50:52,UMANG,nice,0.6,Positive,4
-UMANG,good,5,2026-05-03 13:42:18,UMANG,good,0.7,Positive,4
-UMANG,good app,5,2026-05-03 13:41:22,UMANG,good app,0.7,Positive,8
-UMANG,good,5,2026-05-03 12:57:04,UMANG,good,0.7,Positive,4
-UMANG,best,5,2026-05-03 12:53:46,UMANG,best,1.0,Positive,4
-UMANG,nice 👍,5,2026-05-03 12:48:58,UMANG,nice,0.6,Positive,4
-UMANG,good,5,2026-05-03 11:57:08,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-03 11:49:23,UMANG,good,0.7,Positive,4
-UMANG,good,3,2026-05-03 11:48:29,UMANG,good,0.7,Positive,4
-UMANG,Super very nice,4,2026-05-03 11:23:48,UMANG,super very nice,0.5566666666666666,Positive,15
-UMANG,good,5,2026-05-03 11:19:48,UMANG,good,0.7,Positive,4
-UMANG,great sarvice,5,2026-05-03 11:11:09,UMANG,great sarvice,0.8,Positive,13
-UMANG,good,3,2026-05-03 11:03:30,UMANG,good,0.7,Positive,4
-UMANG,best,5,2026-05-03 10:54:16,UMANG,best,1.0,Positive,4
-UMANG,good,5,2026-05-03 10:38:30,UMANG,good,0.7,Positive,4
-UMANG,"Subject Issue with EPFO Service -""Permission Denied"" Error",1,2026-05-03 10:30:08,UMANG,subject issue with epfo service permission denied error,-0.16666666666666666,Negative,55
-UMANG,I love you umang,5,2026-05-03 10:15:55,UMANG,i love you umang,0.5,Positive,16
-UMANG,good,5,2026-05-03 09:30:07,UMANG,good,0.7,Positive,4
-UMANG,bad good,2,2026-05-03 09:24:01,UMANG,bad good,5.551115123125783e-17,Neutral,8
-UMANG,cool,5,2026-05-03 09:19:57,UMANG,cool,0.35,Positive,4
-UMANG,पीएफ केवाईसी,5,2026-05-03 09:09:26,UMANG,पएफ कवईस,0.0,Neutral,8
-UMANG,very easy and helpful app,5,2026-05-03 08:17:23,UMANG,very easy and helpful app,0.5633333333333334,Positive,25
-UMANG,good,5,2026-05-03 08:13:15,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-03 08:05:35,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-03 07:25:55,UMANG,good,0.7,Positive,4
-UMANG,Best,5,2026-05-03 07:24:36,UMANG,best,1.0,Positive,4
-UMANG,supar aap,5,2026-05-03 07:11:48,UMANG,supar aap,0.0,Neutral,9
-UMANG,super,5,2026-05-03 06:53:34,UMANG,super,0.3333333333333333,Positive,5
-UMANG,good,5,2026-05-03 05:17:58,UMANG,good,0.7,Positive,4
-UMANG,good 👍 app 😁👍🍀,5,2026-05-03 03:15:25,UMANG,good  app,0.7,Positive,9
-UMANG,Good Good very good,5,2026-05-02 23:16:07,UMANG,good good very good,0.7699999999999999,Positive,19
-UMANG,very good,5,2026-05-02 22:29:32,UMANG,very good,0.9099999999999999,Positive,9
-UMANG,good wire,5,2026-05-02 21:41:16,UMANG,good wire,0.7,Positive,9
-UMANG,be safe,5,2026-05-02 20:53:44,UMANG,be safe,0.5,Positive,7
-UMANG,very good,4,2026-05-02 20:11:26,UMANG,very good,0.9099999999999999,Positive,9
-UMANG,Useless App crashes most of the time. I don't know how a government can release such an app!?,1,2026-05-02 19:12:35,UMANG,useless app crashes most of the time i dont know how a government can release such an app,0.0,Neutral,89
-UMANG,waste app. never provides the required info. for anything i press it takes to some irrelevant page and asks for otp and then says limit exceeded,1,2026-05-02 18:38:18,UMANG,waste app never provides the required info for anything i press it takes to some irrelevant page and asks for otp and then says limit exceeded,-0.35,Negative,142
-UMANG,good,5,2026-05-02 18:18:28,UMANG,good,0.7,Positive,4
-UMANG,Good app useful,5,2026-05-02 18:16:55,UMANG,good app useful,0.5,Positive,15
-UMANG,Best app for umang,5,2026-05-02 17:20:06,UMANG,best app for umang,1.0,Positive,18
-UMANG,good,5,2026-05-02 17:19:56,UMANG,good,0.7,Positive,4
-UMANG,very nice and useful Aap👌👍,5,2026-05-02 17:07:10,UMANG,very nice and useful aap,0.54,Positive,24
-UMANG,Very good,1,2026-05-02 16:29:15,UMANG,very good,0.9099999999999999,Positive,9
-UMANG,The best app,5,2026-05-02 16:05:46,UMANG,the best app,1.0,Positive,12
-UMANG,good,5,2026-05-02 16:03:08,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-02 15:50:26,UMANG,good,0.7,Positive,4
-UMANG,very good,5,2026-05-02 15:26:18,UMANG,very good,0.9099999999999999,Positive,9
-UMANG,good 👍,5,2026-05-02 14:20:34,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-02 14:06:14,UMANG,good,0.7,Positive,4
-UMANG,nice,3,2026-05-02 13:38:53,UMANG,nice,0.6,Positive,4
-UMANG,good 👍,5,2026-05-02 12:45:55,UMANG,good,0.7,Positive,4
-UMANG,very good,5,2026-05-02 12:42:03,UMANG,very good,0.9099999999999999,Positive,9
-UMANG,superb,5,2026-05-02 12:06:10,UMANG,superb,1.0,Positive,6
-UMANG,Best,5,2026-05-02 11:51:35,UMANG,best,1.0,Positive,4
-UMANG,great app,5,2026-05-02 11:11:59,UMANG,great app,0.8,Positive,9
-UMANG,good,5,2026-05-02 10:46:51,UMANG,good,0.7,Positive,4
-UMANG,Very Very Nice Application For All 🗿,4,2026-05-02 10:39:07,UMANG,very very nice application for all,0.78,Positive,34
-UMANG,Very Very Nice Application 🗿,4,2026-05-02 10:38:02,UMANG,very very nice application,0.78,Positive,26
-UMANG,super,5,2026-05-02 09:55:47,UMANG,super,0.3333333333333333,Positive,5
-UMANG,very good app we can use,5,2026-05-02 09:53:07,UMANG,very good app we can use,0.9099999999999999,Positive,24
-UMANG,exilent,5,2026-05-02 09:38:48,UMANG,exilent,0.0,Neutral,7
-UMANG,good,5,2026-05-02 09:18:34,UMANG,good,0.7,Positive,4
-UMANG,nice 👍,5,2026-05-02 08:17:17,UMANG,nice,0.6,Positive,4
-UMANG,"My Documents We are unable to process your request at this time, please try again after some time Retry. in digilocker",1,2026-05-02 07:43:11,UMANG,my documents we are unable to process your request at this time please try again after some time retry in digilocker,-0.5,Negative,116
-UMANG,till now Umang is not working... many years im using this last 2 months lot of isuues,1,2026-05-02 07:35:45,UMANG,till now umang is not working many years im using this last 2 months lot of isuues,0.25,Positive,82
-UMANG,super 👍,5,2026-05-02 07:25:49,UMANG,super,0.3333333333333333,Positive,5
-UMANG,very useful,4,2026-05-01 23:49:15,UMANG,very useful,0.39,Positive,11
-UMANG,good 👍,1,2026-05-01 23:30:07,UMANG,good,0.7,Positive,4
-UMANG,nice 👍,5,2026-05-01 23:16:30,UMANG,nice,0.6,Positive,4
-UMANG,"the app is stuck at starting screen , no further screen is coming",1,2026-05-01 23:07:58,UMANG,the app is stuck at starting screen  no further screen is coming,0.0,Neutral,64
-UMANG,good aap,5,2026-05-01 22:05:09,UMANG,good aap,0.7,Positive,8
-UMANG,After doing FAT twice still getting SMS that it's pending and do it immediately. looks like some sync issue.,5,2026-05-01 22:01:36,UMANG,after doing fat twice still getting sms that its pending and do it immediately looks like some sync issue,0.0,Neutral,105
-UMANG,all good enough,4,2026-05-01 21:13:53,UMANG,all good enough,0.35,Positive,15
-UMANG,good,5,2026-05-01 21:08:26,UMANG,good,0.7,Positive,4
-UMANG,good umang app,5,2026-05-01 20:40:07,UMANG,good umang app,0.7,Positive,14
-UMANG,good,5,2026-05-01 19:22:18,UMANG,good,0.7,Positive,4
-UMANG,Every report would be fine.,5,2026-05-01 19:15:21,UMANG,every report would be fine,0.4166666666666667,Positive,26
-UMANG,niec,5,2026-05-01 19:10:17,UMANG,niec,0.0,Neutral,4
-UMANG,nice 👍,5,2026-05-01 19:04:29,UMANG,nice,0.6,Positive,4
-UMANG,good,5,2026-05-01 18:44:36,UMANG,good,0.7,Positive,4
-UMANG,useful,4,2026-05-01 17:31:25,UMANG,useful,0.3,Positive,6
-UMANG,excellent,5,2026-05-01 17:25:15,UMANG,excellent,1.0,Positive,9
-UMANG,Super,4,2026-05-01 17:10:32,UMANG,super,0.3333333333333333,Positive,5
-UMANG,✖️ very slow server,1,2026-05-01 16:46:54,UMANG,very slow server,-0.39000000000000007,Negative,16
-UMANG,umang app is best,5,2026-05-01 16:23:43,UMANG,umang app is best,1.0,Positive,17
-UMANG,good 👍,5,2026-05-01 16:21:38,UMANG,good,0.7,Positive,4
-UMANG,This app is more important.,5,2026-05-01 15:58:46,UMANG,this app is more important,0.45,Positive,26
-UMANG,umang app is very helpful for me thank you,5,2026-05-01 15:47:24,UMANG,umang app is very helpful for me thank you,0.2,Positive,42
-UMANG,good,4,2026-05-01 15:33:49,UMANG,good,0.7,Positive,4
-UMANG,VERRY GOOD,5,2026-05-01 15:07:41,UMANG,verry good,0.7,Positive,10
-UMANG,good 😊,4,2026-05-01 15:02:34,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-05-01 14:14:13,UMANG,good,0.7,Positive,4
-UMANG,Worst App I Ever Seen In My Life...,1,2026-05-01 13:51:01,UMANG,worst app i ever seen in my life,-1.0,Negative,32
-UMANG,GOOD APP EXCELLENT WORK,5,2026-05-01 13:45:21,UMANG,good app excellent work,0.85,Positive,23
-UMANG,nice to use,5,2026-05-01 12:28:53,UMANG,nice to use,0.6,Positive,11
-UMANG,nice app,5,2026-05-01 12:28:51,UMANG,nice app,0.6,Positive,8
-UMANG,nice,5,2026-05-01 11:52:44,UMANG,nice,0.6,Positive,4
-UMANG,nice,5,2026-05-01 11:31:16,UMANG,nice,0.6,Positive,4
-UMANG,Great,5,2026-05-01 11:25:06,UMANG,great,0.8,Positive,5
-UMANG,"unable to download UMANG App on one plus nod c3, tried from both with wifi and without still unable to download.",1,2026-05-01 11:24:31,UMANG,unable to download umang app on one plus nod c3 tried from both with wifi and without still unable to download,-0.5,Negative,110
-UMANG,badhiya,5,2026-05-01 11:13:53,UMANG,badhiya,0.0,Neutral,7
-UMANG,very good,5,2026-05-01 11:07:11,UMANG,very good,0.9099999999999999,Positive,9
-UMANG,average,3,2026-05-01 10:41:27,UMANG,average,-0.15,Negative,7
-UMANG,kaam hi nhi karta hai ye kya app banaya hai tumne isko thik karo phir rating maangna ok?,1,2026-05-01 10:26:37,UMANG,kaam hi nhi karta hai ye kya app banaya hai tumne isko thik karo phir rating maangna ok,0.5,Positive,87
-UMANG,thank,5,2026-05-01 10:22:42,UMANG,thank,0.0,Neutral,5
-UMANG,this is the best aap for employees,5,2026-05-01 10:01:44,UMANG,this is the best aap for employees,1.0,Positive,34
-UMANG,nice,5,2026-05-01 09:11:48,UMANG,nice,0.6,Positive,4
-UMANG,Good Good 👍,1,2026-05-01 09:11:02,UMANG,good good,0.7,Positive,9
-UMANG,long response time,1,2026-05-01 08:54:04,UMANG,long response time,-0.05,Neutral,18
-UMANG,great AAP,5,2026-05-01 08:12:20,UMANG,great aap,0.8,Positive,9
-UMANG,super work for epfo,5,2026-05-01 06:41:37,UMANG,super work for epfo,0.3333333333333333,Positive,19
-UMANG,I've got 5g connection and this app says network error try again..,1,2026-05-01 06:14:52,UMANG,ive got 5g connection and this app says network error try again,0.0,Neutral,63
-UMANG,very good app,5,2026-05-01 05:59:11,UMANG,very good app,0.9099999999999999,Positive,13
-UMANG,good👍,5,2026-05-01 05:28:56,UMANG,good,0.7,Positive,4
-UMANG,very good aap nice 👍,4,2026-05-01 04:01:42,UMANG,very good aap nice,0.7549999999999999,Positive,18
-UMANG,vary nice,5,2026-05-01 03:24:12,UMANG,vary nice,0.6,Positive,9
-UMANG,very good,5,2026-05-01 02:02:50,UMANG,very good,0.9099999999999999,Positive,9
-UMANG,best app,5,2026-04-30 23:22:05,UMANG,best app,1.0,Positive,8
-UMANG,best service,5,2026-04-30 23:05:50,UMANG,best service,1.0,Positive,12
-UMANG,पैसाचाहिए,5,2026-04-30 22:57:16,UMANG,पसचहए,0.0,Neutral,5
-UMANG,bast ap umang,5,2026-04-30 21:55:13,UMANG,bast ap umang,0.0,Neutral,13
-UMANG,super app,5,2026-04-30 21:33:05,UMANG,super app,0.3333333333333333,Positive,9
-UMANG,Not working on oppo reno11. Please help.,1,2026-04-30 21:15:29,UMANG,not working on oppo reno11 please help,0.0,Neutral,38
-UMANG,"Good App, but It could be more smooth and it's need to improve it's UI and animation and effects.",3,2026-04-30 20:40:46,UMANG,good app but it could be more smooth and its need to improve its ui and animation and effects,0.5333333333333333,Positive,93
-UMANG,nice very nice,5,2026-04-30 20:32:22,UMANG,nice very nice,0.69,Positive,14
-UMANG,super,5,2026-04-30 20:28:29,UMANG,super,0.3333333333333333,Positive,5
-UMANG,nice 👍,5,2026-04-30 20:20:12,UMANG,nice,0.6,Positive,4
-UMANG,very nice👍👍👍👍,5,2026-04-30 19:55:16,UMANG,very nice,0.78,Positive,9
-UMANG,good,5,2026-04-30 19:06:13,UMANG,good,0.7,Positive,4
-UMANG,one more worst application made by govt. whenever I tried to proceed with my epfo always stuck and say we are facing internal issue . no proper claim forms are available as per norms. whenever tried to connect with customer care through app always thay are not available and the number which is available is invalid no mail received no response that what the govt has done with there taxpayer also visit online portal there is no response and tried with local office as same all the stuff,1,2026-04-30 18:06:32,UMANG,one more worst application made by govt whenever i tried to proceed with my epfo always stuck and say we are facing internal issue  no proper claim forms are available as per norms whenever tried to connect with customer care through app always thay are not available and the number which is available is invalid no mail received no response that what the govt has done with there taxpayer also visit online portal there is no response and tried with local office as same all the stuff,0.011111111111111115,Neutral,485
-UMANG,nice,5,2026-04-30 16:54:33,UMANG,nice,0.6,Positive,4
-UMANG,excellent,5,2026-04-30 16:14:28,UMANG,excellent,1.0,Positive,9
-UMANG,we regrat saying always always like below ss,1,2026-04-30 15:30:15,UMANG,we regrat saying always always like below ss,0.0,Neutral,44
-UMANG,"PF withdrawal procedure is a sham......the checkboxes defaults to 31C claim options and shows form 15G(where's the updated form 121? ) hire developers who doesn't just copy pastes and use automation, rather spend some brain cells for work.....pathetic experience!!!!",1,2026-04-30 15:04:52,UMANG,pf withdrawal procedure is a shamthe checkboxes defaults to 31c claim options and shows form 15gwheres the updated form 121  hire developers who doesnt just copy pastes and use automation rather spend some brain cells for workpathetic experience,0.0,Neutral,245
-UMANG,"I have tried many times to raise a claim through Umang, but it hasn't registered on the EPFO portal. I have emailed Umang customer service three times without a positive response. It's quite frustrating.",1,2026-04-30 14:59:06,UMANG,i have tried many times to raise a claim through umang but it hasnt registered on the epfo portal i have emailed umang customer service three times without a positive response its quite frustrating,0.10909090909090909,Positive,197
-UMANG,Good,5,2026-04-30 14:37:13,UMANG,good,0.7,Positive,4
-UMANG,yaa I am here really appreciate you taking ok my name is ❤️ a SARVJEET KUMAR JHA AN I LIVE IN BIHAR PATNA INDIAN ARMY,5,2026-04-30 14:29:53,UMANG,yaa i am here really appreciate you taking ok my name is  a sarvjeet kumar jha an i live in bihar patna indian army,0.27878787878787875,Positive,115
-UMANG,good,5,2026-04-30 14:28:14,UMANG,good,0.7,Positive,4
-UMANG,nice,5,2026-04-30 14:12:03,UMANG,nice,0.6,Positive,4
-UMANG,Best all in one app,5,2026-04-30 14:11:01,UMANG,best all in one app,1.0,Positive,19
-UMANG,very bad service. Your app crash as soon as open it again and again,1,2026-04-30 14:01:27,UMANG,very bad service your app crash as soon as open it again and again,-0.4549999999999999,Negative,66
-UMANG,good,4,2026-04-30 13:32:22,UMANG,good,0.7,Positive,4
-UMANG,display work not showing in slow moment work umang app,2,2026-04-30 13:24:36,UMANG,display work not showing in slow moment work umang app,-0.30000000000000004,Negative,54
-UMANG,logs out user everytime just after login,1,2026-04-30 13:14:17,UMANG,logs out user everytime just after login,0.0,Neutral,40
-UMANG,good,5,2026-04-30 12:58:46,UMANG,good,0.7,Positive,4
-UMANG,Always slow but beneficial,5,2026-04-30 12:44:50,UMANG,always slow but beneficial,-0.30000000000000004,Negative,26
-UMANG,good,5,2026-04-30 12:20:01,UMANG,good,0.7,Positive,4
-UMANG,good app,5,2026-04-30 12:05:11,UMANG,good app,0.7,Positive,8
-UMANG,good,4,2026-04-30 11:20:02,UMANG,good,0.7,Positive,4
-UMANG,"Extremely frustrating experience with the UMANG app. I’ve been trying for hours just to log in, but I’m not receiving a single OTP despite multiple attempts. I tried everything Resending OTP, checking network, switching devices but nothing worked. For an app meant to provide essential government services, this level of unreliability is unacceptable. If users can’t even log in, what’s the point of the app? Seriously needs improvement in basic functionality. it's been 3 days and no response",1,2026-04-30 09:58:56,UMANG,extremely frustrating experience with the umang app ive been trying for hours just to log in but im not receiving a single otp despite multiple attempts i tried everything resending otp checking network switching devices but nothing worked for an app meant to provide essential government services this level of unreliability is unacceptable if users cant even log in whats the point of the app seriously needs improvement in basic functionality its been 3 days and no response,-0.13412698412698412,Negative,477
-UMANG,good,5,2026-04-30 07:53:56,UMANG,good,0.7,Positive,4
-UMANG,Exllance perfomense,5,2026-04-30 07:39:58,UMANG,exllance perfomense,0.0,Neutral,19
-UMANG,very good,5,2026-04-30 05:19:05,UMANG,very good,0.9099999999999999,Positive,9
-UMANG,"Games Apps Books Kids google_logo Play ￼ UMANG MeitY, Government Of India 4.6star 25.1L reviews ￼ Rated for 3+ info Government info 10Cr+ Downloads ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ About this app UMANG (Unified Mobile Application for New-age Governance) is envisaged to make e-governance 'mobile first'. It is developed by Ministry of Electronics and Information Technology (MeitY) and National e-Governance Division (NeGD). It is an evolving platform designed",5,2026-04-30 02:30:47,UMANG,games apps books kids google_logo play  umang meity government of india 46star 251l reviews  rated for 3 info government info 10cr downloads                   about this app umang unified mobile application for newage governance is envisaged to make egovernance mobile first it is developed by ministry of electronics and information technology meity and national egovernance division negd it is an evolving platform designed,0.175,Positive,425
-UMANG,Good,5,2026-04-29 22:54:44,UMANG,good,0.7,Positive,4
-UMANG,seriously not proper pf balance is not showing just after in a minute time the pf balance amount changes getting showing,1,2026-04-29 22:47:22,UMANG,seriously not proper pf balance is not showing just after in a minute time the pf balance amount changes getting showing,0.0,Neutral,120
-UMANG,i want to make an age national domicile certificate but the aple sarkar site is not working I was trying soo many times but not working please solve the issue 🙏🏻,1,2026-04-29 22:10:20,UMANG,i want to make an age national domicile certificate but the aple sarkar site is not working i was trying soo many times but not working please solve the issue,0.5,Positive,158
-UMANG,"The app is simply not opening. It just refuses to launch. This government app is also very slow, just like the government system itself 😡😡😡",1,2026-04-29 21:20:01,UMANG,the app is simply not opening it just refuses to launch this government app is also very slow just like the government system itself,-0.19500000000000003,Negative,132
-UMANG,Very good parfarmens,5,2026-04-29 20:47:06,UMANG,very good parfarmens,0.9099999999999999,Positive,20
-UMANG,"vxq @@@@@A,z a,zz2# ,Waa@@@@11,@£11sqw xx s",4,2026-04-29 20:41:57,UMANG,vxq az azz2 waa1111sqw xx s,0.0,Neutral,27
-UMANG,good,5,2026-04-29 20:37:31,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-04-29 20:34:34,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-04-29 20:24:53,UMANG,good,0.7,Positive,4
-UMANG,Nice,5,2026-04-29 20:01:18,UMANG,nice,0.6,Positive,4
-UMANG,very good umang,5,2026-04-29 18:43:10,UMANG,very good umang,0.9099999999999999,Positive,15
-UMANG,nice 👍🏼,1,2026-04-29 17:26:16,UMANG,nice,0.6,Positive,4
-UMANG,satananad Bais,5,2026-04-29 16:14:12,UMANG,satananad bais,0.0,Neutral,14
-UMANG,good app,5,2026-04-29 14:59:50,UMANG,good app,0.7,Positive,8
-UMANG,not useful,1,2026-04-29 14:46:02,UMANG,not useful,-0.15,Negative,10
-UMANG,Bekar app hai guys koi download mat kro service bahut hi jada khrb hai,2,2026-04-29 13:41:15,UMANG,bekar app hai guys koi download mat kro service bahut hi jada khrb hai,0.0,Neutral,70
-UMANG,app is not open,5,2026-04-29 13:05:54,UMANG,app is not open,0.0,Neutral,15
-UMANG,not open this app,5,2026-04-29 12:42:20,UMANG,not open this app,0.0,Neutral,17
-UMANG,idiot UMANG app it's customer care. nobody responded as I am not able to receive OTP at new registration. very bad app and service. govt is fooling to people. if it will not registered then how can you use.,1,2026-04-29 12:35:02,UMANG,idiot umang app its customer care nobody responded as i am not able to receive otp at new registration very bad app and service govt is fooling to people if it will not registered then how can you use,-0.4559090909090909,Negative,200
-UMANG,not receiving otp,1,2026-04-29 12:32:02,UMANG,not receiving otp,0.0,Neutral,17
-UMANG,didn't receive any otp how can I register without otp please explain...,2,2026-04-29 12:27:03,UMANG,didnt receive any otp how can i register without otp please explain,0.0,Neutral,67
-UMANG,"app is crashing, sometimes it works but It stucked when I try to perform any task...really a worst app",1,2026-04-29 12:17:59,UMANG,app is crashing sometimes it works but it stucked when i try to perform any taskreally a worst app,-1.0,Negative,98
-UMANG,worst appp,1,2026-04-29 12:13:42,UMANG,worst appp,-1.0,Negative,10
-UMANG,New ragistration karne per OTP hi nhi aati kitni bar try ker liya,2,2026-04-29 11:58:33,UMANG,new ragistration karne per otp hi nhi aati kitni bar try ker liya,0.13636363636363635,Positive,65
-UMANG,worst app getting otp after 30 min,1,2026-04-29 11:58:16,UMANG,worst app getting otp after 30 min,-1.0,Negative,34
-UMANG,good,1,2026-04-29 11:45:42,UMANG,good,0.7,Positive,4
-UMANG,excellent,5,2026-04-29 10:32:05,UMANG,excellent,1.0,Positive,9
-UMANG,service is slow,1,2026-04-29 08:59:55,UMANG,service is slow,-0.30000000000000004,Negative,15
-UMANG,good aap,5,2026-04-29 08:48:14,UMANG,good aap,0.7,Positive,8
-UMANG,great 👍,1,2026-04-29 08:41:07,UMANG,great,0.8,Positive,5
-UMANG,nice,5,2026-04-29 07:48:08,UMANG,nice,0.6,Positive,4
-UMANG,osm application,4,2026-04-29 06:23:45,UMANG,osm application,0.0,Neutral,15
-UMANG,working slow,1,2026-04-29 03:12:45,UMANG,working slow,-0.30000000000000004,Negative,12
-UMANG,very nice,5,2026-04-29 03:06:39,UMANG,very nice,0.78,Positive,9
-UMANG,Its awesome and very useful,4,2026-04-28 23:48:59,UMANG,its awesome and very useful,0.6950000000000001,Positive,27
-UMANG,best help apps,5,2026-04-28 21:52:36,UMANG,best help apps,1.0,Positive,14
-UMANG,Not able to download Pension Payment Order Please solve this problem,3,2026-04-28 21:15:35,UMANG,not able to download pension payment order please solve this problem,-0.25,Negative,68
-UMANG,Nice,5,2026-04-28 21:11:27,UMANG,nice,0.6,Positive,4
-UMANG,good,4,2026-04-28 20:47:31,UMANG,good,0.7,Positive,4
-UMANG,EPFO,5,2026-04-28 20:42:46,UMANG,epfo,0.0,Neutral,4
-UMANG,I didn't get the info what I needed through this app,3,2026-04-28 20:35:55,UMANG,i didnt get the info what i needed through this app,0.0,Neutral,51
-UMANG,very good,4,2026-04-28 20:27:45,UMANG,very good,0.9099999999999999,Positive,9
-UMANG,nice app,5,2026-04-28 20:18:21,UMANG,nice app,0.6,Positive,8
-UMANG,excellent,5,2026-04-28 20:13:40,UMANG,excellent,1.0,Positive,9
-UMANG,Good,5,2026-04-28 19:57:16,UMANG,good,0.7,Positive,4
-UMANG,Yah app use karne mein bahut hi Aasan hai government ki taraf se yah Ek acchi Suvidha hai,5,2026-04-28 19:55:01,UMANG,yah app use karne mein bahut hi aasan hai government ki taraf se yah ek acchi suvidha hai,0.0,Neutral,89
-UMANG,best,5,2026-04-28 19:50:11,UMANG,best,1.0,Positive,4
-UMANG,excellent app,5,2026-04-28 19:33:13,UMANG,excellent app,1.0,Positive,13
-UMANG,good,5,2026-04-28 19:11:41,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-04-28 18:54:41,UMANG,good,0.7,Positive,4
-UMANG,very bad service epfo,1,2026-04-28 18:48:09,UMANG,very bad service epfo,-0.9099999999999998,Negative,21
-UMANG,very good j,5,2026-04-28 18:04:58,UMANG,very good j,0.9099999999999999,Positive,11
-UMANG,good 👍,5,2026-04-28 17:47:56,UMANG,good,0.7,Positive,4
-UMANG,Good to use,4,2026-04-28 17:14:13,UMANG,good to use,0.7,Positive,11
-UMANG,"mai is application se bahut hi khush hu,mere liye bahut hi madadgaar hai !!",5,2026-04-28 16:58:20,UMANG,mai is application se bahut hi khush humere liye bahut hi madadgaar hai,0.0,Neutral,71
-UMANG,good,3,2026-04-28 16:33:55,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-04-28 16:31:39,UMANG,good,0.7,Positive,4
-UMANG,this aap is safe on your personal data,5,2026-04-28 16:26:45,UMANG,this aap is safe on your personal data,0.25,Positive,38
-UMANG,good 👍,4,2026-04-28 16:14:43,UMANG,good,0.7,Positive,4
-UMANG,amazing very good aap,5,2026-04-28 16:10:27,UMANG,amazing very good aap,0.755,Positive,21
-UMANG,app download but not working properly,4,2026-04-28 15:42:56,UMANG,app download but not working properly,0.0,Neutral,37
-UMANG,working not properly,2,2026-04-28 15:39:11,UMANG,working not properly,0.0,Neutral,20
-UMANG,nice,5,2026-04-28 15:32:28,UMANG,nice,0.6,Positive,4
-UMANG,good,4,2026-04-28 15:16:47,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-04-28 14:17:52,UMANG,good,0.7,Positive,4
-UMANG,good experience,5,2026-04-28 14:02:12,UMANG,good experience,0.7,Positive,15
-UMANG,good,5,2026-04-28 13:57:56,UMANG,good,0.7,Positive,4
-UMANG,good,5,2026-04-28 13:57:34,UMANG,good,0.7,Positive,4
-UMANG,"The advantage of this app is that you can avail the benefits of government schemes, you can also download bank statements, other special things are also available for us like school certificate, it is very good but sometimes This app is no less, please improve it so that we can take advantage of it.",4,2026-04-28 13:46:40,UMANG,the advantage of this app is that you can avail the benefits of government schemes you can also download bank statements other special things are also available for us like school certificate it is very good but sometimes this app is no less please improve it so that we can take advantage of it,0.32509523809523805,Positive,295
-UMANG,Good,5,2026-04-28 13:17:25,UMANG,good,0.7,Positive,4
-UMANG,nice,5,2026-04-28 12:38:02,UMANG,nice,0.6,Positive,4
-UMANG,very good,5,2026-04-28 12:34:39,UMANG,very good,0.9099999999999999,Positive,9
-UMANG,the app is not opening. doesn't show any error it's just frozen on first screen.,1,2026-04-28 12:12:46,UMANG,the app is not opening doesnt show any error its just frozen on first screen,0.25,Positive,76
-UMANG,UMANG make me more stress,1,2026-04-28 11:44:42,UMANG,umang make me more stress,0.5,Positive,25
-UMANG,gud,5,2026-04-28 11:13:39,UMANG,gud,0.0,Neutral,3
-UMANG,good,5,2026-04-28 10:39:13,UMANG,good,0.7,Positive,4
-UMANG,good app,5,2026-04-28 10:37:07,UMANG,good app,0.7,Positive,8
-UMANG,better,4,2026-04-28 10:32:12,UMANG,better,0.5,Positive,6
-UMANG,"Sir, main aapka, bahut Bada of Bhari Joe aapne Aisa app launch Ki yeh hai , this is a logo ko bahut suvidha hoti hai Yeah , I app duniya ka number App hai",5,2026-04-28 10:31:25,UMANG,sir main aapka bahut bada of bhari joe aapne aisa app launch ki yeh hai  this is a logo ko bahut suvidha hoti hai yeah  i app duniya ka number app hai,0.16666666666666666,Positive,150
-UMANG,v good,5,2026-04-28 09:31:40,UMANG,v good,0.7,Positive,6
-UMANG,bad,1,2026-04-28 08:53:03,UMANG,bad,-0.6999999999999998,Negative,3
-UMANG,very nice Aap,5,2026-04-28 08:26:47,UMANG,very nice aap,0.78,Positive,13
-UMANG,good workout,5,2026-04-28 07:14:13,UMANG,good workout,0.7,Positive,12
-UMANG,nice,5,2026-04-28 07:13:36,UMANG,nice,0.6,Positive,4
-UMANG,"Been trying to access EPFO passbook, nothing works. It's my fault for trusting the app.",1,2026-04-28 07:06:59,UMANG,been trying to access epfo passbook nothing works its my fault for trusting the app,0.0,Neutral,83
-UMANG,My umang app is not working it's keep loading anytime EPFO not opening please solve this problem,2,2026-04-28 06:46:18,UMANG,my umang app is not working its keep loading anytime epfo not opening please solve this problem,0.0,Neutral,95
-UMANG,good 👍 aap,5,2026-04-28 03:34:54,UMANG,good  aap,0.7,Positive,9
-UMANG,nice,4,2026-04-28 02:23:18,UMANG,nice,0.6,Positive,4
-UMANG,average,1,2026-04-28 01:57:53,UMANG,average,-0.15,Negative,7
-UMANG,"don't take a stressed, umang is here,",5,2026-04-28 01:10:56,UMANG,dont take a stressed umang is here,0.0,Neutral,34
-UMANG,sahi hai bhai,5,2026-04-28 00:37:16,UMANG,sahi hai bhai,0.0,Neutral,13
-UMANG,needs to improve app function,1,2026-04-28 00:24:07,UMANG,needs to improve app function,0.0,Neutral,29
-UMANG,nice,5,2026-04-27 23:39:48,UMANG,nice,0.6,Positive,4
-UMANG,Excellent,5,2026-04-27 23:32:08,UMANG,excellent,1.0,Positive,9
-UMANG,good app and heelffuly,5,2026-04-27 22:51:01,UMANG,good app and heelffuly,0.7,Positive,22
-UMANG,very nice,3,2026-04-27 22:08:13,UMANG,very nice,0.78,Positive,9
-UMANG,mera app se login nahi ho raha hai.. otp aya lekin invalid ho raha hai. please solve,1,2026-04-27 22:05:55,UMANG,mera app se login nahi ho raha hai otp aya lekin invalid ho raha hai please solve,0.0,Neutral,81
-UMANG,good 👍👍👍,5,2026-04-27 21:51:56,UMANG,good,0.7,Positive,4
-UMANG,rubbish app didn't receive otp try several time,1,2026-04-27 21:40:37,UMANG,rubbish app didnt receive otp try several time,0.0,Neutral,46
-UMANG,bahut aacha app hai,5,2026-04-27 21:38:30,UMANG,bahut aacha app hai,0.0,Neutral,19
-UMANG,"EPFO face authentication is not working even after verifying I am still getting the message to complete the face authentication. When I am retrying now, I am getting error for the past 3 days.",1,2026-04-27 21:35:45,UMANG,epfo face authentication is not working even after verifying i am still getting the message to complete the face authentication when i am retrying now i am getting error for the past 3 days,-0.075,Neutral,189
-UMANG,Excellent service,5,2026-04-27 19:29:23,UMANG,excellent service,1.0,Positive,17
-UMANG,"Why government apps are so pathetic, not sure which IT company made this app. Waiting for OTP to reach mine and my wife's phone from last one week. Only features that works fine is logging user out.",1,2026-04-27 18:54:41,UMANG,why government apps are so pathetic not sure which it company made this app waiting for otp to reach mine and my wifes phone from last one week only features that works fine is logging user out,-0.16666666666666666,Negative,193
-UMANG,epfo not working please check overall services,1,2026-04-27 17:25:48,UMANG,epfo not working please check overall services,0.0,Neutral,46
+UMANG,good,4,2026-05-16 17:09:41,UMANG,good,0.7,Positive,4
+UMANG,veri good 😊,5,2026-05-16 17:09:00,UMANG,veri good,0.7,Positive,9
+UMANG,Awesome,5,2026-05-16 17:08:23,UMANG,awesome,1.0,Positive,7
+UMANG,good,5,2026-05-16 17:08:12,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 17:04:04,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 17:03:08,UMANG,good,0.7,Positive,4
+UMANG,very good and helpful apps for all employees,5,2026-05-16 17:02:19,UMANG,very good and helpful apps for all employees,0.9099999999999999,Positive,44
+UMANG,good,5,2026-05-16 17:02:17,UMANG,good,0.7,Positive,4
+UMANG,very good service,5,2026-05-16 17:02:07,UMANG,very good service,0.9099999999999999,Positive,17
+UMANG,super,5,2026-05-16 16:57:14,UMANG,super,0.3333333333333333,Positive,5
+UMANG,good and helpful,4,2026-05-16 16:57:13,UMANG,good and helpful,0.7,Positive,16
+UMANG,good,4,2026-05-16 16:56:04,UMANG,good,0.7,Positive,4
+UMANG,Nice app,5,2026-05-16 16:54:02,UMANG,nice app,0.6,Positive,8
+UMANG,good,5,2026-05-16 16:54:00,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 16:52:10,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 16:51:23,UMANG,good,0.7,Positive,4
+UMANG,good,4,2026-05-16 16:50:47,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 16:50:06,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 16:46:23,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 16:46:01,UMANG,good,0.7,Positive,4
+UMANG,very fast and secure safe u,5,2026-05-16 16:45:58,UMANG,very fast and secure safe u,0.3866666666666667,Positive,27
+UMANG,thank you,5,2026-05-16 16:45:46,UMANG,thank you,0.0,Neutral,9
+UMANG,good,5,2026-05-16 16:41:06,UMANG,good,0.7,Positive,4
+UMANG,Excellent,5,2026-05-16 16:40:37,UMANG,excellent,1.0,Positive,9
+UMANG,good,5,2026-05-16 16:39:18,UMANG,good,0.7,Positive,4
+UMANG,good service,5,2026-05-16 16:37:44,UMANG,good service,0.7,Positive,12
+UMANG,"very band EPFO SERVICES, PLEASE REDUCE 7TH PAY AND DO NOT BRING 8TH PAY AT ALL FOR these employees, i can do there work much better and faster open challenge..give me 1 month training i can do that..",1,2026-05-16 16:35:30,UMANG,very band epfo services please reduce 7th pay and do not bring 8th pay at all for these employees i can do there work much better and faster open challengegive me 1 month training i can do that,0.2333333333333333,Positive,193
+UMANG,very good👍,5,2026-05-16 16:34:20,UMANG,very good,0.9099999999999999,Positive,9
+UMANG,good,5,2026-05-16 16:34:15,UMANG,good,0.7,Positive,4
+UMANG,very good,5,2026-05-16 16:34:05,UMANG,very good,0.9099999999999999,Positive,9
+UMANG,good,5,2026-05-16 16:33:41,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 16:32:50,UMANG,good,0.7,Positive,4
+UMANG,good work,5,2026-05-16 16:31:43,UMANG,good work,0.7,Positive,9
+UMANG,nice,5,2026-05-16 16:31:14,UMANG,nice,0.6,Positive,4
+UMANG,good 👍,5,2026-05-16 16:30:39,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 16:30:01,UMANG,good,0.7,Positive,4
+UMANG,good app,5,2026-05-16 16:28:53,UMANG,good app,0.7,Positive,8
+UMANG,good,5,2026-05-16 16:28:41,UMANG,good,0.7,Positive,4
+UMANG,good,4,2026-05-16 16:28:12,UMANG,good,0.7,Positive,4
+UMANG,always technical difficulties to raise pf claims,1,2026-05-16 16:25:03,UMANG,always technical difficulties to raise pf claims,0.0,Neutral,48
+UMANG,nice,5,2026-05-16 16:23:34,UMANG,nice,0.6,Positive,4
+UMANG,good aap,5,2026-05-16 16:19:46,UMANG,good aap,0.7,Positive,8
+UMANG,very good 👍,5,2026-05-16 16:19:45,UMANG,very good,0.9099999999999999,Positive,9
+UMANG,Nice,5,2026-05-16 16:17:24,UMANG,nice,0.6,Positive,4
+UMANG,good,3,2026-05-16 16:15:43,UMANG,good,0.7,Positive,4
+UMANG,good,4,2026-05-16 16:14:17,UMANG,good,0.7,Positive,4
+UMANG,good,1,2026-05-16 16:13:42,UMANG,good,0.7,Positive,4
+UMANG,best,5,2026-05-16 16:12:57,UMANG,best,1.0,Positive,4
+UMANG,good,5,2026-05-16 16:12:56,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 16:11:52,UMANG,good,0.7,Positive,4
+UMANG,nice,4,2026-05-16 16:11:18,UMANG,nice,0.6,Positive,4
+UMANG,excellent,5,2026-05-16 16:11:10,UMANG,excellent,1.0,Positive,9
+UMANG,good,5,2026-05-16 16:09:29,UMANG,good,0.7,Positive,4
+UMANG,good 👍,4,2026-05-16 16:08:01,UMANG,good,0.7,Positive,4
+UMANG,very good,5,2026-05-16 16:06:05,UMANG,very good,0.9099999999999999,Positive,9
+UMANG,thank you,5,2026-05-16 16:03:51,UMANG,thank you,0.0,Neutral,9
+UMANG,good,4,2026-05-16 16:03:50,UMANG,good,0.7,Positive,4
+UMANG,good app,5,2026-05-16 16:02:40,UMANG,good app,0.7,Positive,8
+UMANG,use full tha app very nice app 👌👌👌👌👌,5,2026-05-16 16:01:44,UMANG,use full tha app very nice app,0.565,Positive,30
+UMANG,good,5,2026-05-16 16:00:43,UMANG,good,0.7,Positive,4
+UMANG,Best Umang App,5,2026-05-16 16:00:15,UMANG,best umang app,1.0,Positive,14
+UMANG,good,2,2026-05-16 15:59:40,UMANG,good,0.7,Positive,4
+UMANG,nice 👍,5,2026-05-16 15:59:33,UMANG,nice,0.6,Positive,4
+UMANG,very good,3,2026-05-16 15:57:58,UMANG,very good,0.9099999999999999,Positive,9
+UMANG,nice easy to access,4,2026-05-16 15:55:25,UMANG,nice easy to access,0.5166666666666666,Positive,19
+UMANG,the application is not even opening and the application is not able to handling the opening 📉📉📉📉📉📉💀💀💀💀💀💀,1,2026-05-16 15:53:25,UMANG,the application is not even opening and the application is not able to handling the opening,-0.25,Negative,91
+UMANG,good service,5,2026-05-16 15:52:00,UMANG,good service,0.7,Positive,12
+UMANG,umang app good app but some time I use the epfo portal so let response,5,2026-05-16 15:49:36,UMANG,umang app good app but some time i use the epfo portal so let response,0.7,Positive,70
+UMANG,good,2,2026-05-16 15:47:23,UMANG,good,0.7,Positive,4
+UMANG,nice for support thank you,5,2026-05-16 15:46:43,UMANG,nice for support thank you,0.6,Positive,26
+UMANG,good,5,2026-05-16 15:46:10,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 15:44:53,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 15:43:49,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 15:43:44,UMANG,good,0.7,Positive,4
+UMANG,best,4,2026-05-16 15:40:07,UMANG,best,1.0,Positive,4
+UMANG,good 👍,5,2026-05-16 15:37:48,UMANG,good,0.7,Positive,4
+UMANG,good,3,2026-05-16 15:32:50,UMANG,good,0.7,Positive,4
+UMANG,nice,4,2026-05-16 15:32:46,UMANG,nice,0.6,Positive,4
+UMANG,very nice,5,2026-05-16 15:29:50,UMANG,very nice,0.78,Positive,9
+UMANG,good,5,2026-05-16 15:27:44,UMANG,good,0.7,Positive,4
+UMANG,very good,5,2026-05-16 15:26:55,UMANG,very good,0.9099999999999999,Positive,9
+UMANG,super,5,2026-05-16 15:26:52,UMANG,super,0.3333333333333333,Positive,5
+UMANG,good,5,2026-05-16 15:24:48,UMANG,good,0.7,Positive,4
+UMANG,excellent,5,2026-05-16 15:20:41,UMANG,excellent,1.0,Positive,9
+UMANG,good,5,2026-05-16 15:20:08,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 15:18:12,UMANG,good,0.7,Positive,4
+UMANG,okok,1,2026-05-16 15:17:52,UMANG,okok,0.0,Neutral,4
+UMANG,best,5,2026-05-16 15:16:44,UMANG,best,1.0,Positive,4
+UMANG,best,5,2026-05-16 15:15:39,UMANG,best,1.0,Positive,4
+UMANG,very good and,5,2026-05-16 15:15:04,UMANG,very good and,0.9099999999999999,Positive,13
+UMANG,good,5,2026-05-16 15:14:30,UMANG,good,0.7,Positive,4
+UMANG,super,5,2026-05-16 15:13:37,UMANG,super,0.3333333333333333,Positive,5
+UMANG,excellent,4,2026-05-16 15:13:19,UMANG,excellent,1.0,Positive,9
+UMANG,good,3,2026-05-16 15:13:15,UMANG,good,0.7,Positive,4
+UMANG,good wotks,4,2026-05-16 15:12:10,UMANG,good wotks,0.7,Positive,10
+UMANG,very good,5,2026-05-16 15:11:23,UMANG,very good,0.9099999999999999,Positive,9
+UMANG,most beautiful my experience,5,2026-05-16 15:10:51,UMANG,most beautiful my experience,0.675,Positive,28
+UMANG,good,5,2026-05-16 15:09:29,UMANG,good,0.7,Positive,4
+UMANG,nice performance,5,2026-05-16 15:08:25,UMANG,nice performance,0.6,Positive,16
+UMANG,good,5,2026-05-16 15:07:09,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 15:03:39,UMANG,good,0.7,Positive,4
+UMANG,late payment,5,2026-05-16 15:03:14,UMANG,late payment,-0.3,Negative,12
+UMANG,Nice app,5,2026-05-16 15:03:08,UMANG,nice app,0.6,Positive,8
+UMANG,very good 👍,5,2026-05-16 15:02:19,UMANG,very good,0.9099999999999999,Positive,9
+UMANG,good servise,5,2026-05-16 15:01:28,UMANG,good servise,0.7,Positive,12
+UMANG,good,5,2026-05-16 15:01:24,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 14:59:24,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 14:53:55,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 14:53:17,UMANG,good,0.7,Positive,4
+UMANG,super,5,2026-05-16 14:52:32,UMANG,super,0.3333333333333333,Positive,5
+UMANG,good,5,2026-05-16 14:51:47,UMANG,good,0.7,Positive,4
+UMANG,this app is best,5,2026-05-16 14:51:22,UMANG,this app is best,1.0,Positive,16
+UMANG,very nice,5,2026-05-16 14:50:40,UMANG,very nice,0.78,Positive,9
+UMANG,goog,5,2026-05-16 14:50:35,UMANG,goog,0.0,Neutral,4
+UMANG,good,4,2026-05-16 14:45:53,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 14:45:10,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 14:44:52,UMANG,good,0.7,Positive,4
+UMANG,osm,5,2026-05-16 14:40:35,UMANG,osm,0.0,Neutral,3
+UMANG,good sarvice,3,2026-05-16 14:39:23,UMANG,good sarvice,0.7,Positive,12
+UMANG,All Good,5,2026-05-16 14:39:19,UMANG,all good,0.7,Positive,8
+UMANG,good,2,2026-05-16 14:38:01,UMANG,good,0.7,Positive,4
+UMANG,good 👍,5,2026-05-16 14:37:12,UMANG,good,0.7,Positive,4
+UMANG,Nice,5,2026-05-16 14:36:23,UMANG,nice,0.6,Positive,4
+UMANG,"not user friendly, if any options like view passbook is very delayed Like nonsense",2,2026-05-16 14:35:57,UMANG,not user friendly if any options like view passbook is very delayed like nonsense,0.2875,Positive,81
+UMANG,nice app great support.,5,2026-05-16 14:35:08,UMANG,nice app great support,0.7,Positive,22
+UMANG,use this app,5,2026-05-16 14:35:01,UMANG,use this app,0.0,Neutral,12
+UMANG,good,5,2026-05-16 14:33:34,UMANG,good,0.7,Positive,4
+UMANG,good 👍,5,2026-05-16 14:32:20,UMANG,good,0.7,Positive,4
+UMANG,very helpful,4,2026-05-16 14:30:35,UMANG,very helpful,0.2,Positive,12
+UMANG,good,3,2026-05-16 14:30:22,UMANG,good,0.7,Positive,4
+UMANG,happy,5,2026-05-16 14:29:34,UMANG,happy,0.8,Positive,5
+UMANG,nice,5,2026-05-16 14:29:12,UMANG,nice,0.6,Positive,4
+UMANG,good 👍,5,2026-05-16 14:28:16,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 14:28:15,UMANG,good,0.7,Positive,4
+UMANG,excellent,5,2026-05-16 14:27:15,UMANG,excellent,1.0,Positive,9
+UMANG,good,5,2026-05-16 14:26:26,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 14:26:16,UMANG,good,0.7,Positive,4
+UMANG,nice service,5,2026-05-16 14:20:54,UMANG,nice service,0.6,Positive,12
+UMANG,good,2,2026-05-16 14:19:25,UMANG,good,0.7,Positive,4
+UMANG,mast app and pf khata chalu huaa hy,5,2026-05-16 14:18:21,UMANG,mast app and pf khata chalu huaa hy,0.0,Neutral,35
+UMANG,great,5,2026-05-16 14:18:14,UMANG,great,0.8,Positive,5
+UMANG,nice,5,2026-05-16 14:15:17,UMANG,nice,0.6,Positive,4
+UMANG,good,5,2026-05-16 14:15:10,UMANG,good,0.7,Positive,4
+UMANG,nice,5,2026-05-16 14:14:17,UMANG,nice,0.6,Positive,4
+UMANG,good,5,2026-05-16 14:13:15,UMANG,good,0.7,Positive,4
+UMANG,very good and useful,5,2026-05-16 14:13:13,UMANG,very good and useful,0.605,Positive,20
+UMANG,all right,5,2026-05-16 14:09:54,UMANG,all right,0.2857142857142857,Positive,9
+UMANG,awesome,5,2026-05-16 14:09:11,UMANG,awesome,1.0,Positive,7
+UMANG,good,5,2026-05-16 14:05:55,UMANG,good,0.7,Positive,4
+UMANG,👍good,4,2026-05-16 14:02:20,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 14:02:17,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 14:02:16,UMANG,good,0.7,Positive,4
+UMANG,this app is useful,5,2026-05-16 13:59:37,UMANG,this app is useful,0.3,Positive,18
+UMANG,bast aap,5,2026-05-16 13:58:21,UMANG,bast aap,0.0,Neutral,8
+UMANG,Excellent,5,2026-05-16 13:56:25,UMANG,excellent,1.0,Positive,9
+UMANG,nice App,5,2026-05-16 13:55:14,UMANG,nice app,0.6,Positive,8
+UMANG,great apps providing so many detail of employee,5,2026-05-16 13:54:59,UMANG,great apps providing so many detail of employee,0.65,Positive,47
+UMANG,good 👍,1,2026-05-16 13:54:48,UMANG,good,0.7,Positive,4
+UMANG,good,4,2026-05-16 13:51:12,UMANG,good,0.7,Positive,4
+UMANG,Good service,4,2026-05-16 13:50:13,UMANG,good service,0.7,Positive,12
+UMANG,good,5,2026-05-16 13:50:01,UMANG,good,0.7,Positive,4
+UMANG,ok good,5,2026-05-16 13:47:06,UMANG,ok good,0.6,Positive,7
+UMANG,good,5,2026-05-16 13:46:59,UMANG,good,0.7,Positive,4
+UMANG,excellent,5,2026-05-16 13:46:29,UMANG,excellent,1.0,Positive,9
+UMANG,good,4,2026-05-16 13:44:41,UMANG,good,0.7,Positive,4
+UMANG,nice,5,2026-05-16 13:44:35,UMANG,nice,0.6,Positive,4
+UMANG,good,5,2026-05-16 13:43:54,UMANG,good,0.7,Positive,4
+UMANG,🫶 happy,5,2026-05-16 13:43:51,UMANG,happy,0.8,Positive,5
+UMANG,good,5,2026-05-16 13:39:54,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 13:37:21,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 13:35:51,UMANG,good,0.7,Positive,4
+UMANG,nice,5,2026-05-16 13:34:57,UMANG,nice,0.6,Positive,4
+UMANG,good,5,2026-05-16 13:34:25,UMANG,good,0.7,Positive,4
+UMANG,nice 1,5,2026-05-16 13:34:22,UMANG,nice 1,0.6,Positive,6
+UMANG,i love this app,5,2026-05-16 13:33:27,UMANG,i love this app,0.5,Positive,15
+UMANG,good,3,2026-05-16 13:33:26,UMANG,good,0.7,Positive,4
+UMANG,wow 😲,5,2026-05-16 13:32:39,UMANG,wow,0.1,Neutral,3
+UMANG,good,5,2026-05-16 13:28:53,UMANG,good,0.7,Positive,4
+UMANG,nice👌,5,2026-05-16 13:28:46,UMANG,nice,0.6,Positive,4
+UMANG,very good,5,2026-05-16 13:26:56,UMANG,very good,0.9099999999999999,Positive,9
+UMANG,good,5,2026-05-16 13:26:35,UMANG,good,0.7,Positive,4
+UMANG,app not opening,1,2026-05-16 13:25:40,UMANG,app not opening,0.0,Neutral,15
+UMANG,good,5,2026-05-16 13:22:16,UMANG,good,0.7,Positive,4
+UMANG,good,4,2026-05-16 13:19:46,UMANG,good,0.7,Positive,4
+UMANG,nice,5,2026-05-16 13:19:41,UMANG,nice,0.6,Positive,4
+UMANG,good,5,2026-05-16 13:18:56,UMANG,good,0.7,Positive,4
+UMANG,awesome,5,2026-05-16 13:18:07,UMANG,awesome,1.0,Positive,7
+UMANG,bahut achcha,5,2026-05-16 13:17:29,UMANG,bahut achcha,0.0,Neutral,12
+UMANG,good app,5,2026-05-16 13:17:23,UMANG,good app,0.7,Positive,8
+UMANG,app is hacking software issues please update check the app application s employees Data private security please 🙏🏻,3,2026-05-16 13:13:30,UMANG,app is hacking software issues please update check the app application s employees data private security please,0.0,Neutral,111
+UMANG,usefull,5,2026-05-16 13:12:48,UMANG,usefull,0.0,Neutral,7
+UMANG,nice,5,2026-05-16 13:12:17,UMANG,nice,0.6,Positive,4
+UMANG,good and service,5,2026-05-16 13:12:07,UMANG,good and service,0.7,Positive,16
+UMANG,best,5,2026-05-16 13:11:21,UMANG,best,1.0,Positive,4
+UMANG,good,5,2026-05-16 13:08:34,UMANG,good,0.7,Positive,4
+UMANG,hii this app useful good,5,2026-05-16 13:07:34,UMANG,hii this app useful good,0.5,Positive,24
+UMANG,super,5,2026-05-16 13:06:56,UMANG,super,0.3333333333333333,Positive,5
+UMANG,nice,5,2026-05-16 13:05:54,UMANG,nice,0.6,Positive,4
+UMANG,nice 🙂,2,2026-05-16 13:04:06,UMANG,nice,0.6,Positive,4
+UMANG,good,5,2026-05-16 13:02:53,UMANG,good,0.7,Positive,4
+UMANG,best,5,2026-05-16 12:55:22,UMANG,best,1.0,Positive,4
+UMANG,very good apps,5,2026-05-16 12:54:46,UMANG,very good apps,0.9099999999999999,Positive,14
+UMANG,good,5,2026-05-16 12:54:26,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 12:53:50,UMANG,good,0.7,Positive,4
+UMANG,very good apps,5,2026-05-16 12:52:20,UMANG,very good apps,0.9099999999999999,Positive,14
+UMANG,good,5,2026-05-16 12:51:26,UMANG,good,0.7,Positive,4
+UMANG,Bank a/c KYC karna tha kintu app par KYC karne ka option hi nahi khulta hai,2,2026-05-16 12:51:03,UMANG,bank ac kyc karna tha kintu app par kyc karne ka option hi nahi khulta hai,0.0,Neutral,74
+UMANG,super,5,2026-05-16 12:50:07,UMANG,super,0.3333333333333333,Positive,5
+UMANG,Best app.,5,2026-05-16 12:49:59,UMANG,best app,1.0,Positive,8
+UMANG,good,1,2026-05-16 12:48:56,UMANG,good,0.7,Positive,4
+UMANG,excellent,5,2026-05-16 12:47:35,UMANG,excellent,1.0,Positive,9
+UMANG,good,5,2026-05-16 12:46:19,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 12:45:54,UMANG,good,0.7,Positive,4
+UMANG,nice service,5,2026-05-16 12:45:42,UMANG,nice service,0.6,Positive,12
+UMANG,good,5,2026-05-16 12:42:56,UMANG,good,0.7,Positive,4
+UMANG,superb,5,2026-05-16 12:41:50,UMANG,superb,1.0,Positive,6
+UMANG,good,4,2026-05-16 12:41:19,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 12:41:14,UMANG,good,0.7,Positive,4
+UMANG,nice,4,2026-05-16 12:41:10,UMANG,nice,0.6,Positive,4
+UMANG,excellent,5,2026-05-16 12:40:56,UMANG,excellent,1.0,Positive,9
+UMANG,always shows technical issue,1,2026-05-16 12:40:07,UMANG,always shows technical issue,0.0,Neutral,28
+UMANG,best,5,2026-05-16 12:36:38,UMANG,best,1.0,Positive,4
+UMANG,it's good for employees,4,2026-05-16 12:34:50,UMANG,its good for employees,0.7,Positive,22
+UMANG,good,4,2026-05-16 12:34:38,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 12:34:11,UMANG,good,0.7,Positive,4
+UMANG,nice,4,2026-05-16 12:33:44,UMANG,nice,0.6,Positive,4
+UMANG,good,4,2026-05-16 12:32:58,UMANG,good,0.7,Positive,4
+UMANG,Need some simple steps to understand,5,2026-05-16 12:32:10,UMANG,need some simple steps to understand,0.0,Neutral,36
+UMANG,Best,5,2026-05-16 12:31:59,UMANG,best,1.0,Positive,4
+UMANG,great,5,2026-05-16 12:27:57,UMANG,great,0.8,Positive,5
+UMANG,nice,4,2026-05-16 12:26:50,UMANG,nice,0.6,Positive,4
+UMANG,nice app,5,2026-05-16 12:26:04,UMANG,nice app,0.6,Positive,8
+UMANG,nice 👍,5,2026-05-16 12:25:56,UMANG,nice,0.6,Positive,4
+UMANG,Good,5,2026-05-16 12:24:11,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 12:22:43,UMANG,good,0.7,Positive,4
+UMANG,All in one 👍❤,5,2026-05-16 12:20:49,UMANG,all in one,0.0,Neutral,10
+UMANG,good,5,2026-05-16 12:18:35,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 12:18:27,UMANG,good,0.7,Positive,4
+UMANG,not working app PF passbook not working bad bahut slow chalta hai aur work nahin kar raha hai,1,2026-05-16 12:18:19,UMANG,not working app pf passbook not working bad bahut slow chalta hai aur work nahin kar raha hai,-0.49999999999999994,Negative,93
+UMANG,good,3,2026-05-16 12:16:48,UMANG,good,0.7,Positive,4
+UMANG,Nice,5,2026-05-16 12:16:33,UMANG,nice,0.6,Positive,4
+UMANG,good 👍👍👍,5,2026-05-16 12:12:21,UMANG,good,0.7,Positive,4
+UMANG,super,5,2026-05-16 12:07:55,UMANG,super,0.3333333333333333,Positive,5
+UMANG,okk,5,2026-05-16 12:05:44,UMANG,okk,0.0,Neutral,3
+UMANG,ok ok hy,4,2026-05-16 12:05:38,UMANG,ok ok hy,0.5,Positive,8
+UMANG,super,5,2026-05-16 12:05:21,UMANG,super,0.3333333333333333,Positive,5
+UMANG,thank you,5,2026-05-16 12:03:54,UMANG,thank you,0.0,Neutral,9
+UMANG,best,5,2026-05-16 12:03:23,UMANG,best,1.0,Positive,4
+UMANG,good,5,2026-05-16 12:02:15,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 12:01:58,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 12:01:43,UMANG,good,0.7,Positive,4
+UMANG,Very helpful but .,3,2026-05-16 12:01:37,UMANG,very helpful but,0.2,Positive,16
+UMANG,Good,5,2026-05-16 11:59:13,UMANG,good,0.7,Positive,4
+UMANG,very good,5,2026-05-16 11:57:02,UMANG,very good,0.9099999999999999,Positive,9
+UMANG,nice,5,2026-05-16 11:56:22,UMANG,nice,0.6,Positive,4
+UMANG,nice app,5,2026-05-16 11:50:02,UMANG,nice app,0.6,Positive,8
+UMANG,good,5,2026-05-16 11:48:28,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 11:48:05,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 11:48:04,UMANG,good,0.7,Positive,4
+UMANG,perfect👍💯,5,2026-05-16 11:47:14,UMANG,perfect,1.0,Positive,7
+UMANG,nice,5,2026-05-16 11:46:23,UMANG,nice,0.6,Positive,4
+UMANG,"Update - Can only view epfo passbooks, but cant update nominee details. Website has been broken since last 2 years. Every time randomly I check the website to login and update the nominee, the website doesn't even load and doesn't even have https connection.",1,2026-05-16 11:43:13,UMANG,update  can only view epfo passbooks but cant update nominee details website has been broken since last 2 years every time randomly i check the website to login and update the nominee the website doesnt even load and doesnt even have https connection,-0.225,Negative,250
+UMANG,very good 👍👍👍👍👍👍👍,5,2026-05-16 11:43:09,UMANG,very good,0.9099999999999999,Positive,9
+UMANG,nice,2,2026-05-16 11:40:54,UMANG,nice,0.6,Positive,4
+UMANG,best,5,2026-05-16 11:40:36,UMANG,best,1.0,Positive,4
+UMANG,nice app,5,2026-05-16 11:40:01,UMANG,nice app,0.6,Positive,8
+UMANG,good aps,5,2026-05-16 11:38:11,UMANG,good aps,0.7,Positive,8
+UMANG,super,5,2026-05-16 11:36:30,UMANG,super,0.3333333333333333,Positive,5
+UMANG,good,5,2026-05-16 11:35:47,UMANG,good,0.7,Positive,4
+UMANG,Good,5,2026-05-16 11:34:51,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 11:34:20,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 11:27:56,UMANG,good,0.7,Positive,4
+UMANG,good 👍,3,2026-05-16 11:25:36,UMANG,good,0.7,Positive,4
+UMANG,soperb,5,2026-05-16 11:24:19,UMANG,soperb,0.0,Neutral,6
+UMANG,good job,5,2026-05-16 11:24:07,UMANG,good job,0.7,Positive,8
+UMANG,nice,5,2026-05-16 11:23:48,UMANG,nice,0.6,Positive,4
+UMANG,Good Service,5,2026-05-16 11:23:25,UMANG,good service,0.7,Positive,12
+UMANG,worst,1,2026-05-16 11:23:09,UMANG,worst,-1.0,Negative,5
+UMANG,very good,4,2026-05-16 11:22:46,UMANG,very good,0.9099999999999999,Positive,9
+UMANG,good,5,2026-05-16 11:20:02,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 11:19:19,UMANG,good,0.7,Positive,4
+UMANG,this is very good app for pf passbook chek,5,2026-05-16 11:19:09,UMANG,this is very good app for pf passbook chek,0.9099999999999999,Positive,42
+UMANG,good,4,2026-05-16 11:19:03,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 11:18:48,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 11:17:55,UMANG,good,0.7,Positive,4
+UMANG,nice,4,2026-05-16 11:17:08,UMANG,nice,0.6,Positive,4
+UMANG,good,5,2026-05-16 11:13:08,UMANG,good,0.7,Positive,4
+UMANG,good 👍,5,2026-05-16 11:12:07,UMANG,good,0.7,Positive,4
+UMANG,Good,5,2026-05-16 11:11:01,UMANG,good,0.7,Positive,4
+UMANG,nice,5,2026-05-16 11:09:32,UMANG,nice,0.6,Positive,4
+UMANG,nice,5,2026-05-16 11:04:48,UMANG,nice,0.6,Positive,4
+UMANG,good,5,2026-05-16 11:03:57,UMANG,good,0.7,Positive,4
+UMANG,nice,4,2026-05-16 11:03:02,UMANG,nice,0.6,Positive,4
+UMANG,best application,5,2026-05-16 11:02:13,UMANG,best application,1.0,Positive,16
+UMANG,not good,1,2026-05-16 11:00:13,UMANG,not good,-0.35,Negative,8
+UMANG,thank you 😊😊😊,5,2026-05-16 10:58:48,UMANG,thank you,0.0,Neutral,9
+UMANG,good,2,2026-05-16 10:57:23,UMANG,good,0.7,Positive,4
+UMANG,very good,5,2026-05-16 10:54:57,UMANG,very good,0.9099999999999999,Positive,9
+UMANG,good to use,4,2026-05-16 10:54:30,UMANG,good to use,0.7,Positive,11
+UMANG,good app,5,2026-05-16 10:53:19,UMANG,good app,0.7,Positive,8
+UMANG,Good,4,2026-05-16 10:51:50,UMANG,good,0.7,Positive,4
+UMANG,nice work,5,2026-05-16 10:49:14,UMANG,nice work,0.6,Positive,9
+UMANG,nice,5,2026-05-16 10:48:00,UMANG,nice,0.6,Positive,4
+UMANG,super,5,2026-05-16 10:45:48,UMANG,super,0.3333333333333333,Positive,5
+UMANG,very nice,5,2026-05-16 10:45:32,UMANG,very nice,0.78,Positive,9
+UMANG,very good very easy,5,2026-05-16 10:45:29,UMANG,very good very easy,0.7366666666666666,Positive,19
+UMANG,good,5,2026-05-16 10:45:00,UMANG,good,0.7,Positive,4
+UMANG,super,1,2026-05-16 10:44:48,UMANG,super,0.3333333333333333,Positive,5
+UMANG,nice,5,2026-05-16 10:44:39,UMANG,nice,0.6,Positive,4
+UMANG,good,4,2026-05-16 10:41:02,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 10:40:18,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 10:40:15,UMANG,good,0.7,Positive,4
+UMANG,veri good,4,2026-05-16 10:39:40,UMANG,veri good,0.7,Positive,9
+UMANG,good,5,2026-05-16 10:38:56,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 10:37:22,UMANG,good,0.7,Positive,4
+UMANG,good,4,2026-05-16 10:36:01,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 10:34:59,UMANG,good,0.7,Positive,4
+UMANG,wow,4,2026-05-16 10:34:17,UMANG,wow,0.1,Neutral,3
+UMANG,good,1,2026-05-16 10:33:45,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 10:33:22,UMANG,good,0.7,Positive,4
+UMANG,nice,5,2026-05-16 10:32:31,UMANG,nice,0.6,Positive,4
+UMANG,very good,5,2026-05-16 10:26:29,UMANG,very good,0.9099999999999999,Positive,9
+UMANG,nice 👍,5,2026-05-16 10:25:52,UMANG,nice,0.6,Positive,4
+UMANG,Good,4,2026-05-16 10:25:03,UMANG,good,0.7,Positive,4
+UMANG,good app,5,2026-05-16 10:22:14,UMANG,good app,0.7,Positive,8
+UMANG,good,4,2026-05-16 10:20:52,UMANG,good,0.7,Positive,4
+UMANG,thank you umang,5,2026-05-16 10:15:48,UMANG,thank you umang,0.0,Neutral,15
+UMANG,Good,5,2026-05-16 10:11:59,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 10:11:39,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 10:11:19,UMANG,good,0.7,Positive,4
+UMANG,nice,5,2026-05-16 10:10:07,UMANG,nice,0.6,Positive,4
+UMANG,good,5,2026-05-16 10:09:47,UMANG,good,0.7,Positive,4
+UMANG,number 1 good,5,2026-05-16 10:08:15,UMANG,number 1 good,0.7,Positive,13
+UMANG,Better,5,2026-05-16 10:08:05,UMANG,better,0.5,Positive,6
+UMANG,good,5,2026-05-16 10:07:22,UMANG,good,0.7,Positive,4
+UMANG,good,4,2026-05-16 10:07:10,UMANG,good,0.7,Positive,4
+UMANG,best service in umang and added you contact to authority new option add,5,2026-05-16 10:05:36,UMANG,best service in umang and added you contact to authority new option add,0.5681818181818181,Positive,71
+UMANG,nice app,5,2026-05-16 10:05:18,UMANG,nice app,0.6,Positive,8
+UMANG,osam,5,2026-05-16 10:02:42,UMANG,osam,0.0,Neutral,4
+UMANG,good,5,2026-05-16 10:02:22,UMANG,good,0.7,Positive,4
+UMANG,good,3,2026-05-16 10:00:11,UMANG,good,0.7,Positive,4
+UMANG,Excellent,5,2026-05-16 09:56:03,UMANG,excellent,1.0,Positive,9
+UMANG,good m,4,2026-05-16 09:54:06,UMANG,good m,0.7,Positive,6
+UMANG,excellent app I always used,5,2026-05-16 09:53:45,UMANG,excellent app i always used,1.0,Positive,27
+UMANG,super 😍,5,2026-05-16 09:53:23,UMANG,super,0.3333333333333333,Positive,5
+UMANG,good,5,2026-05-16 09:53:21,UMANG,good,0.7,Positive,4
+UMANG,khub valo app,5,2026-05-16 09:52:44,UMANG,khub valo app,0.0,Neutral,13
+UMANG,good,5,2026-05-16 09:51:56,UMANG,good,0.7,Positive,4
+UMANG,good,4,2026-05-16 09:51:22,UMANG,good,0.7,Positive,4
+UMANG,Thank you for,5,2026-05-16 09:50:22,UMANG,thank you for,0.0,Neutral,13
+UMANG,smile 😍,1,2026-05-16 09:50:18,UMANG,smile,0.3,Positive,5
+UMANG,good,5,2026-05-16 09:49:36,UMANG,good,0.7,Positive,4
+UMANG,Good 👍,3,2026-05-16 09:49:32,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 09:48:36,UMANG,good,0.7,Positive,4
+UMANG,great,5,2026-05-16 09:48:18,UMANG,great,0.8,Positive,5
+UMANG,excellent,5,2026-05-16 09:47:56,UMANG,excellent,1.0,Positive,9
+UMANG,good 👍,5,2026-05-16 09:47:25,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 09:46:19,UMANG,good,0.7,Positive,4
+UMANG,good app,5,2026-05-16 09:43:26,UMANG,good app,0.7,Positive,8
+UMANG,not bad,3,2026-05-16 09:42:49,UMANG,not bad,0.3499999999999999,Positive,7
+UMANG,very good,5,2026-05-16 09:42:14,UMANG,very good,0.9099999999999999,Positive,9
+UMANG,Good,5,2026-05-16 09:41:16,UMANG,good,0.7,Positive,4
+UMANG,very good,4,2026-05-16 09:40:49,UMANG,very good,0.9099999999999999,Positive,9
+UMANG,nice,5,2026-05-16 09:40:15,UMANG,nice,0.6,Positive,4
+UMANG,good,2,2026-05-16 09:40:12,UMANG,good,0.7,Positive,4
+UMANG,Nice,4,2026-05-16 09:39:43,UMANG,nice,0.6,Positive,4
+UMANG,nice,5,2026-05-16 09:36:07,UMANG,nice,0.6,Positive,4
+UMANG,good,1,2026-05-16 09:35:13,UMANG,good,0.7,Positive,4
+UMANG,good 👍,5,2026-05-16 09:34:39,UMANG,good,0.7,Positive,4
+UMANG,"All in One, Superb 👍",5,2026-05-16 09:34:19,UMANG,all in one superb,1.0,Positive,17
+UMANG,Very useful and time save. Good experience,5,2026-05-16 09:34:10,UMANG,very useful and time save good experience,0.5449999999999999,Positive,41
+UMANG,so good,5,2026-05-16 09:32:51,UMANG,so good,0.7,Positive,7
+UMANG,very nice,5,2026-05-16 09:32:45,UMANG,very nice,0.78,Positive,9
+UMANG,nice,1,2026-05-16 09:23:56,UMANG,nice,0.6,Positive,4
+UMANG,Best' app,3,2026-05-16 09:23:22,UMANG,best app,1.0,Positive,8
+UMANG,v good 👍,5,2026-05-16 09:21:11,UMANG,v good,0.7,Positive,6
+UMANG,Good,5,2026-05-16 09:21:05,UMANG,good,0.7,Positive,4
+UMANG,nice ☺️,5,2026-05-16 09:20:50,UMANG,nice,0.6,Positive,4
+UMANG,good,1,2026-05-16 09:19:29,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 09:17:35,UMANG,good,0.7,Positive,4
+UMANG,super app,4,2026-05-16 09:17:22,UMANG,super app,0.3333333333333333,Positive,9
+UMANG,good,4,2026-05-16 09:17:16,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 09:14:23,UMANG,good,0.7,Positive,4
+UMANG,best,5,2026-05-16 09:14:20,UMANG,best,1.0,Positive,4
+UMANG,very good,5,2026-05-16 09:14:04,UMANG,very good,0.9099999999999999,Positive,9
+UMANG,good,5,2026-05-16 09:13:52,UMANG,good,0.7,Positive,4
+UMANG,Good,3,2026-05-16 09:13:43,UMANG,good,0.7,Positive,4
+UMANG,good work,5,2026-05-16 09:13:14,UMANG,good work,0.7,Positive,9
+UMANG,good,4,2026-05-16 09:10:39,UMANG,good,0.7,Positive,4
+UMANG,good 😊,4,2026-05-16 09:09:37,UMANG,good,0.7,Positive,4
+UMANG,very nice,5,2026-05-16 09:05:24,UMANG,very nice,0.78,Positive,9
+UMANG,veer Good 😊,5,2026-05-16 09:03:08,UMANG,veer good,0.7,Positive,9
+UMANG,very good,5,2026-05-16 09:02:09,UMANG,very good,0.9099999999999999,Positive,9
+UMANG,Good 👍,5,2026-05-16 09:01:45,UMANG,good,0.7,Positive,4
+UMANG,very useful app,4,2026-05-16 09:01:28,UMANG,very useful app,0.39,Positive,15
+UMANG,good,5,2026-05-16 09:01:25,UMANG,good,0.7,Positive,4
+UMANG,very good experience,3,2026-05-16 08:59:12,UMANG,very good experience,0.9099999999999999,Positive,20
+UMANG,okay,5,2026-05-16 08:59:05,UMANG,okay,0.5,Positive,4
+UMANG,easly to get details,4,2026-05-16 08:57:33,UMANG,easly to get details,0.0,Neutral,20
+UMANG,nic,5,2026-05-16 08:57:30,UMANG,nic,0.0,Neutral,3
+UMANG,good 👍,5,2026-05-16 08:56:49,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 08:54:34,UMANG,good,0.7,Positive,4
+UMANG,Bhadiya he pm,5,2026-05-16 08:53:35,UMANG,bhadiya he pm,0.0,Neutral,13
+UMANG,good,4,2026-05-16 08:51:31,UMANG,good,0.7,Positive,4
+UMANG,thanks bahut achcha hai,3,2026-05-16 08:47:45,UMANG,thanks bahut achcha hai,0.2,Positive,23
+UMANG,good😍🇮🇳🙏,5,2026-05-16 08:45:28,UMANG,good,0.7,Positive,4
+UMANG,good service,5,2026-05-16 08:43:01,UMANG,good service,0.7,Positive,12
+UMANG,nice,5,2026-05-16 08:42:46,UMANG,nice,0.6,Positive,4
+UMANG,good,5,2026-05-16 08:42:07,UMANG,good,0.7,Positive,4
+UMANG,satisfaction,5,2026-05-16 08:41:48,UMANG,satisfaction,0.0,Neutral,12
+UMANG,very helpful this app,5,2026-05-16 08:40:50,UMANG,very helpful this app,0.2,Positive,21
+UMANG,osm,5,2026-05-16 08:39:25,UMANG,osm,0.0,Neutral,3
+UMANG,hello very nice,5,2026-05-16 08:39:01,UMANG,hello very nice,0.78,Positive,15
+UMANG,garibo ke liye sandar kiya hai,5,2026-05-16 08:38:44,UMANG,garibo ke liye sandar kiya hai,0.0,Neutral,30
+UMANG,good,5,2026-05-16 08:36:46,UMANG,good,0.7,Positive,4
+UMANG,good,4,2026-05-16 08:36:42,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 08:35:37,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 08:35:29,UMANG,good,0.7,Positive,4
+UMANG,nice and very helpful,5,2026-05-16 08:34:58,UMANG,nice and very helpful,0.4,Positive,21
+UMANG,good,5,2026-05-16 08:34:31,UMANG,good,0.7,Positive,4
+UMANG,it very good service,5,2026-05-16 08:33:51,UMANG,it very good service,0.9099999999999999,Positive,20
+UMANG,very good,5,2026-05-16 08:33:37,UMANG,very good,0.9099999999999999,Positive,9
+UMANG,good,5,2026-05-16 08:30:15,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 08:26:50,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 08:21:39,UMANG,good,0.7,Positive,4
+UMANG,very nice,5,2026-05-16 08:20:28,UMANG,very nice,0.78,Positive,9
+UMANG,good 👍,5,2026-05-16 08:20:26,UMANG,good,0.7,Positive,4
+UMANG,good,4,2026-05-16 08:18:10,UMANG,good,0.7,Positive,4
+UMANG,Useful App...and user friendly,3,2026-05-16 08:13:21,UMANG,useful appand user friendly,0.3375,Positive,27
+UMANG,Best app,5,2026-05-16 08:10:52,UMANG,best app,1.0,Positive,8
+UMANG,good,4,2026-05-16 08:10:47,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 08:06:12,UMANG,good,0.7,Positive,4
+UMANG,Excellent Excellent,5,2026-05-16 08:05:51,UMANG,excellent excellent,1.0,Positive,19
+UMANG,good,5,2026-05-16 08:01:16,UMANG,good,0.7,Positive,4
+UMANG,veri nice,5,2026-05-16 08:00:07,UMANG,veri nice,0.6,Positive,9
+UMANG,good,5,2026-05-16 07:55:36,UMANG,good,0.7,Positive,4
+UMANG,very good,5,2026-05-16 07:49:47,UMANG,very good,0.9099999999999999,Positive,9
+UMANG,good,5,2026-05-16 07:49:18,UMANG,good,0.7,Positive,4
+UMANG,very good,5,2026-05-16 07:46:31,UMANG,very good,0.9099999999999999,Positive,9
+UMANG,Umang achcha hai,5,2026-05-16 07:46:08,UMANG,umang achcha hai,0.0,Neutral,16
+UMANG,nice app,5,2026-05-16 07:42:18,UMANG,nice app,0.6,Positive,8
+UMANG,Thanks Esic,5,2026-05-16 07:40:58,UMANG,thanks esic,0.2,Positive,11
+UMANG,Nice,4,2026-05-16 07:40:44,UMANG,nice,0.6,Positive,4
+UMANG,super,4,2026-05-16 07:40:22,UMANG,super,0.3333333333333333,Positive,5
+UMANG,good,5,2026-05-16 07:37:48,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 07:32:44,UMANG,good,0.7,Positive,4
+UMANG,like,5,2026-05-16 07:32:30,UMANG,like,0.0,Neutral,4
+UMANG,ok kk,1,2026-05-16 07:29:12,UMANG,ok kk,0.5,Positive,5
+UMANG,good,5,2026-05-16 07:24:39,UMANG,good,0.7,Positive,4
+UMANG,good,4,2026-05-16 07:23:10,UMANG,good,0.7,Positive,4
+UMANG,wow,4,2026-05-16 07:21:34,UMANG,wow,0.1,Neutral,3
+UMANG,good 👍,5,2026-05-16 07:18:09,UMANG,good,0.7,Positive,4
+UMANG,super,5,2026-05-16 07:17:50,UMANG,super,0.3333333333333333,Positive,5
+UMANG,Not updated. still not got right information,2,2026-05-16 07:16:35,UMANG,not updated still not got right information,0.2857142857142857,Positive,43
+UMANG,good,5,2026-05-16 07:15:17,UMANG,good,0.7,Positive,4
+UMANG,good,5,2026-05-16 07:11:38,UMANG,good,0.7,Positive,4

@@ -14,7 +14,7 @@ output_dir = 'data/raw'
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
-def scrape_app_reviews(app_name, app_id, count=500):
+def scrape_app_reviews(app_name, app_id, count=1000):
     print(f"Starting scrape for {app_name}...")
     
     # Scrape reviews
