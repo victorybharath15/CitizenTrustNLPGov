@@ -1,0 +1,16 @@
+App,Barrier_Category,Keyword_Method,Reviews_Matched,Total_Negatives,Pct_of_Negatives
+AarogyaSetu,Login/Auth Issues,Regex keyword matching on Cleaned_Review,186,336,55.4
+AarogyaSetu,App Crashes/Technical,Regex keyword matching on Cleaned_Review,145,336,43.2
+AarogyaSetu,Document Access,Regex keyword matching on Cleaned_Review,2,336,0.6
+AarogyaSetu,Network/Loading Speed,Regex keyword matching on Cleaned_Review,7,336,2.1
+AarogyaSetu,UI/Navigation Issues,Regex keyword matching on Cleaned_Review,4,336,1.2
+DigiLocker,Login/Auth Issues,Regex keyword matching on Cleaned_Review,33,166,19.9
+DigiLocker,App Crashes/Technical,Regex keyword matching on Cleaned_Review,35,166,21.1
+DigiLocker,Document Access,Regex keyword matching on Cleaned_Review,28,166,16.9
+DigiLocker,Network/Loading Speed,Regex keyword matching on Cleaned_Review,9,166,5.4
+DigiLocker,UI/Navigation Issues,Regex keyword matching on Cleaned_Review,3,166,1.8
+UMANG,Login/Auth Issues,Regex keyword matching on Cleaned_Review,1,31,3.2
+UMANG,App Crashes/Technical,Regex keyword matching on Cleaned_Review,3,31,9.7
+UMANG,Document Access,Regex keyword matching on Cleaned_Review,0,31,0.0
+UMANG,Network/Loading Speed,Regex keyword matching on Cleaned_Review,2,31,6.5
+UMANG,UI/Navigation Issues,Regex keyword matching on Cleaned_Review,1,31,3.2
